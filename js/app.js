@@ -6,7 +6,9 @@ var app = angular.module("myApp", [
     "checkout",
     "brands",
     "uniformBoy",
-    "uniformGirl"
+    "uniformGirl",
+    "contact",
+    "aboutus"
 
 ])
 
@@ -20,6 +22,8 @@ app.config(function($routeProvider){
     .when("/brands", {templateUrl : "brands.html", controller:"brands"})
     .when("/uniformBoy", {templateUrl : "uniformBoy.html", controller:"uniformBoy"})
     .when("/uniformGirl", {templateUrl : "uniformGirl.html", controller:"uniformGirl"})
+    .when("/contact", {templateUrl : "contact.html", controller:"contact"})
+    .when("/aboutus", {templateUrl : "aboutus.html", controller:"aboutus"})
 })
 
 
@@ -55,5 +59,15 @@ angular.module("uniformBoy", [])
 
 angular.module("uniformGirl", [])
     .controller("uniformGirl", ["$scope", "$http", function($scope, $html){
+                
+    }])
+
+angular.module("contact", [])
+    .controller("contact", ["$scope", "$http", function($scope, $html){
+                
+    }])
+
+angular.module("aboutus", [])
+    .controller("aboutus", ["$scope", "$http", function($scope, $html){
                 
     }])
