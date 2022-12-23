@@ -26,6 +26,7 @@ app.config(function($routeProvider){
     .when("/contact", {templateUrl : "contact.html", controller:"contact"})
     .when("/aboutus", {templateUrl : "aboutus.html", controller:"aboutus"})
     .when("/Accessories", {templateUrl : "Accessories.html", controller:"Accessories"})
+    .when("/feedback", {templateUrl : "feedback.html", controller:"feedback"})
 })
 
 
@@ -76,5 +77,10 @@ angular.module("aboutus", [])
 
 angular.module("Accessories", [])
     .controller("Accessories", ["$scope", "$http", function($scope, $html){
+                
+    }])
+
+angular.module("feedback", [])
+    .controller("feedback", ["$scope", "$http", function($scope, $html){
                 
     }])

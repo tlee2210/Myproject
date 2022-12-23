@@ -59,11 +59,17 @@
     Basic Styles
 ***************************************/
 /**
+
+
  * Reset Styels
  */
 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+}
+
+.spackbot{
+  margin-bottom: 40px;
 }
 
 article,
