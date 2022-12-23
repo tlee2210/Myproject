@@ -9,7 +9,8 @@ var app = angular.module("myApp", [
     "uniformGirl",
     "contact",
     "aboutus",
-    "Accessories"
+    "Accessories",
+    "feedback"
 
 ])
 
