@@ -32,56 +32,64 @@ app.config(function($routeProvider){
 
 
 angular.module("homeCtrl", [])
-    .controller("homeCtrl", ["$scope", "$http", function($scope, $html){
+    .controller("homeCtrl", ["$scope", "$http", function($scope, $http){
+        $http.get("json/home.json")
+        .then(function(reponse){
+            $scope.Homelist = reponse.data;
+            console.log(reponse.data);
+        },
+        function(err){
+            $scope.Homelist = "json failed";
+        })
         
     }])
 
 angular.module("myAccount", [])
-    .controller("myAccount", ["$scope", "$http", function($scope, $html){
+    .controller("myAccount", ["$scope", "$http", function($scope, $http){
         
     }])
 
 angular.module("cart", [])
-    .controller("cart", ["$scope", "$http", function($scope, $html){
+    .controller("cart", ["$scope", "$http", function($scope, $http){
             
     }])
 
 angular.module("checkout", [])
-    .controller("checkout", ["$scope", "$http", function($scope, $html){
+    .controller("checkout", ["$scope", "$http", function($scope, $http){
                 
     }])
 
 angular.module("brands", [])
-    .controller("brands", ["$scope", "$http", function($scope, $html){
+    .controller("brands", ["$scope", "$http", function($scope, $http){
                 
     }])
 
 angular.module("uniformBoy", [])
-    .controller("uniformBoy", ["$scope", "$http", function($scope, $html){
+    .controller("uniformBoy", ["$scope", "$http", function($scope, $http){
                 
     }])
 
 angular.module("uniformGirl", [])
-    .controller("uniformGirl", ["$scope", "$http", function($scope, $html){
+    .controller("uniformGirl", ["$scope", "$http", function($scope, $http){
                 
     }])
 
 angular.module("contact", [])
-    .controller("contact", ["$scope", "$http", function($scope, $html){
+    .controller("contact", ["$scope", "$http", function($scope, $http){
                 
     }])
 
 angular.module("aboutus", [])
-    .controller("aboutus", ["$scope", "$http", function($scope, $html){
+    .controller("aboutus", ["$scope", "$http", function($scope, $http){
                 
     }])
 
 angular.module("Accessories", [])
-    .controller("Accessories", ["$scope", "$http", function($scope, $html){
+    .controller("Accessories", ["$scope", "$http", function($scope, $http){
                 
     }])
 
 angular.module("feedback", [])
-    .controller("feedback", ["$scope", "$http", function($scope, $html){
+    .controller("feedback", ["$scope", "$http", function($scope, $http){
                 
     }])
