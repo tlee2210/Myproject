@@ -51,17 +51,11 @@
           <input type="radio" name="radio-btn" id="radio4">
           <!--radio buttons end-->
           <!--slide images start-->
-          <div class="slide first">
-            <img src="img/product/large-size/product-image-1.jpg" alt="">
+          <div class="slide first" ng-repeat="x in Homelist | filter:'liveshow-main':true">
+            <img ng-src="{{x.img}}" alt="">
           </div>
-          <div class="slide">
-            <img src="img/product/large-size/product-image-1.jpg" alt="">
-          </div>
-          <div class="slide">
-            <img src="img/product/large-size/product-image-1.jpg" alt="">
-          </div>
-          <div class="slide">
-            <img src="img/product/large-size/product-image-1.jpg" alt="">
+          <div class="slide" ng-repeat="x in Homelist | filter:'liveshow':true">
+            <img ng-src="{{x.img}}" alt="">
           </div>
           <!--slide images end-->
           <!--automatic navigation start-->
@@ -110,13 +104,13 @@
                     <div class="row justify-content-center products-wrapper">
 
                         <!-- Single Product -->
-                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in Homelist">
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in Homelist | filter:'boy':true">
                             <div class="product-item">
 
                                 <div class="product-item-images">
                                     <a href="#"
                                         class="product-item-image-inner">
-                                        <img src="img/product/thumbnail-size/{{x.Img}}"
+                                        <img src="img/product/small-size/{{x.Img.Img}}"
                                             alt="product image">
                                     </a>
                                     <a href="/#!cart" class="add-to-cart-button">
@@ -126,7 +120,7 @@
 
                                 <div class="product-item-content">
                                     <div class="product-item-content-left">
-                                        <h5><a href="product-details-right-sidebar.html">{{x.name}}</a></h5>
+                                        <h5><a href="product-details-right-sidebar.html">{{x.Img.Name}}</a></h5>
                                         <div class="ratting-box">
                                             <span><i class="fa fa-star"></i></span>
                                             <span><i class="fa fa-star"></i></span>
@@ -136,7 +130,7 @@
                                         </div>
                                         <div class="price-box">
                                             <span class="pricebox-price">
-                                                <span class="currency-symbol">£</span>80.00
+                                                <span class="currency-symbol">£</span>{{x.Img.Price}}
                                             </span>
                                         </div>
                                     </div>
@@ -165,16 +159,13 @@
                     <div class="row justify-content-center products-wrapper">
 
                         <!-- Single Product -->
-                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-12">
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-12"
+                        ng-repeat="x in Homelist | filter:'Girl':true">
                             <div class="product-item">
-
                                 <div class="product-item-images">
-                                    <a href="product-details-right-sidebar.html"
+                                    <a href="#"
                                         class="product-item-image-inner">
-                                        <img src="img/product/thumbnail-size/product-image-9.jpg"
-                                            alt="product image">
-                                        <img src="img/product/thumbnail-size/product-image-10.jpg"
-                                            alt="product image">
+                                        <img src="img/product/small-size/{{x.Img.Img}}" alt="product image">
                                     </a>
                                     <a href="cart.html" class="add-to-cart-button">
                                         <span>ADD TO CART</span>
@@ -183,8 +174,7 @@
 
                                 <div class="product-item-content">
                                     <div class="product-item-content-left">
-                                        <h5><a href="product-details-right-sidebar.html">Pellentesque
-                                                posuere</a></h5>
+                                        <h5><a href="#">{{x.Img.Name}}</a></h5>
                                         <div class="ratting-box">
                                             <span><i class="fa fa-star"></i></span>
                                             <span><i class="fa fa-star"></i></span>
@@ -194,7 +184,7 @@
                                         </div>
                                         <div class="price-box">
                                             <span class="pricebox-price">
-                                                <span class="currency-symbol">£</span>80.00
+                                                <span class="currency-symbol">£</span>{{x.Img.Price}}
                                             </span>
                                         </div>
                                     </div>

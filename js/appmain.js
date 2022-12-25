@@ -31,7 +31,7 @@ app.config(function($routeProvider){
 })
 
 
-angular.module("homeCtrl", [])
+angular.module("homeCtrl",[])
     .controller("homeCtrl", ["$scope", "$http", function($scope, $http){
         $http.get("json/home.json")
         .then(function(reponse){
@@ -61,7 +61,6 @@ angular.module("checkout", [])
 
 angular.module("brands", [])
     .controller("brands", ["$scope", "$http", function($scope, $http){
-                
     }])
 
 angular.module("uniformBoy", [])

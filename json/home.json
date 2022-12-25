@@ -1,86 +1,331 @@
 [
-    {
-        "Id":1,
-        "Type":"",
-        "Name":"",
-        "Img": "product-image-5.jpg"
 
+    {
+        "Type": "liveshow-main",
+        "img": "img/product/large-size/product-image-1.jpg"
     },
     {
-        "Id":1,
-        "Type":"",
-        "Name":"",
-        "Img": "product-image-5.jpg"
-
+        "Type": "liveshow",
+        "img": "img/product/large-size/product-image-1.jpg"
     },
     {
-        "Id":1,
-        "Type":"",
-        "Name":"",
-        "Img": "product-image-5.jpg"
-
+        "Type": "liveshow",
+        "img":"img/product/large-size/product-image-1.jpg"
     },
     {
-        "Id":1,
-        "Type":"",
-        "Name":"",
-        "Img": "product-image-5.jpg"
-
+        "Type": "liveshow",
+        "img": "img/product/large-size/product-image-1.jpg"
     },
     {
-        "Id":1,
-        "Type":"",
-        "Name":"",
-        "Img": "product-image-5.jpg"
-
+        "Img": {
+            "ID": 4,
+            "Brand": "Akoa Sportswear",
+            "Name":"Akoa Sportswear",
+            "Img":"product-image-2.jpg",
+            "Type": "",
+            "Gender": "boy",
+            "Color": "",
+            "Price": 188,
+            "Detail": ""
+        }
+    },
+     {
+        "Img": {
+            "ID": 4,
+            "Brand": "Akoa Sportswear",
+            "Name":"Akoa Sportswear",
+            "Img":"product-image-2.jpg",
+            "Type": "",
+            "Gender": "boy",
+            "Color": "",
+            "Price": 188,
+            "Detail": ""
+        }
+    },
+     {
+        "Img": {
+            "ID": 4,
+            "Brand": "Akoa Sportswear",
+            "Name":"Akoa Sportswear",
+            "Img":"product-image-2.jpg",
+            "Type": "",
+            "Gender": "boy",
+            "Color": "",
+            "Price": 188,
+            "Detail": ""
+        }
+    },
+     {
+        "Img": {
+            "ID": 4,
+            "Brand": "Akoa Sportswear",
+            "Name":"Akoa Sportswear",
+            "Img":"product-image-2.jpg",
+            "Type": "",
+            "Gender": "boy",
+            "Color": "",
+            "Price": 188,
+            "Detail": ""
+        }
+    },
+     {
+        "Img": {
+            "ID": 4,
+            "Brand": "Akoa Sportswear",
+            "Name":"Akoa Sportswear",
+            "Img":"product-image-2.jpg",
+            "Type": "",
+            "Gender": "boy",
+            "Color": "",
+            "Price": 188,
+            "Detail": ""
+        }
+    },
+     {
+        "Img": {
+            "ID": 4,
+            "Brand": "Akoa Sportswear",
+            "Name":"Akoa Sportswear",
+            "Img":"product-image-2.jpg",
+            "Type": "",
+            "Gender": "boy",
+            "Color": "",
+            "Price": 188,
+            "Detail": ""
+        }
+    },
+     {
+        "Img": {
+            "ID": 4,
+            "Brand": "Akoa Sportswear",
+            "Name":"Akoa Sportswear",
+            "Img":"product-image-2.jpg",
+            "Type": "",
+            "Gender": "boy",
+            "Color": "",
+            "Price": 188,
+            "Detail": ""
+        }
+    },
+     {
+        "Img": {
+            "ID": 4,
+            "Brand": "Akoa Sportswear",
+            "Name":"Akoa Sportswear",
+            "Img":"product-image-2.jpg",
+            "Type": "",
+            "Gender": "boy",
+            "Color": "",
+            "Price": 188,
+            "Detail": ""
+        }
+    },
+     {
+        "Img": {
+            "ID": 4,
+            "Brand": "Akoa Sportswear",
+            "Name":"Akoa Sportswear",
+            "Img":"product-image-2.jpg",
+            "Type": "",
+            "Gender": "boy",
+            "Color": "",
+            "Price": 188,
+            "Detail": ""
+        }
+    },
+     {
+        "Img": {
+            "ID": 4,
+            "Brand": "Akoa Sportswear",
+            "Name":"Akoa Sportswear",
+            "Img":"product-image-2.jpg",
+            "Type": "",
+            "Gender": "boy",
+            "Color": "",
+            "Price": 188,
+            "Detail": ""
+        }
+    },
+     {
+        "Img": {
+            "ID": 4,
+            "Brand": "Akoa Sportswear",
+            "Name":"Akoa Sportswear",
+            "Img":"product-image-2.jpg",
+            "Type": "",
+            "Gender": "boy",
+            "Color": "",
+            "Price": 188,
+            "Detail": ""
+        }
+    },
+     {
+        "Img": {
+            "ID": 4,
+            "Brand": "Akoa Sportswear",
+            "Name":"Akoa Sportswear",
+            "Img":"product-image-2.jpg",
+            "Type": "",
+            "Gender": "boy",
+            "Color": "",
+            "Price": 188,
+            "Detail": ""
+        }
+    },
+   {
+        "Img": {
+            "ID": 4,
+            "Brand":"Akoa Sportswear",
+            "Name":"BRIGHT SKY",
+            "Img":"product-image-1.jpg",
+            "Type": "",
+            "Gender": "Girl",
+            "Color": "",
+            "Price": 200,
+            "Detail": ""
+        }
+    },
+   {
+        "Img": {
+            "ID": 4,
+            "Brand":"Akoa Sportswear",
+            "Name":"BRIGHT SKY",
+            "Img":"product-image-1.jpg",
+            "Type": "",
+            "Gender": "Girl",
+            "Color": "",
+            "Price": 200,
+            "Detail": ""
+        }
+    },
+   {
+        "Img": {
+            "ID": 4,
+            "Brand":"Akoa Sportswear",
+            "Name":"BRIGHT SKY",
+            "Img":"product-image-1.jpg",
+            "Type": "",
+            "Gender": "Girl",
+            "Color": "",
+            "Price": 200,
+            "Detail": ""
+        }
+    },
+   {
+        "Img": {
+            "ID": 4,
+            "Brand":"Akoa Sportswear",
+            "Name":"BRIGHT SKY",
+            "Img":"product-image-1.jpg",
+            "Type": "",
+            "Gender": "Girl",
+            "Color": "",
+            "Price": 200,
+            "Detail": ""
+        }
+    },
+   {
+        "Img": {
+            "ID": 4,
+            "Brand":"Akoa Sportswear",
+            "Name":"BRIGHT SKY",
+            "Img":"product-image-1.jpg",
+            "Type": "",
+            "Gender": "Girl",
+            "Color": "",
+            "Price": 200,
+            "Detail": ""
+        }
+    },
+   {
+        "Img": {
+            "ID": 4,
+            "Brand":"Akoa Sportswear",
+            "Name":"BRIGHT SKY",
+            "Img":"product-image-1.jpg",
+            "Type": "",
+            "Gender": "Girl",
+            "Color": "",
+            "Price": 200,
+            "Detail": ""
+        }
+    },
+   {
+        "Img": {
+            "ID": 4,
+            "Brand":"Akoa Sportswear",
+            "Name":"BRIGHT SKY",
+            "Img":"product-image-1.jpg",
+            "Type": "",
+            "Gender": "Girl",
+            "Color": "",
+            "Price": 200,
+            "Detail": ""
+        }
+    },
+   {
+        "Img": {
+            "ID": 4,
+            "Brand":"Akoa Sportswear",
+            "Name":"BRIGHT SKY",
+            "Img":"product-image-1.jpg",
+            "Type": "",
+            "Gender": "Girl",
+            "Color": "",
+            "Price": 200,
+            "Detail": ""
+        }
+    },
+   {
+        "Img": {
+            "ID": 4,
+            "Brand":"Akoa Sportswear",
+            "Name":"BRIGHT SKY",
+            "Img":"product-image-1.jpg",
+            "Type": "",
+            "Gender": "Girl",
+            "Color": "",
+            "Price": 200,
+            "Detail": ""
+        }
+    },
+   {
+        "Img": {
+            "ID": 4,
+            "Brand":"Akoa Sportswear",
+            "Name":"BRIGHT SKY",
+            "Img":"product-image-1.jpg",
+            "Type": "",
+            "Gender": "Girl",
+            "Color": "",
+            "Price": 200,
+            "Detail": ""
+        }
+    },
+   {
+        "Img": {
+            "ID": 4,
+            "Brand":"Akoa Sportswear",
+            "Name":"BRIGHT SKY",
+            "Img":"product-image-1.jpg",
+            "Type": "",
+            "Gender": "Girl",
+            "Color": "",
+            "Price": 200,
+            "Detail": ""
+        }
     },
     {
-        "Id":1,
-        "Type":"",
-        "Name":"",
-        "Img": "product-image-5.jpg"
-
-    },
-    {
-        "Id":1,
-        "Type":"",
-        "Name":"",
-        "Img": "product-image-5.jpg"
-
-    },
-    {
-        "Id":1,
-        "Type":"",
-        "Name":"",
-        "Img": "product-image-5.jpg"
-
-    },
-    {
-        "Id":1,
-        "Type":"",
-        "Name":"",
-        "Img": "product-image-5.jpg"
-
-    },
-    {
-        "Id":1,
-        "Type":"",
-        "Name":"",
-        "Img": "product-image-5.jpg"
-
-    },
-    {
-        "Id":1,
-        "Type":"",
-        "Name":"",
-        "Img": "product-image-5.jpg"
-
-    },
-    {
-        "Id":1,
-        "Type":"",
-        "Name":"",
-        "Img": "product-image-5.jpg"
-
+        "Img": {
+            "ID": 4,
+            "Brand":"Akoa Sportswear",
+            "Name":"BRIGHT SKY",
+            "Img":"product-image-1.jpg",
+            "Type": "",
+            "Gender": "Girl",
+            "Color": "",
+            "Price": 200,
+            "Detail": ""
+        }
     }
 ]
