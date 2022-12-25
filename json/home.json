@@ -18,15 +18,15 @@
     },
     {
         "Img": {
-            "ID": 4,
-            "Brand": "Akoa Sportswear",
-            "Name":"Akoa Sportswear",
+            "ID": 2,
+            "Brand": "",
+            "Name":"TRUTEX POLO SHIRT",
             "Img":"product-image-2.jpg",
             "Type": "",
             "Gender": "boy",
-            "Color": "",
+            "Color": "BRIGHT RED",
             "Price": 188,
-            "Detail": ""
+            "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
         }
     },
      {
