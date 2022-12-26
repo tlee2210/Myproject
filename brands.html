@@ -35,13 +35,6 @@
                                     </select>
                                 </div>
 
-                                <ul class="shop-toolbar-pagination">
-                                    <li class="active"><a href="shop.html">1</a></li>
-                                    <li><a href="shop.html">2</a></li>
-                                    <li><a href="shop.html">3</a></li>
-                                    <li><a href="shop.html">→</a></li>
-                                </ul>
-
                             </div>
                             <!--// Shop Page Toolbars -->
 
@@ -90,27 +83,10 @@
                                 <!--// Single Product -->
 
                             </div>
-                            <div class="shop-page-toolbars">
-
-                                <div class="shop-toolbar-items-count">Showing 1–9 of 20 results</div>
-
-                                <div class="shop-toolbar-sortby">
-                                    <span>Sort By</span>
-                                    <select name="shop-toolbar-sortby">
-                                        <option value="0">Default Sorting</option>
-                                        <option value="1">Sort By Popularity</option>
-                                        <option value="2">Sort By Price</option>
-                                        <option value="3">Sort By Recent</option>
-                                    </select>
-                                </div>
-
-                                <ul class="shop-toolbar-pagination">
-                                    <li class="active"><a href="shop.html">1</a></li>
-                                    <li><a href="shop.html">2</a></li>
-                                    <li><a href="shop.html">3</a></li>
-                                    <li><a href="shop.html">→</a></li>
-                                </ul>
-
+                            <div  class="shop-page-toolbars right-pagination ">
+                                <pagination  class="pagination" items-per-page="pageSize" ng-model="currentPage" total-items="dataMain.length">
+                                </pagination>
+                                
                             </div>
                         </div>
                         <!--// Shop Page Products -->
