@@ -22,13 +22,14 @@
             "Id":"",
             "Brand":""
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
+        "Name":"ECO POLO SHIRT",
+        "Img":"img/poloshirt/bluesky.jpg",
         "Type": "",
         "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
+        "Color": "BRIGHT SKY",
+        "Price": 11,
+        "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
+        "Details":"60% Cotton, 40% Polyester"
     
     },
     {
@@ -37,13 +38,14 @@
             "Id":"",
             "Brand":""
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-2.jpg",
+        "Name":"ECO POLO SHIRT",
+        "Img":"img/poloshirt/amber.jpg",
         "Type": "",
         "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
+        "Color": "AMBER",
+        "Price": 11,
+        "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
+        "Details":"60% Cotton, 40% Polyester"
     
     },
      {
@@ -52,13 +54,15 @@
             "Id":"",
             "Brand":""
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-2.jpg",
+        "Name":"ECO POLO SHIRT",
+        "Img":"img/poloshirt/black.jpg",
         "Type": "",
         "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
+        "Color": "BLACK",
+        "Price": 11,
+        "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
+        "Details":"60% Cotton, 40% Polyester"
+
     
     },
      {
@@ -67,13 +71,14 @@
             "Id":"",
             "Brand":""
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-2.jpg",
+        "Name":"ECO POLO SHIRT",
+        "Img":"img/poloshirt/bottle.jpg",
         "Type": "",
         "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
+        "Color": "BOTTLE GREEN",
+        "Price": 11,
+        "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
+        "Details":"60% Cotton, 40% Polyester"
     
     },
      {
@@ -82,13 +87,14 @@
             "Id":"",
             "Brand":""
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-2.jpg",
+        "Name":"ECO POLO SHIRT",
+        "Img":"img/poloshirt/emerald.jpg",
         "Type": "",
         "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
+        "Color": "EMERALD",
+        "Price": 11,
+        "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
+        "Details":"60% Cotton, 40% Polyester"
     
     },
      {
@@ -97,13 +103,14 @@
             "Id":"",
             "Brand":""
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-2.jpg",
+        "Name":"ECO POLO SHIRT",
+        "Img":"img/poloshirt/gold.jpg",
         "Type": "",
         "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
+        "Color": "GOLD",
+        "Price": 11,
+        "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
+        "Details":"60% Cotton, 40% Polyester"
     
     },
      {
@@ -112,13 +119,29 @@
             "Id":"",
             "Brand":""
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-2.jpg",
+        "Name":"ECO POLO SHIRT",
+        "Img":"img/poloshirt/jade.jpg",
         "Type": "",
         "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
+        "Color": "JADE",
+        "Price": 11,
+        "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
+        "Details":"60% Cotton, 40% Polyester"
+    },
+     {
+        "ID": 2,
+        "Brands": {
+            "Id":"",
+            "Brand":""
+        },
+        "Name":"ECO POLO SHIRT",
+        "Img":"img/poloshirt/maroon.jpg",
+        "Type": "",
+        "Gender": "boy",
+        "Color": "MAROON",
+        "Price": 11,
+        "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
+        "Details":"60% Cotton, 40% Polyester"
     
     },
      {
@@ -127,13 +150,14 @@
             "Id":"",
             "Brand":""
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-2.jpg",
+        "Name":"ECO POLO SHIRT",
+        "Img":"img/poloshirt/navy.jpg",
         "Type": "",
         "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
+        "Color": "NAVY",
+        "Price": 11,
+        "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
+        "Details":"60% Cotton, 40% Polyester"
     
     },
      {
@@ -142,13 +166,14 @@
             "Id":"",
             "Brand":""
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-2.jpg",
+        "Name":"ECO POLO SHIRT",
+        "Img":"img/poloshirt/purple.jpg",
         "Type": "",
         "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
+        "Color": "PURPLE",
+        "Price": 11,
+        "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
+        "Details":"60% Cotton, 40% Polyester"
     
     },
      {
@@ -157,13 +182,14 @@
             "Id":"",
             "Brand":""
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-2.jpg",
+        "Name":"ECO POLO SHIRT",
+        "Img":"img/poloshirt/red.jpg",
         "Type": "",
         "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
+        "Color": "RED",
+        "Price": 11,
+        "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
+        "Details":"60% Cotton, 40% Polyester"
     
     },
      {
@@ -172,28 +198,14 @@
             "Id":"",
             "Brand":""
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-2.jpg",
+        "Name":"ECO POLO SHIRT",
+        "Img":"img/poloshirt/royal.jpg",
         "Type": "",
         "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
-    },
-     {
-        "ID": 2,
-        "Brands": {
-            "Id":"",
-            "Brand":""
-        },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-2.jpg",
-        "Type": "",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
+        "Color": "ROYAL",
+        "Price": 11,
+        "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
+        "Details":"60% Cotton, 40% Polyester"
     
     },
     {
