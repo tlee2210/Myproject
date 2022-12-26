@@ -49,12 +49,12 @@
                             <div class="row justify-content-center shop-page-products products-wrapper">
 
                                 <!-- Single Product -->
-                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in dataMain ">
+                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in dataMain | paginate:currentPage:pageSize">
                                     <div class="product-item">
 
                                         <div class="product-item-images">
-                                            <a class="product-item-image-inner">
-                                                <img ng-src="{{x.Img}}"alt="product image">
+                                            <a>
+                                                <img ng-src="{{x.Img}}" alt="product image">
                                             </a>
                                             <a href="cart.html" class="add-to-cart-button">
                                                 <span>ADD TO CART</span>
@@ -63,7 +63,7 @@
                                         
                                         <div class="product-item-content">
                                             <div class="product-item-content-left">
-                                                <h5><a href="">{{x.Name}}</a></h5>
+                                                <h5><a href="product-details-right-sidebar.html">{{x.Name}}</a></h5>
                                                 <div class="ratting-box">
                                                     <span class="active"><i class="fa fa-star"></i></span>
                                                     <span class="active"><i class="fa fa-star"></i></span>
@@ -90,10 +90,30 @@
                                 <!--// Single Product -->
 
                             </div>
+                            <div class="shop-page-toolbars">
+
+                                <div class="shop-toolbar-items-count">Showing 1–9 of 20 results</div>
+
+                                <div class="shop-toolbar-sortby">
+                                    <span>Sort By</span>
+                                    <select name="shop-toolbar-sortby">
+                                        <option value="0">Default Sorting</option>
+                                        <option value="1">Sort By Popularity</option>
+                                        <option value="2">Sort By Price</option>
+                                        <option value="3">Sort By Recent</option>
+                                    </select>
+                                </div>
+
+                                <ul class="shop-toolbar-pagination">
+                                    <li class="active"><a href="shop.html">1</a></li>
+                                    <li><a href="shop.html">2</a></li>
+                                    <li><a href="shop.html">3</a></li>
+                                    <li><a href="shop.html">→</a></li>
+                                </ul>
+
+                            </div>
                         </div>
                         <!--// Shop Page Products -->
-
-
 
                         <!-- Widgets -->
                         <div class="col-lg-3 order-2 order-lg-1">

@@ -10,7 +10,9 @@ var app = angular.module("myApp", [
     "contact",
     "aboutus",
     "Accessories",
-    "feedback"
+    "feedback",
+    "ui.bootstrap",
+    "paginate-filter"
 
 ])
 
@@ -70,6 +72,9 @@ angular.module("brands", [])
             $scope.dataMain = "json failed";
         })
 
+        $scope.currentPage = 1;
+        $scope.pageSize=6;
+
     }])
 
 angular.module("uniformBoy", [])
@@ -101,3 +106,14 @@ angular.module("feedback", [])
     .controller("feedback", ["$scope", "$http", function($scope, $http){
                 
     }])
+
+angular.module("paginate-filter",[]).filter("paginate",function(){
+        return function(arr,currentPage,pageSize){
+            try{
+                return arr.slice((currentPage-1)*pageSize, currentPage*pageSize);
+    
+            }catch(err){
+                return arr;
+            }
+        }
+    })
