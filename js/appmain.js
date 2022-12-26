@@ -61,6 +61,14 @@ angular.module("checkout", [])
 
 angular.module("brands", [])
     .controller("brands", ["$scope", "$http", function($scope, $http){
+        $http.get("json/dataMain.json")
+        .then(function(reponse){
+            $scope.dataMain = reponse.data;
+            console.log(reponse.data);
+        },
+        function(err){
+            $scope.dataMain = "json failed";
+        })
     }])
 
 angular.module("uniformBoy", [])
