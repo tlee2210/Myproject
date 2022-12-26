@@ -53,8 +53,8 @@
                                     <div class="product-item">
 
                                         <div class="product-item-images">
-                                            <a href="product-details-right-sidebar.html" class="product-item-image-inner">
-                                                <img src="img/product/thumbnail-size/product-image-3.jpg" alt="product image">
+                                            <a class="product-item-image-inner">
+                                                <img ng-src="{{x.Img}}"alt="product image">
                                             </a>
                                             <a href="cart.html" class="add-to-cart-button">
                                                 <span>ADD TO CART</span>
@@ -63,7 +63,7 @@
                                         
                                         <div class="product-item-content">
                                             <div class="product-item-content-left">
-                                                <h5><a href="product-details-right-sidebar.html">Vestibulum suscipit</a></h5>
+                                                <h5><a href="">{{x.Name}}</a></h5>
                                                 <div class="ratting-box">
                                                     <span class="active"><i class="fa fa-star"></i></span>
                                                     <span class="active"><i class="fa fa-star"></i></span>
@@ -72,7 +72,7 @@
                                                     <span><i class="fa fa-star"></i></span>
                                                 </div>
                                                 <div class="price-box">
-                                                    <span class="pricebox-price">£80.00</span>
+                                                    <span class="pricebox-price">£{{x.Price}}</span>
                                                 </div>
                                             </div>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
