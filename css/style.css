@@ -63,9 +63,47 @@
 
  * Reset Styels
  */
+ .shop_toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #ebebeb;
+  padding: 12px 10px;
+  margin: 0 0 30px;
+}
+@media only screen and (max-width: 767px) {
+  .shop_toolbar {
+    flex-direction: column;
+    padding: 12px 10px 0px;
+  }
+}
+.shop_toolbar.t_bottom {
+  justify-content: center;
+  margin-bottom: 0;
+}
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .shop_toolbar.t_bottom {
+    margin-bottom: 59px;
+    margin-top: 0;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .shop_toolbar.t_bottom {
+    padding: 15px 10px 15px;
+    margin-top: 23px;
+    margin-bottom: 50px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .shop_toolbar.t_bottom .pagination {
+    margin-top: 0;
+  }
+}
+.shop_toolbar.t_bottom {
+  margin-bottom: 0;
+}
 
-
- .right-pagination{
+.right-pagination{
   float: right;
  }
 * {
