@@ -5,13 +5,10 @@ var app = angular.module("myApp", [
     "cart",
     "checkout",
     "brands",
-    "uniformBoy",
-    "uniformGirl",
     "contact",
     "aboutus",
     "Accessories",
-    "feedback"
-
+    "feedback",
 ])
 
 
@@ -69,16 +66,6 @@ angular.module("brands", [])
         function(err){
             $scope.dataMain = "json failed";
         })
-    }])
-
-angular.module("uniformBoy", [])
-    .controller("uniformBoy", ["$scope", "$http", function($scope, $http){
-                
-    }])
-
-angular.module("uniformGirl", [])
-    .controller("uniformGirl", ["$scope", "$http", function($scope, $http){
-                
     }])
 
 angular.module("contact", [])
