@@ -4,15 +4,14 @@ var app = angular.module("myApp", [
     "myAccount",
     "cart",
     "checkout",
-    "brands",
-    "uniformBoy",
-    "uniformGirl",
+    "productdetails",
     "contact",
     "aboutus",
     "Accessories",
     "feedback",
     "ui.bootstrap",
-    "paginate-filter"
+    "paginate-filter",
+    "movie"
 
 ])
 
@@ -23,13 +22,12 @@ app.config(function($routeProvider){
     .when("/myAccount", {templateUrl : "myAccount.html", controller:"myAccount"})
     .when("/cart", {templateUrl : "cart.html", controller:"cart"})
     .when("/checkout", {templateUrl : "checkout.html", controller:"checkout"})
-    .when("/brands", {templateUrl : "brands.html", controller:"brands"})
-    .when("/uniformBoy", {templateUrl : "uniformBoy.html", controller:"uniformBoy"})
-    .when("/uniformGirl", {templateUrl : "uniformGirl.html", controller:"uniformGirl"})
+    .when("/productdetails", {templateUrl : "productdetails.html", controller:"productdetails"})
     .when("/contact", {templateUrl : "contact.html", controller:"contact"})
     .when("/aboutus", {templateUrl : "aboutus.html", controller:"aboutus"})
     .when("/Accessories", {templateUrl : "Accessories.html", controller:"Accessories"})
     .when("/feedback", {templateUrl : "feedback.html", controller:"feedback"})
+    .when("/movie/:Id", {templateUrl : "movie.html", controller:"movie"})
 })
 
 
@@ -61,8 +59,8 @@ angular.module("checkout", [])
                 
     }])
 
-angular.module("brands", [])
-    .controller("brands", ["$scope", "$http", function($scope, $http){
+angular.module("productdetails", [])
+    .controller("productdetails", ["$scope", "$http", function($scope, $http){
         $http.get("json/dataMain.json")
         .then(function(reponse){
             $scope.dataMain = reponse.data;
@@ -75,17 +73,7 @@ angular.module("brands", [])
         $scope.currentPage = 1;
         $scope.pageSize=6;
 
-    }])
-
-angular.module("uniformBoy", [])
-    .controller("uniformBoy", ["$scope", "$http", function($scope, $http){
-                
-    }])
-
-angular.module("uniformGirl", [])
-    .controller("uniformGirl", ["$scope", "$http", function($scope, $http){
-                
-    }])
+    }]) 
 
 angular.module("contact", [])
     .controller("contact", ["$scope", "$http", function($scope, $http){
@@ -107,7 +95,23 @@ angular.module("feedback", [])
                 
     }])
 
-angular.module("paginate-filter",[]).filter("paginate",function(){
+angular.module("movie", [])
+    .controller("movie", ["$scope","$filter", "$http","$routeParams", function($scope, $filter, $http, $routeParams){
+
+        $scope.movieId = $routeParams.Id
+
+        $http.get("json/home.json")
+        .then(function(reponse){
+            var data = reponse.data;
+            $scope.movie = $filter("filter")(data, {Id: parseInt($scope.movieId)}, true)[0];
+            console.log($scope.movie)
+        })
+        
+                
+    }])
+
+angular.module("paginate-filter",[])
+    .filter("paginate",function(){
         return function(arr,currentPage,pageSize){
             try{
                 return arr.slice((currentPage-1)*pageSize, currentPage*pageSize);

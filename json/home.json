@@ -17,7 +17,7 @@
         "img": "img/product/large-size/product-image-1.jpg"
     },
     {
-        "ID": 2,
+        "Id": 1,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -33,7 +33,7 @@
     
     },
     {
-        "ID": 2,
+        "Id": 2,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -48,8 +48,8 @@
         "Details":"60% Cotton, 40% Polyester"
     
     },
-     {
-        "ID": 2,
+    {
+        "Id": 3,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -65,8 +65,8 @@
 
     
     },
-     {
-        "ID": 2,
+    {
+        "Id": 3,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -82,7 +82,7 @@
     
     },
      {
-        "ID": 2,
+        "Id": 4,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -98,7 +98,7 @@
     
     },
      {
-        "ID": 2,
+        "Id": 5,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -113,8 +113,8 @@
         "Details":"60% Cotton, 40% Polyester"
     
     },
-     {
-        "ID": 2,
+    {
+        "Id": 6,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -128,8 +128,8 @@
         "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
         "Details":"60% Cotton, 40% Polyester"
     },
-     {
-        "ID": 2,
+    {
+        "Id": 7,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -145,7 +145,7 @@
     
     },
      {
-        "ID": 2,
+        "Id": 8,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -161,7 +161,7 @@
     
     },
      {
-        "ID": 2,
+        "Id": 9,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -177,7 +177,7 @@
     
     },
      {
-        "ID": 2,
+        "Id": 10,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -193,7 +193,7 @@
     
     },
      {
-        "ID": 2,
+        "Id": 11,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -209,7 +209,7 @@
     
     },
     {
-        "ID": 2,
+        "Id": 12,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -224,7 +224,7 @@
     
     },
     {
-        "ID": 2,
+        "Id": 13,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -239,7 +239,7 @@
     
     },
     {
-        "ID": 2,
+        "Id": 14,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -254,7 +254,7 @@
     
     },
     {
-        "ID": 2,
+        "Id": 15,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -269,7 +269,7 @@
     
     },
     {
-        "ID": 2,
+        "Id": 16,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -284,7 +284,7 @@
     
     },
     {
-        "ID": 2,
+        "Id": 17,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -299,7 +299,7 @@
     
     },
     {
-        "ID": 2,
+        "Id": 18,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -314,7 +314,7 @@
     
     },
     {
-        "ID": 2,
+        "Id": 19,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -329,7 +329,7 @@
     
     },
     {
-        "ID": 2,
+        "Id": 20,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -344,7 +344,7 @@
     
     },
     {
-        "ID": 2,
+        "Id": 21,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -359,7 +359,7 @@
     
     },
     {
-        "ID": 2,
+        "Id": 22,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -374,7 +374,7 @@
     
     },
     {
-        "ID": 2,
+        "Id": 23,
         "Brands": {
             "Id":"",
             "Brand":""
