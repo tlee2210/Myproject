@@ -10,8 +10,8 @@ var app = angular.module("myApp", [
     "Accessories",
     "feedback",
     "ui.bootstrap",
-    "paginate-filter",
-    "movie"
+    "myApp.paginate-filter",
+    "myApp.movie"
 
 ])
 
@@ -95,29 +95,5 @@ angular.module("feedback", [])
                 
     }])
 
-angular.module("movie", [])
-    .controller("movie", ["$scope","$filter", "$http","$routeParams", function($scope, $filter, $http, $routeParams){
 
-        $scope.movieId = $routeParams.Id
 
-        $http.get("json/home.json")
-        .then(function(reponse){
-            var data = reponse.data;
-            $scope.movie = $filter("filter")(data, {Id: parseInt($scope.movieId)}, true)[0];
-            console.log($scope.movie)
-        })
-        
-                
-    }])
-
-angular.module("paginate-filter",[])
-    .filter("paginate",function(){
-        return function(arr,currentPage,pageSize){
-            try{
-                return arr.slice((currentPage-1)*pageSize, currentPage*pageSize);
-    
-            }catch(err){
-                return arr;
-            }
-        }
-    })
