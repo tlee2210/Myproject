@@ -13,7 +13,8 @@ var app = angular.module("myApp", [
     "myApp.paginate-filter",
     "myApp.movie",
     "myApp.movie-svervice",
-    "myApp.menu"
+    "myApp.menu",
+    "myApp.genres"
 
 ])
 
@@ -30,6 +31,7 @@ app.config(function($routeProvider){
     .when("/Accessories", {templateUrl : "Accessories.html", controller:"Accessories"})
     .when("/feedback", {templateUrl : "feedback.html", controller:"feedback"})
     .when("/movie/:Id", {templateUrl : "movie.html", controller:"movie"})
+    .when("/genres/:genresName", {templateUrl : "Accessories.html", controller:"Accessories"})
 })
 
 
