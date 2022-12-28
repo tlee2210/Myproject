@@ -93,14 +93,23 @@
 
                         <!-- Widgets -->
                         <div class="col-lg-3 order-2 order-lg-1">
-                            <div class="widgets">
+                            <div class="widgets" ng-controller="menuCtrl">
 
-                                <aside class="single-widget widget-categories">
+                                <aside class="single-widget widget-categories" >
                                     <h6 class="widget-title">brand</h6>
                                     <ul>  
-                                        <li><a href="shop-right-sidebar.html">ten mat hang <span>so luong</span></a></li>
+                                        <li ng-repeat="brands in brandslist"><a href="#">{{brands.Name}} <span>so luong</span></a></li>
                                     </ul>
                                 </aside>
+
+                                <aside class="single-widget widget-categories">
+                                    <h6 class="widget-title">genres</h6>
+                                    <ul>  
+                                        <li><a href="#">{{brands.include.include1.Name}} <span>so luong</span></a></li>
+                                    </ul>
+                                </aside>
+
+                                
 
                                 <!-- <aside class="single-widget widget-size">
                                     <h6 class="widget-title">SIZE</h6>
