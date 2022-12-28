@@ -41,16 +41,9 @@
 ***************************************************************/
 
 
-// slider
-
-
-
-
 (function($){
     'use strict';
 	
-
-
 	/* Sticky Header */
 	$(window).on('scroll', function () {
 		var scrollPos = $(this).scrollTop();
@@ -61,23 +54,6 @@
 		}
 	});
 
-
-
-
-	/* Hero Area Slider Active */
-	$('.hero-area').slick({
-		slidesToShow: 1,
-		autoplay: true,
-		autoplaySpeed: 8000,
-		adaptiveHeight: true,
-		dots: false,
-		arrows: true,
-		fade: true,
-		easing: 'ease-in-out',
-		speed: 1000,
-		prevArrow: '<span class="slider-navigation slider-navigation-prev"><i class="fa fa-angle-left"></i></span>',
-		nextArrow: '<span class="slider-navigation slider-navigation-next"><i class="fa fa-angle-right"></i></span>',
-	});
 
 
 	
@@ -96,40 +72,6 @@
 		nextArrow: '<span class="slider-navigation slider-navigation-next"><i class="fa fa-angle-right"></i></span>',
 	});
 	
-
-
-	/* Brand Logo Slider Active */
-	$('.brand-logos').slick({
-		slidesToShow: 4,
-		autoplay: true,
-		autoplaySpeed: 5000,
-		dots: false,
-		arrows: true,
-		easing: 'ease-in-out',
-		prevArrow: '<span class="slider-navigation slider-navigation-prev"><i class="fa fa-caret-left"></i></span>',
-		nextArrow: '<span class="slider-navigation slider-navigation-next"><i class="fa fa-caret-right"></i></span>',
-		responsive: [{
-			breakpoint: 992,
-			settings: {
-				slidesToShow: 3,
-				slidesToScroll: 1
-			}
-		},
-		{
-			breakpoint: 768,
-			settings: {
-				slidesToShow: 2,
-				slidesToScroll: 1
-			}
-		},
-		{
-			breakpoint: 450,
-			settings: {
-				slidesToShow: 1,
-				slidesToScroll: 1
-			}
-		}]
-	});
 
 
 	/* Similliar Products Slider Active */
@@ -164,41 +106,6 @@
 			}
 		}]
 	});
-
-
-
-	/* Product Details Images */
-	$('.product-details-images').slick({
-		slidesToShow: 1,
-		slidesToScroll: 1,
-		autoplay: true,
-		autoplaySpeed: 5000,
-		dots: false,
-		infinite: true,
-		centerMode: true,
-		centerPadding: 0,
-		prevArrow: '<span class="slider-navigation slider-navigation-prev"><i class="fa fa-caret-left"></i></span>',
-		nextArrow: '<span class="slider-navigation slider-navigation-next"><i class="fa fa-caret-right"></i></span>',
-		asNavFor: '.product-details-thumbs'
-	});
-	$('.product-details-thumbs').slick({
-		slidesToShow: 3,
-		slidesToScroll: 1,
-		autoplay: true,
-		autoplaySpeed: 5000,
-		dots: false,
-		infinite: true,
-		focusOnSelect: true,
-		centerMode: true,
-		centerPadding: 0,
-		prevArrow: '<span class="slider-navigation slider-navigation-prev"><i class="fa fa-caret-left"></i></span>',
-		nextArrow: '<span class="slider-navigation slider-navigation-next"><i class="fa fa-caret-right"></i></span>',
-		asNavFor: '.product-details-images'
-	});
-
-
-
-
 
 
 	/* Nice Select Activation */

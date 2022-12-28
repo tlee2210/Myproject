@@ -93,74 +93,40 @@
 			<!--// Header Top Area -->
 
 			<!-- Header Bottom Area -->
-			<div class="header-bottom-area d-none d-lg-block">
+			<div class="header-bottom-area d-none d-lg-block" ng-controller="menuCtrl">
 				<div class="container">
 					<div class="header-bottom-inner">
 						<nav class="sn-navigation">
 							<ul>
 								<li><a href="index.html">HOME</a>
 								</li>
-								<li class="megamenu-active"><a href="/#!productdetails">BRANDS</a>
+								<li class="megamenu-active"><a href="/#!productdetails" >BRANDS</a>
 									<ul>
-										<li>
-											<a href="#">Akoa Sportswear</a>
+										<li ng-repeat="brands in brandslist">
+											<a href="#">{{brands.Name}}</a>
 											<ul>
-												<li><a href="#">All Akoa Sportswear</a></li>
-												<li><a href="#">Polo Shirts</a></li>
-												<li><a href="#">School Shorts</a></li>
-												<li><a href="#">School Fleeces and Hoodies</a></li>
-												<li><a href="#">Skorts</a></li>
-												<li><a href="#">Socks</a></li>
-												<li><a href="#">Track Pants and Leggings</a></li>
-											</ul>
-										</li>
-										<li>
-											<a href="#">Chadwick Teamwear</a>
-											<ul>
-												<li><a href="#">All Chadwick Teamwear</a></li>
-												<li><a href="#">Polo Shirts</a></li>
-												<li><a href="#">Tops</a></li>
-												<li><a href="#">Hoodies</a></li>
-												<li><a href="#">Shorts</a></li>
-												<li><a href="#">Pants</a></li>
-												<li><a href="#">Baselayers  </a></li>
-											</ul>
-										</li>
-										<li>
-											<a href="#">Banner Schoolwear</a>
-											<ul>
-												<li><a href="#">All Banner Schoolwear</a></li>
-												<li><a href="#">Polo Shirts</a></li>
-												<li><a href="#">Select Crew Neck School Sweatshirts</a></li>
-												<li><a href="#">Plain Skirts</a></li>
-												<li><a href="#">School Blouses</a></li>
-												<li><a href="#">Boys' Blazers and Jackets</a></li>
-												<li><a href="#">Girls' Blazers and Jackets</a></li>
-												<li><a href="#">Polar School Fleeces</a></li>
-												<li><a href="#">Coats and Jackets</a></li>
-											</ul>
-										</li>
-										<li>
-											<a href="#">David Schoolwear</a>
-											<ul>
-												<li><a href="#">All David Schoolwear</a></li>
-												<li><a href="#">Stripe and Contrast Trim Polo Shirts</a></li>
-												<li><a href="#">Polo Shirts</a></li>
-												<li><a href="#">Crew Neck Sweatshirts</a></li>
-												<li><a href="#">Hoodies and Full Zip Sweatshirts</a></li>
-												<li><a href="#">Shirts</a></li>
-												<li><a href="#">Boy's Trousers</a></li>
-												<li><a href="#">Skirts and Skorts</a></li>
-												<li><a href="#">Blazers and Jackets</a></li>
-												<li><a href="#">Classic, Rugby and Fitness Shorts</a></li>
-												<li><a href="#">Joggers</a></li>
+												<li><a href="#">{{brands.include.include1.Name}}</a></li>
+												<li><a href="#">{{brands.include.include2.Name}}</a></li>
+												<li><a href="#">{{brands.include.include3.Name}}</a></li>
+												<li><a href="#">{{brands.include.include4.Name}}</a></li>
+												<li><a href="#">{{brands.include.include5.Name}}</a></li>
+												<li><a href="#">{{brands.include.include6.Name}}</a></li>
+												<li><a href="#">{{brands.include.include7.Name}}</a></li>
+												<li><a href="#">{{brands.include.include8.Name}}</a></li>
+												<li><a href="#">{{brands.include.include9.Name}}</a></li>
+												<li><a href="#">{{brands.include.include10.Name}}</a></li>
+												<li><a href="#">{{brands.include.include11.Name}}</a></li>
 											</ul>
 										</li>
 									</ul>
 								</li>
-								<li><a href="/#!uniformBoy">Boy's Uniform</a></li>
-								<li><a href="/#!uniformGirl">Girl's Uniform</a></li>
-								<li><a href="/#!Accessories">Accessories</a></li>
+								<li><a href="/#!productdetails">Boy's Uniform</a></li>
+								<li><a href="/#!productdetails">Girl's Uniform</a></li>
+								<li ><a href="">Accessories</a>
+									<ul >
+										<li ng-repeat="acce in access"><a href="/#!productdetails">{{acce.Name}}</a></li>
+									</ul>
+								</li>
                                 <li><a href="/#!feedback">Feedback</a></li>
 								<li><a href="/#!contact">CONTACT</a></li>
 							</ul>
@@ -530,8 +496,11 @@
 	<script src="js/main.js"></script>
 	<script src="lib/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
 
+	<script src="js/getjson.js"></script>
 	<script src="js/movie.js"></script>
 	<script src="js/paginate-filter.js"></script>
+	<script src="js/movie-svervice.js"></script>
+	<script src="js/menu.js"></script>
 	
 </body>
 

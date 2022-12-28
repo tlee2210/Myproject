@@ -1,17 +1,19 @@
 var app = angular.module("myApp", [
     "ngRoute",
-    "homeCtrl",
+    "myApp.homeCtrl",
     "myAccount",
     "cart",
     "checkout",
-    "productdetails",
+    "myApp.productdetails",
     "contact",
     "aboutus",
     "Accessories",
     "feedback",
     "ui.bootstrap",
     "myApp.paginate-filter",
-    "myApp.movie"
+    "myApp.movie",
+    "myApp.movie-svervice",
+    "myApp.menu"
 
 ])
 
@@ -31,19 +33,6 @@ app.config(function($routeProvider){
 })
 
 
-angular.module("homeCtrl",[])
-    .controller("homeCtrl", ["$scope", "$http", function($scope, $http){
-        $http.get("json/home.json")
-        .then(function(reponse){
-            $scope.Homelist = reponse.data;
-            console.log(reponse.data);
-        },
-        function(err){
-            $scope.Homelist = "json failed";
-        })
-        
-    }])
-
 angular.module("myAccount", [])
     .controller("myAccount", ["$scope", "$http", function($scope, $http){
         
@@ -59,21 +48,6 @@ angular.module("checkout", [])
                 
     }])
 
-angular.module("productdetails", [])
-    .controller("productdetails", ["$scope", "$http", function($scope, $http){
-        $http.get("json/dataMain.json")
-        .then(function(reponse){
-            $scope.dataMain = reponse.data;
-            console.log(reponse.data);
-        },
-        function(err){
-            $scope.dataMain = "json failed";
-        })
-
-        $scope.currentPage = 1;
-        $scope.pageSize=6;
-
-    }]) 
 
 angular.module("contact", [])
     .controller("contact", ["$scope", "$http", function($scope, $http){

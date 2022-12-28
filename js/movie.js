@@ -3,8 +3,7 @@ angular.module("myApp.movie", [])
 
         $scope.movieId = $routeParams.Id
 
-        $http.get("json/home.json")
-        .then(function(reponse){
+        $http.get("json/home.json").then(function(reponse){
             var data = reponse.data;
             $scope.movie = $filter("filter")(data, {Id: parseInt($scope.movieId)}, true)[0];
             console.log($scope.movie)

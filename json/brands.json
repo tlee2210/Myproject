@@ -1,0 +1,158 @@
+[
+    {
+        "Name":"Akoa Sportswear",
+        "include":{
+            "include1":{
+                "Id":"",
+                "Name":"All Akoa Sportswear"
+            },
+            "include2":{
+                "Id":"",
+                "Name":"Polo Shirts"
+            },
+            "include3":{
+                "Id":"",
+                "Name":"School Shorts"
+            },
+            "include4":{
+                "Id":"",
+                "Name":"School Fleeces and Hoodies"
+            },
+            "include5":{
+                "Id":"",
+                "Name":"Skorts"
+            },
+            "include6":{
+                "Id":"",
+                "Name":"Socks"
+            },
+            "include7":{
+                "Id":"",
+                "Name":"Track Pants and Leggings"
+            },
+            "include8":{
+                "Id":"",
+                "Name":""
+            }
+        }
+    },
+    {
+        "Name":"Chadwick Teamwear",
+        "include":{
+            "include1":{
+                "Id":"",
+                "Name":"All Chadwick Teamwear"
+            },
+            "include2":{
+                "Id":"",
+                "Name":"Polo Shirts"
+            },
+            "include3":{
+                "Id":"",
+                "Name":"Tops"
+            },
+            "include4":{
+                "Id":"",
+                "Name":"Hoodies"
+            },
+            "include5":{
+                "Id":"",
+                "Name":"Shorts"
+            },
+            "include6":{
+                "Id":"",
+                "Name":"Pants"
+            },
+            "include7":{
+                "Id":"",
+                "Name":"Baselayers"
+            },
+            "include8":{
+                "Id":"",
+                "Name":""
+            }
+        }
+    },
+    {
+        "Name":"Banner Schoolwear",
+        "include":{
+            "include1":{
+                "Id":"",
+                "Name":"All Banner Schoolwear"
+            },
+            "include2":{
+                "Id":"",
+                "Name":"Polo Shirts"
+            },
+            "include3":{
+                "Id":"",
+                "Name":"Select Crew Neck School Sweatshirts"
+            },
+            "include4":{
+                "Id":"",
+                "Name":"Plain Skirts"
+            },
+            "include5":{
+                "Id":"",
+                "Name":"School Blouses"
+            },
+            "include6":{
+                "Id":"",
+                "Name":"Blazers and Jackets"
+            },
+            "include7":{
+                "Id":"",
+                "Name":"Baselayers"
+            },
+            "include8":{
+                "Id":"",
+                "Name":"Polar School Fleeces"
+            },
+            "include9":{
+                "Id":"",
+                "Name":"Coats and Jackets"
+            }
+        }
+    },
+    {
+        "Name":"David Schoolwear",
+        "include":{
+            "include1":{
+                "Id":"",
+                "Name":"All David Schoolwear"
+            },
+            "include2":{
+                "Id":"",
+                "Name":"Stripe and Contrast Trim Polo Shirts"
+            },
+            "include3":{
+                "Id":"",
+                "Name":"Polo Shirts"
+            },
+            "include4":{
+                "Id":"",
+                "Name":"Crew Neck Sweatshirts"
+            },
+            "include5":{
+                "Id":"",
+                "Name":"Hoodies and Full Zip Sweatshirts"
+            },
+            "include6":{
+                "Id":"",
+                "Name":"Shirts"
+            },
+            "include7":{
+                "Id":"",
+                "Name":"Boy's Trousers"
+            },
+            "include8":{
+                "Id":"",
+                "Name":"Skirts and Skorts"
+            },
+            "include9":{
+                "Id":"",
+                "Name":"Coats and Jackets"
+            }
+        }
+    }
+]
