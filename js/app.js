@@ -14,7 +14,7 @@ var app = angular.module("myApp", [
     "myApp.movie",
     "myApp.movie-svervice",
     "myApp.menu",
-    "myApp.genres"
+    // "myApp.genres"
 
 ])
 

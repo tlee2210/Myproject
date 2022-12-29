@@ -100,24 +100,9 @@
 							<ul>
 								<li><a href="index.html">HOME</a>
 								</li>
-								<li class="megamenu-active"><a href="/#!productdetails" >BRANDS</a>
-									<ul>
-										<li ng-repeat="brands in brandslist">
-											<a href="#">{{brands.Name}}</a>
-											<ul>
-												<li><a href="#">{{brands.include.include1.Name}}</a></li>
-												<li><a href="#">{{brands.include.include2.Name}}</a></li>
-												<li><a href="#">{{brands.include.include3.Name}}</a></li>
-												<li><a href="#">{{brands.include.include4.Name}}</a></li>
-												<li><a href="#">{{brands.include.include5.Name}}</a></li>
-												<li><a href="#">{{brands.include.include6.Name}}</a></li>
-												<li><a href="#">{{brands.include.include7.Name}}</a></li>
-												<li><a href="#">{{brands.include.include8.Name}}</a></li>
-												<li><a href="#">{{brands.include.include9.Name}}</a></li>
-												<li><a href="#">{{brands.include.include10.Name}}</a></li>
-												<li><a href="#">{{brands.include.include11.Name}}</a></li>
-											</ul>
-										</li>
+								<li ><a href="">Brands</a>
+									<ul >
+										<li ng-repeat="brand in brandslist"><a href="/#!productdetails">{{brand.Name}}</a></li>
 									</ul>
 								</li>
 								<li><a href="/#!productdetails">Boy's Uniform</a></li>
@@ -501,7 +486,8 @@
 	<script src="js/paginate-filter.js"></script>
 	<script src="js/movie-svervice.js"></script>
 	<script src="js/menu.js"></script>
-	<script src="js/genres.js"></script>
+	<script src="js/productdetails.js"></script>
+	<!-- <script src="js/genres.js"></script> -->
 	
 </body>
 
