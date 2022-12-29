@@ -335,7 +335,7 @@
             }
         },
         "Name":"AKOA SECTOR PRO TRACK PANT",
-        "Img":"img/product/small-size/product-image-1.jpg",
+        "Img":"img/genres/Akoa/Track_Leggings_B.jpg",
         "Gender": "Boy",
         "Color": "BLACK",
         "Price": 21,
@@ -343,97 +343,116 @@
         "Details":"Open hem with ¼ zip opening"
     },
     {
-        "Id": 49,
+        "Id": 19,
         "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
+            "Id":"500",
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": {
+                "Id":560,
+                "Name":"Track Pants and Leggings"
+            }
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Name":"AKOA SECTOR PRO TRACK PANT",
+        "Img":"img/genres/Akoa/Track_Leggings_B1.jpg",
+        "Gender": "Boy",
+        "Color": "NAVY",
+        "Price": 21,
+        "Description": "The Akoa Sector pro track pant is perfect for everyday sports wear. Sizes XXS and above feature an elasticated waist with an internal drawcord. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side stripe is coloured or self coloured and it features an open hem with ¼ zip opening.",
+        "Details":"Open hem with ¼ zip opening"
         
     },
     {
-        "Id": 50,
+        "Id": 20,
         "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Type": {
+                "Id":610,
+                "Name":"Polo Shirts"
+            }
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Name":"CHADWICK IGEN FEMALE POLO",
+        "Img":"img/genres/Chadwick/Pol_skirts_G.jpg",
+        "Gender": "Girl",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's iGen Female Polo is part of a 4-piece iGen product range. It is a specially designed female fit polo and can be worn with the iGen team skort. It comes in a breathable fabric, that is lightweight and easy to care for.",
+        "Details":"For best results, machine wash according to instruction on care label"
     },
     {
-        "Id": 51,
+        "Id": 22,
         "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Type": {
+                "Id":610,
+                "Name":"Polo Shirts"
+
+            }
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Name":"CHADWICK IGEN FEMALE POLO",
+        "Img":"img/genres/Chadwick/Pol_skirts_G1.jpg",
+        "Gender": "Girl",
+        "Color": "BLACK AND BOTTLE GREEN",
+        "Price": 21,
+        "Description": "Chadwick's iGen Female Polo is part of a 4-piece iGen product range. It is a specially designed female fit polo and can be worn with the iGen team skort. It comes in a breathable fabric, that is lightweight and easy to care for.",
+        "Details":"For best results, machine wash according to instruction on care label"
         
     },
     {
-        "Id": 52,
+        "Id": 23,
         "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Type": {
+                "Id":610,
+                "Name":"Polo Shirts"
+            }
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Name":"CHADWICK IGEN MALE POLO",
+        "Img":"img/genres/Chadwick/Pol_skirts_B.jpg",
+        "Gender": "Boy",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's iGen Male Polo is part of a 4-piece iGen product range. It is a specially designed female fit polo and can be worn with the iGen team skort. It comes in a breathable fabric, that is lightweight and easy to care for.",
+        "Details":"For best results, machine wash according to instruction on care label"
     },
     {
-        "Id": 53,
+        "Id": 23,
         "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Type": {
+                "Id":610,
+                "Name":"Polo Shirts"
+            }
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Name":"CHADWICK IGEN MALE POLO",
+        "Img":"img/genres/Chadwick/Pol_skirts_B1.jpg",
+        "Gender": "Boy",
+        "Color": "BLACK AND PURPLE",
+        "Price": 21,
+        "Description": "Chadwick's iGen Unisex Polo is part of a 4-piece iGen product range. It is a specially designed female fit polo and can be worn with the iGen team skort. It comes in a breathable fabric, that is lightweight and easy to care for.",
+        "Details":"For best results, machine wash according to instruction on care label"
         
     },
     {
-        "Id": 54,
+        "Id": 24,
         "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Type": {
+                "Id":620,
+                "Name":"Tops"
+            }
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Name":"CHADWICK 860 EDGE PRO CONTACT TOP",
+        "Img":"img/genres/Chadwick/Tops.jpg",
+        "Gender": "",
+        "Color": "BLACK",
+        "Price": 21,
+        "Description": "The Chadwick's 860 edge pro contact top is the next level multi purpose training top. It is durable with reinforced seams throughout, perfect for wearing indoors or outdoors. Easy care for just machine wash.",
+        "Details":"For best results, machine wash according to instruction on care label"
     },
     {
         "Id": 55,
