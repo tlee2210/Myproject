@@ -1,6 +1,6 @@
 [
     {
-        "ID": 30,
+        "Id": 30,
         "Brands": {
             "Id":"11",
             "Brand":"AKOA SPORTSWEAR"
@@ -11,11 +11,11 @@
         "Gender": "boy",
         "Color": "BLACK AND WHITE",
         "Price": 11,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 31,
+        "Id": 31,
         "Brands": {
             "Id":"11",
             "Brand":"AKOA SPORTSWEAR"
@@ -26,11 +26,11 @@
         "Gender": "boy",
         "Color": "NAVY AND WHITE",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 32,
+        "Id": 32,
         "Brands": {
             "Id":"11",
             "Brand":"AKOA SPORTSWEAR"
@@ -41,11 +41,12 @@
         "Gender": "boy",
         "Color": "BLACK AND WHITE",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     
     },
     {
-        "ID": 33,
+        "Id": 33,
         "Brands": {
             "Id":"11",
             "Brand":"AKOA SPORTSWEAR"
@@ -56,11 +57,11 @@
         "Gender": "boy",
         "Color": "BLACK AND SCARLET",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 34,
+        "Id": 34,
         "Brands": {
             "Id":"11",
             "Brand":"AKOA SPORTSWEAR"
@@ -71,11 +72,11 @@
         "Gender": "boy",
         "Color": "BLACK",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 35,
+        "Id": 35,
         "Brands": {
             "Id":"11",
             "Brand":"AKOA SPORTSWEAR"
@@ -86,11 +87,11 @@
         "Gender": "Girl",
         "Color": "BLACK",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 36,
+        "Id": 36,
         "Brands": {
             "Id":"22",
             "Brand":"Chadwick Teamwear"
@@ -101,11 +102,11 @@
         "Gender": "boy",
         "Color": "BLACK AND RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 37,
+        "Id": 37,
         "Brands": {
             "Id":"22",
             "Brand":"Chadwick Teamwear"
@@ -116,11 +117,11 @@
         "Gender": "boy",
         "Color": "BLACK",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 38,
+        "Id": 38,
         "Brands": {
             "Id":"22",
             "Brand":"Chadwick Teamwear"
@@ -131,11 +132,11 @@
         "Gender": "boy",
         "Color": "BLACK AND EMERALD",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 39,
+        "Id": 39,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -146,11 +147,11 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 40,
+        "Id": 40,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -161,11 +162,11 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 41,
+        "Id": 41,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -176,11 +177,11 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 42,
+        "Id": 42,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -191,11 +192,11 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 43,
+        "Id": 43,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -206,11 +207,11 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 44,
+        "Id": 44,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -221,11 +222,11 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 45,
+        "Id": 45,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -236,11 +237,11 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 46,
+        "Id": 46,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -251,11 +252,11 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 47,
+        "Id": 47,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -266,11 +267,11 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 48,
+        "Id": 48,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -281,11 +282,11 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 49,
+        "Id": 49,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -296,11 +297,12 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
+        
     },
     {
-        "ID": 50,
+        "Id": 50,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -311,11 +313,11 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 51,
+        "Id": 51,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -326,11 +328,12 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
+        
     },
     {
-        "ID": 52,
+        "Id": 52,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -341,11 +344,11 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 53,
+        "Id": 53,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -356,11 +359,12 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
+        
     },
     {
-        "ID": 54,
+        "Id": 54,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -371,11 +375,11 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 55,
+        "Id": 55,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -386,11 +390,12 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
+        
     },
     {
-        "ID": 56,
+        "Id": 56,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -401,11 +406,11 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "ID": 57,
+        "Id": 57,
         "Brands": {
             "Id":"",
             "Brand":""
@@ -416,7 +421,7 @@
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform."
-    
+        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
+        "Details":"60% Cotton, 40% Polyester"
     }
 ]
