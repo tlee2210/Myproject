@@ -7,10 +7,10 @@ angular.module("myApp.genres", ["ui.bootstrap"])
 
         movieAPIservice.getProduct().then(function(reponse){
             var data = reponse.data
-            $scope.dataMain = $filter("filter")(data, function(movie){
-                return $filter("filter")(movie.Brands, {Name: $scope.genresName}).length;
+            $scope.dataMain = $filter("filter")(data, function(dataMain){
+                return $filter("filter")(dataMain.Brands, {Name: $scope.genresName}).length;
             })
-            console.log(dataMain);
+            console.log($scope.dataMain);
         })
 
         movieAPIservice.getHome().then(function(reponse){
