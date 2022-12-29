@@ -6,18 +6,20 @@ angular.module("myApp.homeCtrl",[])
         })
     }])
 
-angular.module("myApp.productdetails", [])
+angular.module("myApp.productdetails", ["ui.bootstrap"])
     .controller("productdetails", ["$scope", "movieAPIservice", function($scope, movieAPIservice){
         $scope.currentPage = 1;
         $scope.pageSize=6;
 
         movieAPIservice.getProduct().then(function(reponse){
-            $scope.dataMain = reponse.data;
+            var data = reponse.data
+            $scope.dataMain = data;
             console.log(reponse.data);
         })
 
         movieAPIservice.getHome().then(function(reponse){
-            $scope.homelist = reponse.data;
+            var data = reponse.data
+            $scope.homelist = data;
             console.log(reponse.data);
         })
     }]) 
