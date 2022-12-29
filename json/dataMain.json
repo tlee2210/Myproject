@@ -1,289 +1,346 @@
 [
     {
-        "Id": 30,
+        "Id": 1,
         "Brands": {
-            "Id":"11",
+            "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": ""
+            "Type": {
+                "Id":510,
+                "Name":"Polo Shirts"
+            }
         },
-        "Name":"T-Shirts",
-        "Img":"img/MANpoloshirt/AKOA/blacknwhite.jpg",
-        "Gender": "boy",
-        "Color": "BLACK AND WHITE",
-        "Price": 11,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Name":"AKOA SECTOR POLO SHIRT",
+        "Img":"img/genres/Akoa/Pol_skirts_B.jpg",
+        "Gender": "Boy",
+        "Color": "BLACK AND SCARLET",
+        "Price": 21,
+        "Description": "The Akoa Sector polo shirt is perfect for everyday sports wear. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
+        "Details":"100% polyester"
     },
     {
-        "Id": 31,
+        "Id": 2,
         "Brands": {
-            "Id":"11",
+            "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": ""
+            "Type": {
+                "Id":510,
+                "Name":"Polo Shirts"
+            }
         },
-        "Name":"School Shorts",
-        "Img":"img/MANpoloshirt/AKOA/navynwhite.jpg",
-        "Gender": "boy",
-        "Color": "NAVY AND WHITE",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Name":"AKOA SECTOR POLO SHIRT",
+        "Img":"img/genres/Akoa/Pol_skirts_B1.jpg",
+        "Gender": "Boy",
+        "Color": "BLACK AND WHITE",
+        "Price": 23,
+        "Description": "The Akoa Sector polo shirt is perfect for everyday sports wear. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
+        "Details":"100% polyester"
     },
     {
-        "Id": 32,
+        "Id": 3,
         "Brands": {
-            "Id":"11",
+            "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": ""
+            "Type": {
+                "Id":510,
+                "Name":"Polo Shirts"
+            }
         },
-        "Name":"School Fleeces and Hoodies",
-        "Img":"img/MANpoloshirt/AKOA/hoodiewnb.jpg",
-        "Gender": "boy",
-        "Color": "BLACK AND WHITE",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Name":"AKOA SECTOR GIRLS' FIT POLO SHIRT",
+        "Img":"img/genres/Akoa/Pol_skirts_G.jpg",
+        "Gender": "Girl",
+        "Color": "BLACK AND SCARLET",
+        "Price": 21,
+        "Description": "The Akoa Sector girls' polo shirt is perfect for everyday sports wear. It is a fitted girls' style with an open neck. Age 9/10 has a button to neck fastening. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
+        "Details":"100% polyester"
     
     },
     {
-        "Id": 33,
+        "Id": 4,
         "Brands": {
-            "Id":"11",
+            "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": ""
+            "Type":{
+                "Id":510,
+                "Name":"Polo Shirts"
+            } 
         },
-        "Name":"Socks",
-        "Img":"img/MANpoloshirt/AKOA/sockbnc.jpg",
-        "Gender": "boy",
-        "Color": "BLACK AND SCARLET",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Name":"AKOA SECTOR GIRLS' FIT POLO SHIRT",
+        "Img":"img/genres/Akoa/Pol_skirts_G1.jpg",
+        "Gender": "Girl",
+        "Color": "BLACK AND WHITE",
+        "Price": 23,
+        "Description": "The Akoa Sector girls' polo shirt is perfect for everyday sports wear. It is a fitted girls' style with an open neck. Age 9/10 has a button to neck fastening. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
+        "Details":"100% polyester"
     },
     {
-        "Id": 34,
+        "Id": 5,
         "Brands": {
-            "Id":"11",
+            "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": ""
+            "Type": {
+                "Id":520,
+                "Name":"School Shorts"
+            }
         },
-        "Name":"Skorts",
-        "Img":"img/MANpoloshirt/AKOA/blackskort.jpg",
-        "Gender": "boy",
+        "Name":"AKOA MULTISPORT SHORT",
+        "Img":"img/genres/Akoa/School_short.jpg",
+        "Gender": "Boy",
         "Color": "BLACK",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Price": 21,
+        "Description": "The Akoa multisport short is perfect for everyday sports wear. Sizes XXS and above feature an elasticated waist with secure drawcord. (* Junior sizes do not include a drawcord.) The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. Suitable for both boys' and girls.",
+        "Details":"100% Polyester"
     },
     {
-        "Id": 35,
+        "Id": 6,
         "Brands": {
-            "Id":"11",
+            "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": ""
+            "Type": {
+                "Id":520,
+                "Name":"School Shorts"
+            }
         },
-        "Name":"SECTOR GIRLS' LEGGINGS",
-        "Img":"img/MANpoloshirt/AKOA/sectorblack.jpg",
+        "Name":"AKOA MULTISPORT SHORT",
+        "Img":"img/genres/Akoa/School_short1.jpg",
+        "Gender": "Boy",
+        "Color": "ROYAL",
+        "Price": 21,
+        "Description": "The Akoa multisport short is perfect for everyday sports wear. Sizes XXS and above feature an elasticated waist with secure drawcord. (* Junior sizes do not include a drawcord.) The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions.",
+        "Details":"100% Polyester"
+    },
+    {
+        "Id": 6,
+        "Brands": {
+            "Id":"500",
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": {
+                "Id":520,
+                "Name":"School Shorts"
+            }
+        },
+        "Name":"AKOA MULTISPORT SHORT",
+        "Img":"img/genres/Akoa/School_short2.jpg",
+        "Gender": "Boy",
+        "Color": "WHITE",
+        "Price": 21,
+        "Description":"The Akoa multisport short is perfect for everyday sports wear. Sizes XXS and above feature an elasticated waist with secure drawcord. (* Junior sizes do not include a drawcord.) The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions.",
+        "Details":"100% Polyester"
+    },
+    {
+        "Id": 7,
+        "Brands": {
+            "Id":"500",
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": {
+                "Id":530,
+                "Name":"School Fleeces and Hoodies"
+            }
+        },
+        "Name":"AKOA SECTOR MICROFLEECE",
+        "Img":"img/genres/Akoa/Fleeces_hoodies.jpg",
+        "Gender":"",
+        "Color": "BLACK",
+        "Price": 21,
+        "Description": "The Akoa Sector microfleece is lightweight and has breathable panelling. Suitable for both boys' and girls' it features a front side pocket and ¼ zip fastening.",
+        "Details":"100% Polyester"
+    },
+    {
+        "Id": 8,
+        "Brands": {
+            "Id":"500",
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": {
+                "Id":530,
+                "Name":"School Fleeces and Hoodies"
+            }
+        },
+        "Name":"AKOA SECTOR HOODY",
+        "Img":"img/genres/Akoa/Fleeces_hoodies1.jpg",
+        "Gender": "",
+        "Color": "BLACK AND SCARLET",
+        "Price": 21,
+        "Description": "The Akoa Sector hoody is suitable for both boys' and girls. The side panels are breathable using Endura-Dri fabric. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions.",
+        "Details":"65% Polyester, 35% Cotton main body"
+    },
+    {
+        "Id": 9,
+        "Brands": {
+            "Id":"500",
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": {
+                "Id":530,
+                "Name":"School Fleeces and Hoodies"
+            }
+        },
+        "Name":"AKOA SECTOR HOODY",
+        "Img":"img/genres/Akoa/Fleeces_hoodies2.jpg",
+        "Gender": "",
+        "Color": "NAVY AND WHITE",
+        "Price": 21,
+        "Description": "The Akoa Sector hoody is suitable for both boys' and girls. The side panels are breathable using Endura-Dri fabric. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions.",
+        "Details":"100% Polyester side panelling"
+    },
+    {
+        "Id": 10,
+        "Brands": {
+            "Id":"500",
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": {
+                "Id":540,
+                "Name":"Skorts"
+            }
+        },
+        "Name":"AKOA SECTOR PANEL SKORT",
+        "Img":"img/genres/Akoa/Skort.jpg",
+        "Gender": "Girl",
+        "Color": "BLACK AND SCARLET",
+        "Price": 21,
+        "Description": "The Akoa Sector panel skort is perfect for everyday sports wear. It has a stretch under short for comfort and modesty. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
+        "Details":"100% polyester"
+    },
+    {
+        "Id": 11,
+        "Brands": {
+            "Id":"500",
+            "Brand":"AKOA SPORTSWEAR",
+            "Type":{
+                "Id":540,
+                "Name":"Skorts"
+            }
+        },
+        "Name":"AKOA SECTOR PANEL SKORT",
+        "Img":"img/genres/Akoa/Skort1.jpg",
+        "Gender": "Girl",
+        "Color": "NAVY AND CYCLONE BLUE",
+        "Price": 21,
+        "Description":"The Akoa Sector panel skort is perfect for everyday sports wear. It has a stretch under short for comfort and modesty. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
+        "Details":"100% polyester"
+    },
+    {
+        "Id": 12,
+        "Brands": {
+            "Id":"500",
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": {
+                "Id":540,
+                "Name":"Skorts"
+            }
+        },
+        "Name":"AKOA SECTOR PANEL SKORT",
+        "Img":"img/genres/Akoa/Skort2.jpg",
+        "Gender": "Girl",
+        "Color": "NAVY AND WHITE",
+        "Price": 21,
+        "Description": "The Akoa Sector panel skort is perfect for everyday sports wear. It has a stretch under short for comfort and modesty. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
+        "Details":"100% polyester"
+    },
+    {
+        "Id": 13,
+        "Brands": {
+            "Id":"500",
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": {
+                "Id":550,
+                "Name":"Socks"
+            }
+        },
+        "Name":"AKOA SECTOR CONTRAST TOP SOCK",
+        "Img":"img/genres/Akoa/Socks.jpg",
+        "Gender": "",
+        "Color": "BLACK AND SCARLET",
+        "Price": 21,
+        "Description": "The Akoa Sector contrast top sock has an elasticated top that eliminates the need for tie ups and can be worn under or over the knee. The elasticated ankle support helps hold shin pads in place with a padded sole for added comfort. Micromesh foot venting and a flat toe are extra features.",
+        "Details":"95% Polyamide, 5% Elastane"
+    },
+    {
+        "Id": 14,
+        "Brands": {
+            "Id":"500",
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": {
+                "Id":550,
+                "Name":"Socks"
+            }
+        },
+        "Name":"AKOA SECTOR CONTRAST TOP SOCK",
+        "Img":"img/genres/Akoa/Socks1.jpg",
+        "Gender": "",
+        "Color": "NAVY AND CYCLONE BLUE",
+        "Price": 21,
+        "Description": "The Akoa Sector contrast top sock has an elasticated top that eliminates the need for tie ups and can be worn under or over the knee. The elasticated ankle support helps hold shin pads in place with a padded sole for added comfort. Micromesh foot venting and a flat toe are extra features.",
+        "Details":"95% Polyamide, 5% Elastane"
+    },
+    {
+        "Id": 15,
+        "Brands": {
+            "Id":"500",
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": {
+                "Id":550,
+                "Name":"Socks"
+            }
+        },
+        "Name":"AKOA SECTOR CONTRAST TOP SOCK",
+        "Img":"img/genres/Akoa/Socks2.jpg",
+        "Gender": "",
+        "Color": "ROYAL AND WHITE",
+        "Price": 21,
+        "Description": "The Akoa Sector contrast top sock has an elasticated top that eliminates the need for tie ups and can be worn under or over the knee. The elasticated ankle support helps hold shin pads in place with a padded sole for added comfort. Micromesh foot venting and a flat toe are extra features.",
+        "Details":"95% Polyamide, 5% Elastane"
+    },
+    {
+        "Id": 16,
+        "Brands": {
+            "Id":"500",
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": {
+                "Id":560,
+                "Name":"Track Pants and Leggings"
+            }
+        },
+        "Name":"AKOA SECTOR GIRLS' LEGGINGS",
+        "Img":"img/genres/Akoa/Track_Leggings_G.jpg",
         "Gender": "Girl",
         "Color": "BLACK",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Price": 21,
+        "Description":"The Akoa Sector girls' leggings are made from a dense stretch fabric for comfort, performance and modesty. The fit is especially designed for girls.",
+        "Details":"88% Polyester, 12% Elastane"
     },
     {
-        "Id": 36,
+        "Id": 17,
         "Brands": {
-            "Id":"22",
-            "Brand":"Chadwick Teamwear",
-            "Type": ""
+            "Id":"500",
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": {
+                "Id":560,
+                "Name":"Track Pants and Leggings"
+            }
         },
-        "Name":"Chadwick Teamwear Polo Shirts",
-        "Img":"img/MANpoloshirt/ChadwickTeamwear/polorednblack.jpg",
-        "Gender": "boy",
-        "Color": "BLACK AND RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Name":"AKOA SECTOR GIRLS' LEGGINGS",
+        "Img":"img/genres/Akoa/Track_Leggings_G1.jpg",
+        "Gender": "Girl",
+        "Color": "NAVY",
+        "Price": 21,
+        "Description":"The Akoa Sector girls' leggings are made from a dense stretch fabric for comfort, performance and modesty. The fit is especially designed for girls.",
+        "Details":"88% Polyester, 12% Elastane"
     },
     {
-        "Id": 37,
+        "Id": 18,
         "Brands": {
-            "Id":"22",
-            "Brand":"Chadwick Teamwear",
-            "Type": ""
+            "Id":"500",
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": {
+                "Id":560,
+                "Name":"Track Pants and Leggings"
+            }
         },
-        "Name":"Chadwick Teamwear Polo Shirts",
-        "Img":"img/MANpoloshirt/ChadwickTeamwear/topblack.jpg",
-        "Gender": "boy",
+        "Name":"AKOA SECTOR PRO TRACK PANT",
+        "Img":"img/product/small-size/product-image-1.jpg",
+        "Gender": "Boy",
         "Color": "BLACK",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
-    },
-    {
-        "Id": 38,
-        "Brands": {
-            "Id":"22",
-            "Brand":"Chadwick Teamwear",
-            "Type": ""
-        },
-        "Name":"Chadwick Teamwear Hoodies",
-        "Img":"img/MANpoloshirt/ChadwickTeamwear/hoodie.jpg",
-        "Gender": "boy",
-        "Color": "BLACK AND EMERALD",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
-    },
-    {
-        "Id": 39,
-        "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
-        },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
-    },
-    {
-        "Id": 40,
-        "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
-        },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
-    },
-    {
-        "Id": 41,
-        "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
-        },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
-    },
-    {
-        "Id": 42,
-        "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
-        },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
-    },
-    {
-        "Id": 43,
-        "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
-        },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
-    },
-    {
-        "Id": 44,
-        "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
-        },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
-    },
-    {
-        "Id": 45,
-        "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
-        },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
-    },
-    {
-        "Id": 46,
-        "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
-        },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
-    },
-    {
-        "Id": 47,
-        "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
-        },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
-    },
-    {
-        "Id": 48,
-        "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
-        },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Price": 21,
+        "Description":"The Akoa Sector pro track pant is perfect for everyday sports wear. Sizes XXS and above feature an elasticated waist with an internal drawcord. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side stripe is coloured or self coloured and it features an open hem with ¼ zip opening.",
+        "Details":"Open hem with ¼ zip opening"
     },
     {
         "Id": 49,
