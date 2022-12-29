@@ -19,10 +19,7 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":510,
-                "Name":"Polo Shirts"
-            }
+            "Name":"Shirts"
         },
         "Name":"AKOA SECTOR POLO SHIRT",
         "Img":"img/genres/Akoa/Pol_skirts_B1.jpg",
@@ -37,10 +34,7 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":510,
-                "Name":"Polo Shirts"
-            }
+            "Name":"Shirts"
         },
         "Name":"AKOA SECTOR GIRLS' FIT POLO SHIRT",
         "Img":"img/genres/Akoa/Pol_skirts_G.jpg",
@@ -56,10 +50,7 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type":{
-                "Id":510,
-                "Name":"Polo Shirts"
-            } 
+            "Name":"Shirts"
         },
         "Name":"AKOA SECTOR GIRLS' FIT POLO SHIRT",
         "Img":"img/genres/Akoa/Pol_skirts_G1.jpg",
@@ -72,12 +63,8 @@
     {
         "Id": 5,
         "Brands": {
-            "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":520,
-                "Name":"School Shorts"
-            }
+            "Name":"School Shorts"
         },
         "Name":"AKOA MULTISPORT SHORT",
         "Img":"img/genres/Akoa/School_short.jpg",
@@ -92,10 +79,7 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":520,
-                "Name":"School Shorts"
-            }
+            "Name":"School Shorts"
         },
         "Name":"AKOA MULTISPORT SHORT",
         "Img":"img/genres/Akoa/School_short1.jpg",
@@ -110,10 +94,8 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":520,
-                "Name":"School Shorts"
-            }
+            "Name":"School Shorts"
+            
         },
         "Name":"AKOA MULTISPORT SHORT",
         "Img":"img/genres/Akoa/School_short2.jpg",
@@ -128,10 +110,7 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":530,
-                "Name":"School Fleeces and Hoodies"
-            }
+            "Name":"School Fleeces and Hoodies"        
         },
         "Name":"AKOA SECTOR MICROFLEECE",
         "Img":"img/genres/Akoa/Fleeces_hoodies.jpg",
@@ -146,10 +125,7 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":530,
-                "Name":"School Fleeces and Hoodies"
-            }
+            "Name":"School Fleeces and Hoodies"
         },
         "Name":"AKOA SECTOR HOODY",
         "Img":"img/genres/Akoa/Fleeces_hoodies1.jpg",
@@ -164,10 +140,7 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":530,
-                "Name":"School Fleeces and Hoodies"
-            }
+            "Name":"School Fleeces and Hoodies"
         },
         "Name":"AKOA SECTOR HOODY",
         "Img":"img/genres/Akoa/Fleeces_hoodies2.jpg",
@@ -182,10 +155,8 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":540,
-                "Name":"Skorts"
-            }
+            "Name":"Skorts"
+        
         },
         "Name":"AKOA SECTOR PANEL SKORT",
         "Img":"img/genres/Akoa/Skort.jpg",
@@ -218,10 +189,7 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":540,
-                "Name":"Skorts"
-            }
+            "Name":"Skorts"
         },
         "Name":"AKOA SECTOR PANEL SKORT",
         "Img":"img/genres/Akoa/Skort2.jpg",
@@ -236,10 +204,7 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":550,
-                "Name":"Socks"
-            }
+            "Name":"Socks"           
         },
         "Name":"AKOA SECTOR CONTRAST TOP SOCK",
         "Img":"img/genres/Akoa/Socks.jpg",
@@ -254,10 +219,7 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":550,
-                "Name":"Socks"
-            }
+            "Name":"Socks"
         },
         "Name":"AKOA SECTOR CONTRAST TOP SOCK",
         "Img":"img/genres/Akoa/Socks1.jpg",
@@ -272,11 +234,8 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":550,
-                "Name":"Socks"
-            }
-        },
+            "Name":"Socks"
+       },
         "Name":"AKOA SECTOR CONTRAST TOP SOCK",
         "Img":"img/genres/Akoa/Socks2.jpg",
         "Gender": "",
@@ -290,10 +249,7 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":560,
-                "Name":"Track Pants and Leggings"
-            }
+            "Name":"Track Pants and Leggings"
         },
         "Name":"AKOA SECTOR GIRLS' LEGGINGS",
         "Img":"img/genres/Akoa/Track_Leggings_G.jpg",
@@ -308,10 +264,7 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":560,
-                "Name":"Track Pants and Leggings"
-            }
+            "Name":"Track Pants and Leggings"
         },
         "Name":"AKOA SECTOR GIRLS' LEGGINGS",
         "Img":"img/genres/Akoa/Track_Leggings_G1.jpg",
@@ -326,10 +279,7 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":560,
-                "Name":"Track Pants and Leggings"
-            }
+            "Name":"Track Pants and Leggings"
         },
         "Name":"AKOA SECTOR PRO TRACK PANT",
         "Img":"img/genres/Akoa/Track_Leggings_B.jpg",
@@ -344,10 +294,7 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":560,
-                "Name":"Track Pants and Leggings"
-            }
+            "Name":"Track Pants and Leggings"
         },
         "Name":"AKOA SECTOR PRO TRACK PANT",
         "Img":"img/genres/Akoa/Track_Leggings_B1.jpg",
@@ -363,10 +310,7 @@
         "Brands": {
             "Id":"600",
             "Brand":"Chadwick Teamwear",
-            "Type": {
-                "Id":610,
-                "Name":"Polo Shirts"
-            }
+            "Name":"Shirts"
         },
         "Name":"CHADWICK IGEN FEMALE POLO",
         "Img":"img/genres/Chadwick/Pol_skirts_G.jpg",
@@ -381,11 +325,7 @@
         "Brands": {
             "Id":"600",
             "Brand":"Chadwick Teamwear",
-            "Type": {
-                "Id":610,
-                "Name":"Polo Shirts"
-
-            }
+            "Name":"Shirts"
         },
         "Name":"CHADWICK IGEN FEMALE POLO",
         "Img":"img/genres/Chadwick/Pol_skirts_G1.jpg",
@@ -401,10 +341,7 @@
         "Brands": {
             "Id":"600",
             "Brand":"Chadwick Teamwear",
-            "Type": {
-                "Id":610,
-                "Name":"Polo Shirts"
-            }
+            "Name":"Shirts"
         },
         "Name":"CHADWICK IGEN MALE POLO",
         "Img":"img/genres/Chadwick/Pol_skirts_B.jpg",
@@ -419,10 +356,7 @@
         "Brands": {
             "Id":"600",
             "Brand":"Chadwick Teamwear",
-            "Type": {
-                "Id":610,
-                "Name":"Polo Shirts"
-            }
+            "Name":"Shirts"
         },
         "Name":"CHADWICK IGEN MALE POLO",
         "Img":"img/genres/Chadwick/Pol_skirts_B1.jpg",
@@ -438,10 +372,7 @@
         "Brands": {
             "Id":"600",
             "Brand":"Chadwick Teamwear",
-            "Type": {
-                "Id":620,
-                "Name":"Tops"
-            }
+            "Name":"Tops"
         },
         "Name":"CHADWICK 860 EDGE PRO CONTACT TOP",
         "Img":"img/genres/Chadwick/Tops.jpg",
@@ -456,10 +387,7 @@
         "Brands": {
             "Id":"600",
             "Brand":"Chadwick Teamwear",
-            "Type": {
-                "Id":620,
-                "Name":"Tops"
-            }
+            "Name":"Tops"
         },
         "Name":"CHADWICK 860 EDGE PRO CONTACT TOP",
         "Img":"img/genres/Chadwick/Tops1.jpg",
@@ -475,10 +403,7 @@
         "Brands": {
             "Id":"600",
             "Brand":"Chadwick Teamwear",
-            "Type": {
-                "Id":620,
-                "Name":"Tops"
-            }
+            "Name":"Tops"
         },
         "Name":"CHADWICK 860 EDGE PRO CONTACT TOP",
         "Img":"img/genres/Chadwick/Tops2.jpg",
@@ -493,10 +418,922 @@
         "Brands": {
             "Id":"600",
             "Brand":"Chadwick Teamwear",
-            "Type": {
-                "Id":630,
-                "Name":"Hoodies"
-            }
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
+        },
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": {
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Name":"Hoodies"
         },
         "Name":"CHADWICK PREMIUM PRO HOODY",
         "Img":"img/genres/Chadwick/Hoodies.jpg",
