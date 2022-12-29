@@ -18,19 +18,9 @@
     },
     {
         "Id": 1,
-        "Brands": {
-            "Id":"",
-            "Brand":""
-        },
         "Name":"ECO POLO SHIRT",
         "Img":"img/MANpoloshirt/bluesky.jpg",
-        "Type": "",
-        "Gender": "boy",
-        "Color": "BRIGHT SKY",
-        "Price": 11,
-        "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
-        "Details":"60% Cotton, 40% Polyester"
-    
+        "Gender": "boy"
     },
     {
         "Id": 2,
