@@ -455,50 +455,59 @@
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
-        "Id": 55,
+        "Id": 25,
         "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Type": {
+                "Id":620,
+                "Name":"Tops"
+            }
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Name":"CHADWICK 860 EDGE PRO CONTACT TOP",
+        "Img":"img/genres/Chadwick/Tops1.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description":"The Chadwick's 860 edge pro contact top is the next level multi purpose training top. It is durable with reinforced seams throughout, perfect for wearing indoors or outdoors. Easy care for just machine wash.",
+        "Details":"For best results, machine wash according to instruction on care label "
         
     },
     {
-        "Id": 56,
+        "Id": 26,
         "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Type": {
+                "Id":620,
+                "Name":"Tops"
+            }
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Name":"CHADWICK 860 EDGE PRO CONTACT TOP",
+        "Img":"img/genres/Chadwick/Tops2.jpg",
+        "Gender": "",
+        "Color": "NAVY",
+        "Price": 21,
+        "Description":"The Chadwick's 860 edge pro contact top is the next level multi purpose training top. It is durable with reinforced seams throughout, perfect for wearing indoors or outdoors. Easy care for just machine wash.",
+        "Details":"For best results, machine wash according to instruction on care label "
     },
     {
-        "Id": 57,
+        "Id": 27,
         "Brands": {
-            "Id":"",
-            "Brand":"",
-            "Type": ""
+            "Id":"600",
+            "Brand":"Chadwick Teamwear",
+            "Type": {
+                "Id":630,
+                "Name":"Hoodies"
+            }
         },
-        "Name":"TRUTEX POLO SHIRT",
-        "Img":"img/product/small-size/product-image-1.jpg",
-        "Gender": "boy",
-        "Color": "BRIGHT RED",
-        "Price": 188,
-        "Description": "The Trutex poloshirt is hard wearing and made to last using superior weight fabric. Easy to care for, machine washable and tumble dry. The affordability of the Trutex poloshirt make it an essential item of your child's uniform.",
-        "Details":"60% Cotton, 40% Polyester"
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
     }
-    
+
 ]
