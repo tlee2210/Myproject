@@ -1,5 +1,5 @@
 angular.module("myApp.genres", [])
-    .controller("genres", ["$scope","$filter", "$http","$routeParams", function($scope, $filter, $http, $routeParams){
+    .controller("genres", ["$scope","movieAPIservice", "movieAPIservice","$routeParams", function($scope, $filter, movieAPIservice, $routeParams){
 
         $scope.genresName = $routeParams.genresName
 
