@@ -4,4 +4,10 @@ angular.module("myApp.homeCtrl",[])
             $scope.Homelist = reponse.data;
             console.log(reponse.data);
         })
+
+        movieAPIservice.getBrnads().then(function(reponse){
+            var data = reponse.data;
+            $scope.brandslist = data;
+            console.log($scope.brandslist);
+        })
     }])

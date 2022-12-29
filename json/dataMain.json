@@ -4,10 +4,7 @@
         "Brands": {
             "Id":"500",
             "Brand":"AKOA SPORTSWEAR",
-            "Type": {
-                "Id":510,
-                "Name":"Shirts"
-            }
+            "Name":"Shirts"
         },
         "Name":"AKOA SECTOR POLO SHIRT",
         "Img":"img/genres/Akoa/Pol_skirts_B.jpg",
