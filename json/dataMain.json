@@ -3,11 +3,11 @@
         "Id": 30,
         "Brands": {
             "Id":"11",
-            "Brand":"AKOA SPORTSWEAR"
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": ""
         },
         "Name":"T-Shirts",
         "Img":"img/MANpoloshirt/AKOA/blacknwhite.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BLACK AND WHITE",
         "Price": 11,
@@ -18,11 +18,11 @@
         "Id": 31,
         "Brands": {
             "Id":"11",
-            "Brand":"AKOA SPORTSWEAR"
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": ""
         },
         "Name":"School Shorts",
         "Img":"img/MANpoloshirt/AKOA/navynwhite.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "NAVY AND WHITE",
         "Price": 188,
@@ -33,11 +33,11 @@
         "Id": 32,
         "Brands": {
             "Id":"11",
-            "Brand":"AKOA SPORTSWEAR"
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": ""
         },
         "Name":"School Fleeces and Hoodies",
         "Img":"img/MANpoloshirt/AKOA/hoodiewnb.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BLACK AND WHITE",
         "Price": 188,
@@ -49,11 +49,11 @@
         "Id": 33,
         "Brands": {
             "Id":"11",
-            "Brand":"AKOA SPORTSWEAR"
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": ""
         },
         "Name":"Socks",
         "Img":"img/MANpoloshirt/AKOA/sockbnc.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BLACK AND SCARLET",
         "Price": 188,
@@ -64,11 +64,11 @@
         "Id": 34,
         "Brands": {
             "Id":"11",
-            "Brand":"AKOA SPORTSWEAR"
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": ""
         },
         "Name":"Skorts",
         "Img":"img/MANpoloshirt/AKOA/blackskort.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BLACK",
         "Price": 188,
@@ -79,11 +79,11 @@
         "Id": 35,
         "Brands": {
             "Id":"11",
-            "Brand":"AKOA SPORTSWEAR"
+            "Brand":"AKOA SPORTSWEAR",
+            "Type": ""
         },
         "Name":"SECTOR GIRLS' LEGGINGS",
         "Img":"img/MANpoloshirt/AKOA/sectorblack.jpg",
-        "Type": "",
         "Gender": "Girl",
         "Color": "BLACK",
         "Price": 188,
@@ -94,11 +94,11 @@
         "Id": 36,
         "Brands": {
             "Id":"22",
-            "Brand":"Chadwick Teamwear"
+            "Brand":"Chadwick Teamwear",
+            "Type": ""
         },
         "Name":"Chadwick Teamwear Polo Shirts",
         "Img":"img/MANpoloshirt/ChadwickTeamwear/polorednblack.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BLACK AND RED",
         "Price": 188,
@@ -109,11 +109,11 @@
         "Id": 37,
         "Brands": {
             "Id":"22",
-            "Brand":"Chadwick Teamwear"
+            "Brand":"Chadwick Teamwear",
+            "Type": ""
         },
         "Name":"Chadwick Teamwear Polo Shirts",
         "Img":"img/MANpoloshirt/ChadwickTeamwear/topblack.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BLACK",
         "Price": 188,
@@ -124,11 +124,11 @@
         "Id": 38,
         "Brands": {
             "Id":"22",
-            "Brand":"Chadwick Teamwear"
+            "Brand":"Chadwick Teamwear",
+            "Type": ""
         },
         "Name":"Chadwick Teamwear Hoodies",
         "Img":"img/MANpoloshirt/ChadwickTeamwear/hoodie.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BLACK AND EMERALD",
         "Price": 188,
@@ -139,11 +139,11 @@
         "Id": 39,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -154,11 +154,11 @@
         "Id": 40,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -169,11 +169,11 @@
         "Id": 41,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -184,11 +184,11 @@
         "Id": 42,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -199,11 +199,11 @@
         "Id": 43,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -214,11 +214,11 @@
         "Id": 44,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -229,11 +229,11 @@
         "Id": 45,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -244,11 +244,11 @@
         "Id": 46,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -259,11 +259,11 @@
         "Id": 47,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -274,11 +274,11 @@
         "Id": 48,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -289,11 +289,11 @@
         "Id": 49,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -305,11 +305,11 @@
         "Id": 50,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -320,11 +320,11 @@
         "Id": 51,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -336,11 +336,11 @@
         "Id": 52,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -351,11 +351,11 @@
         "Id": 53,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -367,11 +367,11 @@
         "Id": 54,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -382,11 +382,11 @@
         "Id": 55,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -398,11 +398,11 @@
         "Id": 56,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
@@ -413,11 +413,11 @@
         "Id": 57,
         "Brands": {
             "Id":"",
-            "Brand":""
+            "Brand":"",
+            "Type": ""
         },
         "Name":"TRUTEX POLO SHIRT",
         "Img":"img/product/small-size/product-image-1.jpg",
-        "Type": "",
         "Gender": "boy",
         "Color": "BRIGHT RED",
         "Price": 188,
