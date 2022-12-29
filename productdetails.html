@@ -93,12 +93,12 @@
 
                         <!-- Widgets -->
                         <div class="col-lg-3 order-2 order-lg-1">
-                            <div class="widgets" ng-controller="menuCtrl">
+                            <div class="widgets" ng-controller="catalogCtrl">
 
                                 <aside class="single-widget widget-categories" >
-                                    <h6 class="widget-title">brand</h6>
+                                    <h6 class="widget-title">phan loai</h6>
                                     <ul>  
-                                        <li ng-repeat="brands in brandslist"><a href="#">{{brands.Name}} <span>so luong</span></a></li>
+                                        <li ng-repeat="catalog in cataloglist"><a href="#">{{catalog.Name}} <span>so luong</span></a></li>
                                     </ul>
                                 </aside>
 

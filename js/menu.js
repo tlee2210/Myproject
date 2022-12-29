@@ -6,10 +6,4 @@ angular.module("myApp.menu",[])
             $scope.brandslist = data;
             console.log($scope.brandslist);
         })
-
-        movieAPIservice.getAccessories().then(function(reponse){
-            var data = reponse.data
-            $scope.access = data;
-            console.log($scope.access);
-        })
     }])

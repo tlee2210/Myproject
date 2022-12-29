@@ -66,12 +66,7 @@
 
 								<div class="product-details-color">
 									<span>Color :</span>
-									<ul>
-										<li class="red"><span></span></li>
-										<li class="green checked"><span></span></li>
-										<li class="blue"><span></span></li>
-										<li class="black"><span></span></li>
-									</ul>
+									<ul>{{movie.Color}}</ul>
 								</div>
 
 								<div class="product-details-size">
@@ -87,6 +82,13 @@
 
 								<div class="product-details-categories">
 									<span>Categories :</span>
+									<ul>
+										<li><a href="">the loai {{movie.Gender}}</a></li>
+									</ul>
+								</div>
+
+								<div class="product-details-categories">
+									<span>Gender :</span>
 									<ul>
 										<li><a href="">{{movie.Gender}}</a></li>
 									</ul>
