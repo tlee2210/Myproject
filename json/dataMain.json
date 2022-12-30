@@ -518,9 +518,13 @@
             "Brand":"Chadwick Teamwear"
         },
         "Type":{
+<<<<<<< HEAD
             "Name":"Hoodies",
             "Id":630
 
+=======
+            "Name":"Hoodies"  
+>>>>>>> b90f1cd2d16d7235d960278a7bd6ceb31d289bd0
         },
         "Name":"CHADWICK PREMIUM PRO HOODY",
         "Img":"img/genres/Chadwick/Hoodies1.jpg",
