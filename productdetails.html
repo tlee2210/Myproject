@@ -1,6 +1,6 @@
 <div ng-controller="genresCtrl">
     <!-- Page Conttent -->
-		<main class="page-content">
+		<main class="page-content" ng-controller="productdetails">
 
             <!-- Fullwidth Shop Area -->
             <div class="shop-area bg-white section-padding-bottom-md">
@@ -38,7 +38,7 @@
                             <!--// Shop Page Toolbars -->
 
                             <!-- Shop Page Products -->
-                            <div class="row justify-content-center shop-page-products products-wrapper" ng-controller="productdetails">
+                            <div class="row justify-content-center shop-page-products products-wrapper">
 
                                 <!-- Single Product -->
                                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in dataMain | paginate:currentPage:pageSize">
