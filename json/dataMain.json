@@ -82,7 +82,7 @@
         },
         "Type":{
             "Name":"Short",
-            "Id":640,
+            "Id":640
         },
         "Name":"AKOA MULTISPORT SHORT",
         "Img":"img/genres/Akoa/School_short.jpg",
@@ -518,133 +518,142 @@
             "Brand":"Chadwick Teamwear"
         },
         "Type":{
-            "Name":"Hoodies",        
+            "Name":"Hoodies",
+            "Id":630
+
         },
         "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Img":"img/genres/Chadwick/Hoodies1.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "BLACK AND EMERALD",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Description":"Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
-        "Id": 27,
+        "Id": 30,
         "Brands": {
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
         },
         "Type":{
-            "Name":"Hoodies"        
+            "Name":"Hoodies",
+            "Id":630        
         },
         "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Img":"img/genres/Chadwick/Hoodies2.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "BLACK AND WHITE",
         "Price": 21,
         "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
-        "Id": 27,
+        "Id": 31,
         "Brands": {
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
         },
         "Type":{
-            "Name":"Hoodies"        
+            "Name":"Short",
+            "Id":640        
         },
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Name":"CHADWICK IGEN UNISEX SHORTS",
+        "Img":"img/genres/Chadwick/Shorts.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "BLACK",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Description": "Chadwick's iGen Unisex Team Short is part of a 4-piece iGen product range. It is a specially designed games style team short and can be worn with the iGen unisex polo. It comes in a breathable fabric, that is lightweight and easy to care for.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
-        "Id": 27,
+        "Id": 32,
         "Brands": {
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
         },
         "Type":{
-            "Name":"Hoodies"        
+            "Name":"Short",
+            "Id":640        
         },
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Name":"CHADWICK IGEN UNISEX SHORTS",
+        "Img":"img/genres/Chadwick/Shorts1.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "BLACK AND RED",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Description": "Chadwick's iGen Unisex Team Short is part of a 4-piece iGen product range. It is a specially designed games style team short and can be worn with the iGen unisex polo. It comes in a breathable fabric, that is lightweight and easy to care for.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
-        "Id": 27,
+        "Id": 33,
         "Brands": {
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
         },
         "Type":{
-            "Name":"Hoodies"        
+            "Name":"Short",
+            "Id":640        
         },
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Name":"CHADWICK IGEN UNISEX SHORTS",
+        "Img":"img/genres/Chadwick/Shorts2.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "NAVY",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Description": "Chadwick's iGen Unisex Team Short is part of a 4-piece iGen product range. It is a specially designed games style team short and can be worn with the iGen unisex polo. It comes in a breathable fabric, that is lightweight and easy to care for.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
-        "Id": 27,
+        "Id": 34,
         "Brands": {
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
         },
         "Type":{
-            "Name":"Hoodies"        
+            "Name":"Skorts",
+            "Id":650        
         },
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"CHADWICK IGEN FEMALE SKORT",
+        "Img":"img/genres/Chadwick/Skorts.jpg",
+        "Gender": "Girl",
+        "Color": "BLACK",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Description": "Chadwick's iGen Female Skort is part of a 4-piece iGen product range. It is a specially designed games style team short and can be worn with the iGen unisex polo. It comes in a breathable fabric, that is lightweight and easy to care for.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
-        "Id": 27,
+        "Id": 35,
         "Brands": {
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
         },
         "Type":{
-            "Name":"Hoodies"        
+            "Name":"Skorts",
+            "Id":650        
         },
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
+        "Name":"CHADWICK IGEN FEMALE SKORT",
+        "Img":"img/genres/Chadwick/Skorts1.jpg",
+        "Gender": "Girl",
         "Color": "BLACK AND AMBER",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Description": "Chadwick's iGen Female Skort is part of a 4-piece iGen product range. It is a specially designed games style team short and can be worn with the iGen unisex polo. It comes in a breathable fabric, that is lightweight and easy to care for.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
-        "Id": 27,
+        "Id": 36,
         "Brands": {
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
         },
         "Type":{
-            "Name":"Hoodies"        
+            "Name":"Skorts",
+            "Id":650        
         },
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"CHADWICK IGEN FEMALE SKORT",
+        "Img":"img/genres/Chadwick/Skorts2.jpg",
+        "Gender": "Girl",
+        "Color": "NAVY",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Description": "Chadwick's iGen Female Skort is part of a 4-piece iGen product range. It is a specially designed games style team short and can be worn with the iGen unisex polo. It comes in a breathable fabric, that is lightweight and easy to care for.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
