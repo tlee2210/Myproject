@@ -3,7 +3,9 @@
         "Id": 1,
         "Brands": {
             "Id":"500",
-            "Brand":"AKOA SPORTSWEAR",
+            "Brand":"AKOA SPORTSWEAR"
+        },
+        "Type":{
             "Name":"Shirts"
         },
         "Name":"AKOA SECTOR POLO SHIRT",
@@ -18,7 +20,9 @@
         "Id": 2,
         "Brands": {
             "Id":"500",
-            "Brand":"AKOA SPORTSWEAR",
+            "Brand":"AKOA SPORTSWEAR"
+        },
+        "Type":{
             "Name":"Shirts"
         },
         "Name":"AKOA SECTOR POLO SHIRT",
@@ -33,7 +37,9 @@
         "Id": 3,
         "Brands": {
             "Id":"500",
-            "Brand":"AKOA SPORTSWEAR",
+            "Brand":"AKOA SPORTSWEAR"
+        },
+        "Type":{
             "Name":"Shirts"
         },
         "Name":"AKOA SECTOR GIRLS' FIT POLO SHIRT",
@@ -49,7 +55,9 @@
         "Id": 4,
         "Brands": {
             "Id":"500",
-            "Brand":"AKOA SPORTSWEAR",
+            "Brand":"AKOA SPORTSWEAR"
+        },
+        "Type":{
             "Name":"Shirts"
         },
         "Name":"AKOA SECTOR GIRLS' FIT POLO SHIRT",
@@ -65,6 +73,9 @@
         "Brands": {
             "Brand":"AKOA SPORTSWEAR",
             "Name":"School Shorts"
+        },
+        "Type":{
+            "Name":"Short"
         },
         "Name":"AKOA MULTISPORT SHORT",
         "Img":"img/genres/Akoa/School_short.jpg",
