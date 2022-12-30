@@ -92,13 +92,17 @@
                         <!--// Shop Page Products -->
 
                         <!-- Widgets -->
-                        <div class="col-lg-3 order-2 order-lg-1">
+                        <div class="col-lg-3 order-2 order-lg-1"  ng-controller="genresCtrl">
                             <div class="widgets" ng-controller="catalogCtrl">
 
                                 <aside class="single-widget widget-categories" >
                                     <h6 class="widget-title">phan loai</h6>
                                     <ul >  
-                                        <li ng-repeat="catalog in cataloglist"><a href="#!/genres/{{catalog.Name}}">{{catalog.Name}} <span>so luong</span></a></li>
+                                        <li ng-repeat="catalog in cataloglist | filter:search">
+                                            <a href="#!/genres/{{catalog.Name}}">{{catalog.Name}} 
+                                                <span>so luong</span>
+                                            </a>
+                                        </li>
                                     </ul> 
                                 </aside>
 
