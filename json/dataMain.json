@@ -82,7 +82,7 @@
         },
         "Type":{
             "Name":"Short",
-            "Id":640,
+            "Id":640
         },
         "Name":"AKOA MULTISPORT SHORT",
         "Img":"img/genres/Akoa/School_short.jpg",
@@ -518,7 +518,7 @@
             "Brand":"Chadwick Teamwear"
         },
         "Type":{
-            "Name":"Hoodies",        
+            "Name":"Hoodies"  
         },
         "Name":"CHADWICK PREMIUM PRO HOODY",
         "Img":"img/genres/Chadwick/Hoodies.jpg",
