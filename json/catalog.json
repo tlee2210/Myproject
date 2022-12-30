@@ -42,5 +42,17 @@
     {
         "Name":"Socks",
         "Id":""
+    },
+    {
+        "Name":"Track Pants",
+        "Id":""
+    },
+    {
+        "Name":"Tops",
+        "Id":""
+    },
+    {
+        "Name":"Hoodies",
+        "Id":""
     }
 ]

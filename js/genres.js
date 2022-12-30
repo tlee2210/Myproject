@@ -9,7 +9,7 @@ angular.module("myApp.genres", ["ui.bootstrap"])
         movieAPIservice.getcatalog().then(function(reponse){
             var data = reponse.data;
             $scope.cataloglist = $filter("filter")(data, function(movie){
-                return $filter("filter")(movie.Type, {Name: $scope.catalogName}).length;
+                return $filter("filter")(movie.Type, {Name: $scope.catalogName});
             })
             console.log($scope.cataloglist);
         })

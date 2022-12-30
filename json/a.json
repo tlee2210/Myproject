@@ -1,0 +1,21 @@
+[
+    {
+        "Id":500,
+        "Name":"Akoa Sportswear"
+    },
+    {
+        "Id":600,
+        "Name":"Chadwick Teamwear"
+        
+    },
+    {
+        "Id":700,
+        "Name":"Banner Schoolwear"
+    },
+    {
+        "Id":800,
+        "Name":"David Schoolwear"
+        
+    }
+
+]
