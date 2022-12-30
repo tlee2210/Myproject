@@ -14,7 +14,7 @@ var app = angular.module("myApp", [
     "myApp.movie",
     "myApp.movie-svervice",
     "myApp.menu",
-    "myApp.catalog",
+    // "myApp.catalog",
     "myApp.genres"
 
 ])
@@ -32,7 +32,7 @@ app.config(function($routeProvider){
     .when("/Accessories", {templateUrl : "Accessories.html", controller:"Accessories"})
     .when("/feedback", {templateUrl : "feedback.html", controller:"feedback"})
     .when("/movie/:Id", {templateUrl : "movie.html", controller:"movie"})
-    .when("/genres/:genresName", {templateUrl : "Accessories.html", controller:"genresCtrl"})
+    // .when("/genres/:genresName", {templateUrl : "Accessories.html", controller:"genresCtrl"})
 })
 
 
