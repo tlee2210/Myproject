@@ -38,7 +38,7 @@
                             <!--// Shop Page Toolbars -->
 
                             <!-- Shop Page Products -->
-                            <div class="row justify-content-center shop-page-products products-wrapper">
+                            <div class="row justify-content-center shop-page-products products-wrapper" ng-controller="productdetails">
 
                                 <!-- Single Product -->
                                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in dataMain | paginate:currentPage:pageSize">
@@ -92,8 +92,8 @@
                         <!--// Shop Page Products -->
 
                         <!-- Widgets -->
-                        <div class="col-lg-3 order-2 order-lg-1">
-                            <div class="widgets" ng-controller="catalogCtrl">
+                        <div class="col-lg-3 order-2 order-lg-1" ng-controller="catalogCtrl">
+                            <div class="widgets">
 
                                 <aside class="single-widget widget-categories" >
                                     <h6 class="widget-title">phan loai</h6>

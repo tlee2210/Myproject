@@ -11,12 +11,9 @@ angular.module("myApp.movie-svervice", [])
         }
 
         movieAPI.getBrnads = function(){
-            return $http.get("../json/a.json");
+            return $http.get("../json/brands.json");
         }
 
-        movieAPI.getAccessories = function(){
-            return $http.get("../json/Accessories.json");
-        }
         movieAPI.getcatalog = function(){
             return $http.get("../json/catalog.json");
         }

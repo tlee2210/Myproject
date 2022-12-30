@@ -7,7 +7,6 @@ var app = angular.module("myApp", [
     "myApp.productdetails",
     "contact",
     "aboutus",
-    "Accessories",
     "feedback",
     "ui.bootstrap",
     "myApp.paginate-filter",
@@ -29,7 +28,6 @@ app.config(function($routeProvider){
     .when("/productdetails", {templateUrl : "productdetails.html", controller:"productdetails"})
     .when("/contact", {templateUrl : "contact.html", controller:"contact"})
     .when("/aboutus", {templateUrl : "aboutus.html", controller:"aboutus"})
-    .when("/Accessories", {templateUrl : "Accessories.html", controller:"Accessories"})
     .when("/feedback", {templateUrl : "feedback.html", controller:"feedback"})
     .when("/movie/:Id", {templateUrl : "movie.html", controller:"movie"})
     .when("/genres/:genresName", {templateUrl : "Accessories.html", controller:"genresCtrl"})
@@ -59,11 +57,6 @@ angular.module("contact", [])
 
 angular.module("aboutus", [])
     .controller("aboutus", ["$scope", "$http", function($scope, $http){
-                
-    }])
-
-angular.module("Accessories", [])
-    .controller("Accessories", ["$scope", "$http", function($scope, $http){
                 
     }])
 
