@@ -1,20 +1,19 @@
 var app = angular.module("myApp", [
     "ngRoute",
     "myApp.homeCtrl",
-    "myAccount",
-    "cart",
-    "checkout",
-    "myApp.productdetails",
-    "contact",
-    "aboutus",
-    "feedback",
+    // "myAccount",
+    // "cart",
+    // "checkout",
+    "myApp.catalog",
+    // "contact",
+    // "aboutus",
+    // "feedback",
     "ui.bootstrap",
     "myApp.paginate-filter",
-    "myApp.movie",
-    "myApp.movie-svervice",
-    "myApp.menu",
-    "myApp.catalog",
-    "myApp.genres"
+    "myApp.product",
+    "myApp.product-svervice",
+    // "myApp.menu",
+    // "myApp.genres"
 
 ])
 
@@ -22,15 +21,15 @@ var app = angular.module("myApp", [
 app.config(function($routeProvider){
     $routeProvider
     .when("/", {templateUrl : "home.html", controller:"homeCtrl"})
-    .when("/myAccount", {templateUrl : "myAccount.html", controller:"myAccount"})
-    .when("/cart", {templateUrl : "cart.html", controller:"cart"})
-    .when("/checkout", {templateUrl : "checkout.html", controller:"checkout"})
-    .when("/productdetails", {templateUrl : "productdetails.html", controller:"productdetails"})
-    .when("/contact", {templateUrl : "contact.html", controller:"contact"})
-    .when("/aboutus", {templateUrl : "aboutus.html", controller:"aboutus"})
-    .when("/feedback", {templateUrl : "feedback.html", controller:"feedback"})
-    .when("/movie/:Id", {templateUrl : "movie.html", controller:"movie"})
-    .when("/genres/:genresName", {templateUrl : "Accessories.html", controller:"genresCtrl"})
+    // .when("/myAccount", {templateUrl : "myAccount.html", controller:"myAccount"})
+    // .when("/cart", {templateUrl : "cart.html", controller:"cart"})
+    // .when("/checkout", {templateUrl : "checkout.html", controller:"checkout"})
+    .when("/catalog", {templateUrl : "catalog.html", controller:"catalogCtrl"})
+    // .when("/contact", {templateUrl : "contact.html", controller:"contact"})
+    // .when("/aboutus", {templateUrl : "aboutus.html", controller:"aboutus"})
+    // .when("/feedback", {templateUrl : "feedback.html", controller:"feedback"})
+    .when("/product/:Id", {templateUrl : "product.html", controller:"productCtrl"})
+    // .when("/genres/:genresName", {templateUrl : "Accessories.html", controller:"genresCtrl"})
 })
 
 

@@ -1,4 +1,4 @@
-<div ng-controller="movie">
+<div ng-controller="productCtrl">
 	<!-- Page Conttent -->
 	<main class="page-content">
 		<!-- Product Page Wrapper -->
@@ -11,7 +11,7 @@
 						<li><a href="index.html">Home</a></li>
 						<li><a href="shop.html">Shop</a></li>
 						<li><a href="shop.html">Mens</a></li>
-						<li>{{movie.Name}}</li>
+						<li>{{product.Name}}</li>
 					</ul>
 				</div>
 				<!--// Shop Breadcrumb -->
@@ -28,7 +28,7 @@
 							<div class="product-details-left">
 								<div class="product-details-images slider-navigation-2">
 									<a>
-										<img ng-src="{{movie.Img}}" alt="product image">
+										<img ng-src="{{product.Img}}" alt="product image">
 									</a>
 								</div>
 							</div>
@@ -36,7 +36,7 @@
 
 							<!-- Product Details Right -->
 							<div class="product-details-right">
-								<h5 class="product-title">{{movie.Name}}</h5>
+								<h5 class="product-title">{{product.Name}}</h5>
 								
 								<div class="ratting-stock-availbility">
 									<div class="ratting-box">
@@ -49,10 +49,10 @@
 									<span class="stock-available">In stock</span>
 								</div>
 								
-								<p>{{movie.Description}}</p>
+								<p>{{product.Description}}</p>
 								
 								<div class="price-box">
-									<span class="pricebox-price">£{{movie.Price}}</span>
+									<span class="pricebox-price">£{{product.Price}}</span>
 								</div>
 
 								<div class="product-details-quantity">
@@ -66,7 +66,7 @@
 
 								<div class="product-details-color">
 									<span>Color :</span>
-									<ul>{{movie.Color}}</ul>
+									<ul>{{product.Color}}</ul>
 								</div>
 
 								<div class="product-details-size">
@@ -83,21 +83,21 @@
 								<div class="product-details-categories">
 									<span>Categories :</span>
 									<ul>
-										<li><a href="">the loai {{movie.Gender}}</a></li>
+										<li><a href="">the loai {{product.Gender}}</a></li>
 									</ul>
 								</div>
 
 								<div class="product-details-categories">
 									<span>Gender :</span>
 									<ul>
-										<li><a href="">{{movie.Gender}}</a></li>
+										<li><a href="">{{product.Gender}}</a></li>
 									</ul>
 								</div>
 
 								<div class="product-details-tags">
 									<span>Details :</span>
 									<ul>
-										<li><a href="">{{movie.Details}}</a></li>
+										<li><a href="">{{product.Details}}</a></li>
 									</ul>
 								</div>
 

@@ -1,9 +1,13 @@
-angular.module("myApp.catalog",[])
-    .controller("catalogCtrl", ["$scope", "movieAPIservice", function($scope, movieAPIservice){
+angular.module("myApp.catalog",["ui.bootstrap"])
+    .controller("catalogCtrl", ["$scope", "productAPIservice", function($scope, productAPIservice){
         
-        movieAPIservice.getcatalog().then(function(reponse){
+        $scope.currentPage = 1;
+        $scope.pageSize=6;
+
+
+        productAPIservice.getProduct().then(function(reponse){
             var data = reponse.data;
-            $scope.cataloglist = data;
-            console.log($scope.cataloglist);
+            $scope.catalogList = data;
+            console.log($scope.catalogList);
         })
     }])

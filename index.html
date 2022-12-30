@@ -1,8 +1,6 @@
 <!doctype html>
 <html lang="en">
 
-
-<!-- Mirrored from template.hasthemes.com/genrre/genrre/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 22 Dec 2022 09:38:16 GMT -->
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -71,18 +69,18 @@
 			<!-- Header Bottom Area -->
 			<div class="header-bottom-area d-none d-lg-block" >
 				<div class="container">
-					<div class="header-bottom-inner" ng-controller="menuCtrl">
+					<div class="header-bottom-inner">
 						<nav class="sn-navigation">
 							<ul>
 								<li><a href="index.html">HOME</a>
 								</li>
 								<li ><a href="">Brands</a>
-									<ul >
-										<li ng-repeat="brand in brandslist"><a href="/#!productdetails">{{brand.Name}}</a></li>
+									<ul>
+										<li ><a href="/#">{{brand.Name}}</a></li>
 									</ul>
 								</li>
-								<li><a href="/#!productdetails">Boy's Uniform</a></li>
-								<li><a href="/#!productdetails">Girl's Uniform</a></li>
+								<li><a href="/">Boy's Uniform</a></li>
+								<li><a href="/#!catalog">Girl's Uniform</a></li>
                                 <li><a href="/#!feedback">Feedback</a></li>
 								<li><a href="/#!contact">CONTACT</a></li>
 							</ul>
@@ -262,13 +260,12 @@
 	<script src="js/main.js"></script>
 	<script src="lib/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
 
-	<script src="js/getjson.js"></script>
-	<script src="js/movie.js"></script>
+	<script src="js/home.js"></script>
+	<script src="js/product.js"></script>
 	<script src="js/paginate-filter.js"></script>
-	<script src="js/movie-svervice.js"></script>
-	<script src="js/menu.js"></script>
-	<script src="js/productdetails.js"></script>
-	<script src="js/genres.js"></script>
+	<script src="js/product-svervice.js"></script>
+	<!-- <script src="js/menu.js"></script> -->
+	<!-- <script src="js/genres.js"></script> -->
 	<script src="js/catalog.js"></script>
 
 </body>

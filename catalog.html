@@ -1,6 +1,6 @@
-<div ng-controller="genresCtrl">
+<div ng-controller="catalogCtrl">
     <!-- Page Conttent -->
-		<main class="page-content" ng-controller="productdetails">
+		<main class="page-content">
 
             <!-- Fullwidth Shop Area -->
             <div class="shop-area bg-white section-padding-bottom-md">
@@ -41,14 +41,14 @@
                             <div class="row justify-content-center shop-page-products products-wrapper">
 
                                 <!-- Single Product -->
-                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in dataMain | paginate:currentPage:pageSize">
+                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in catalogList | paginate:currentPage:pageSize">
                                     <div class="product-item">
 
                                         <div class="product-item-images">
                                             <a>
                                                 <img ng-src="{{x.Img}}" alt="product image">
                                             </a>
-                                            <a href="/#!movie/{{x.Id}}" class="add-to-cart-button">
+                                            <a href="#!/product/{{x.Id}}" class="add-to-cart-button">
                                                 <span>ADD TO CART</span>
                                             </a>
                                         </div>
@@ -83,7 +83,7 @@
 
                             </div>
                             <div  class="shop-page-toolbars right-pagination ">
-                                <pagination class="pagination"items-per-page="pageSize" ng-model="currentPage" total-items="dataMain.length">
+                                <pagination class="pagination"items-per-page="pageSize" ng-model="currentPage" total-items="catalogList.length">
                                 </pagination>
                                 
                                 
@@ -92,14 +92,14 @@
                         <!--// Shop Page Products -->
 
                         <!-- Widgets -->
-                        <div class="col-lg-3 order-2 order-lg-1" ng-controller="catalogCtrl">
+                        <div class="col-lg-3 order-2 order-lg-1">
                             <div class="widgets">
 
                                 <aside class="single-widget widget-categories" >
                                     <h6 class="widget-title">phan loai</h6>
                                     <ul >  
-                                        <li ng-repeat="catalog in cataloglist ">
-                                            <a href="#!/genres/{{catalog.Name}}">{{catalog.Name}} 
+                                        <li >
+                                            <a href="#">{{catalog.Name}} 
                                                 <span>so luong</span>
                                             </a>
                                         </li>
