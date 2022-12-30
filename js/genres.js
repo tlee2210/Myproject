@@ -3,20 +3,20 @@ angular.module("myApp.genres", ["ui.bootstrap"])
         $scope.currentPage = 1;
         $scope.pageSize=6;
 
-        $scope.genresName = $routeParams.genresName
+        $scope.catalogName = $routeParams.genresName;
 
-        movieAPIservice.getProduct().then(function(reponse){
-            var data = reponse.data
-            $scope.dataMain = $filter("filter")(data, function(dataMain){
-                return $filter("filter")(dataMain.Type , {Name: $scope.genresName}).length;
+        console.log($scope.catalogName);
+        movieAPIservice.getcatalog().then(function(reponse){
+            var data = reponse.data;
+            $scope.cataloglist = $filter("filter")(data, function(movie){
+                return $filter("filter")(movie.Type, {Name: $scope.catalogName}).length;
             })
-            console.log($scope.dataMain);
+            console.log($scope.cataloglist);
         })
 
-        movieAPIservice.getHome().then(function(reponse){
+        movieAPIservice.getProduct().then(function(reponse){
             var data = reponse.data;
-            $scope.Homelist = data;
-            console.log($scope.Homelist);
+            $scope.dataMain= data;
         })
 
     }]) 
