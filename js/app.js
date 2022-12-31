@@ -1,18 +1,19 @@
 var app = angular.module("myApp", [
     "ngRoute",
-    "myApp.homeCtrl",
     // "myAccount",
     // "cart",
     // "checkout",
-    "myApp.catalog",
     // "contact",
     // "aboutus",
     // "feedback",
+    "myApp.homeCtrl",
     "ui.bootstrap",
     "myApp.paginate-filter",
     "myApp.product",
     "myApp.product-svervice",
-    // "myApp.menu",
+    "myApp.menu",
+    "myApp.catalog",
+
     // "myApp.genres"
 
 ])

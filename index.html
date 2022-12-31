@@ -67,7 +67,7 @@
 			<!--// Header Top Area -->
 
 			<!-- Header Bottom Area -->
-			<div class="header-bottom-area d-none d-lg-block" >
+			<div class="header-bottom-area d-none d-lg-block" ng-controller="menuCtrl">
 				<div class="container">
 					<div class="header-bottom-inner">
 						<nav class="sn-navigation">
@@ -76,7 +76,7 @@
 								</li>
 								<li ><a href="">Brands</a>
 									<ul>
-										<li ><a href="/#">{{brand.Name}}</a></li>
+										<li ng-repeat="x in menuList"><a href="/#">{{x.Name}}</a></li>
 									</ul>
 								</li>
 								<li><a href="/">Boy's Uniform</a></li>
@@ -264,7 +264,7 @@
 	<script src="js/product.js"></script>
 	<script src="js/paginate-filter.js"></script>
 	<script src="js/product-svervice.js"></script>
-	<!-- <script src="js/menu.js"></script> -->
+	<script src="js/menu.js"></script>
 	<!-- <script src="js/genres.js"></script> -->
 	<script src="js/catalog.js"></script>
 

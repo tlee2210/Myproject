@@ -1,9 +1,9 @@
 angular.module("myApp.menu",[])
-    .controller("menuCtrl", ["$scope", "movieAPIservice", function($scope, movieAPIservice){
+    .controller("menuCtrl", ["$scope", "productAPIservice", function($scope, productAPIservice){
         
-        movieAPIservice.getBrnads().then(function(reponse){
+        productAPIservice.getBrands().then(function(reponse){
             var data = reponse.data;
-            $scope.brandslist = data;
-            console.log($scope.brandslist);
+            $scope.menuList = data;
+            console.log($scope.menuList);
         })
     }])
