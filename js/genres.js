@@ -4,14 +4,14 @@ angular.module("myApp.genres",["ui.bootstrap"])
         $scope.currentPage = 1;
         $scope.pageSize=6;
 
-        $scope.Name = $routeParams.genresNanme
+        $scope.catalogName = $routeParams.genresNanme
         console.log($scope.genresNanme);
 
 
         productAPIservice.getProduct().then(function(reponse){
             var data = reponse.data;
             $scope.catalogList = $filter("filter")(data, function(product){
-                return $filter("filter")(product.Type, {Name: $scope.Name}).length;
+                return $filter("filter")(product.Type, {Name: $scope.catalogName}).length;
             })
             // console.log($scope.catalogList);
         })
