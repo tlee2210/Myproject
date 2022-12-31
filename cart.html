@@ -1,4 +1,4 @@
-<div ng-controller="cart">
+<div ng-controller="cartCtrl">
 	<!-- Bradcrumb Area -->
 	<div class="sn-breadcrumb-are bg-theme section-padding-xs">
 		<div class="container">
@@ -21,6 +21,7 @@
 					<table class="table table-bordered table-hover">
 						<thead>
 							<tr>			
+								<th class="" scope="col">STT</th>
 								<th class="cart-column-image" scope="col">IMAGE</th>
 								<th class="cart-column-productname" scope="col">PRODUCT</th>
 								<th class="cart-column-price" scope="col">PRICE</th>
@@ -33,12 +34,15 @@
 
 							<tr>
 								<td>
-									<a href="product-details-right-sidebar.html" class="product-image">
-										<img src="img/product/small-size/product-image-1.jpg" alt="product image">
+									1
+								</td>
+								<td>
+									<a href="#" class="product-image">
+										<img src="" alt="product image">
 									</a>
 								</td>
 								<td>
-									<a href="product-details-right-sidebar.html" class="product-title">Aenean sagittis</a>
+									<a href="" class="product-title">Aenean sagittis</a>
 								</td>
 								<td>£75.00</td>
 								<td>
@@ -50,53 +54,7 @@
 									<span class="total-price">£75.00</span>
 								</td>
 								<td>
-									<button class="remove-product"><i class="fa fa-remove"></i></button>
-								</td>
-							</tr>
-
-							<tr>
-								<td>
-									<a href="product-details-right-sidebar.html" class="product-image">
-										<img src="img/product/small-size/product-image-2.jpg" alt="product image">
-									</a>
-								</td>
-								<td>
-									<a href="product-details-right-sidebar.html" class="product-title">Elementum felis</a>
-								</td>
-								<td>£75.00</td>
-								<td>
-									<div class="quantity-select">
-										<input type="text" value="1">
-									</div>
-								</td>
-								<td>
-									<span class="total-price">£75.00</span>
-								</td>
-								<td>
-									<button class="remove-product"><i class="fa fa-remove"></i></button>
-								</td>
-							</tr>
-
-							<tr>
-								<td>
-									<a href="product-details-right-sidebar.html" class="product-image">
-										<img src="img/product/small-size/product-image-3.jpg" alt="product image">
-									</a>
-								</td>
-								<td>
-									<a href="product-details-right-sidebar.html" class="product-title">Aenean sagittis</a>
-								</td>
-								<td>£75.00</td>
-								<td>
-									<div class="quantity-select">
-										<input type="text" value="1">
-									</div>
-								</td>
-								<td>
-									<span class="total-price">£75.00</span>
-								</td>
-								<td>
-									<button class="remove-product"><i class="fa fa-remove"></i></button>
+									<button class="remove-product" ng-click="deleteRow($index)"><i class="fa fa-remove"></i></button>
 								</td>
 							</tr>
 

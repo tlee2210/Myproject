@@ -1,7 +1,6 @@
 var app = angular.module("myApp", [
     "ngRoute",
     // "myAccount",
-    // "cart",
     // "checkout",
     // "contact",
     // "aboutus",
@@ -13,7 +12,9 @@ var app = angular.module("myApp", [
     "myApp.product-svervice",
     "myApp.menu",
     // "myApp.catalog",
-    "myApp.genres"
+    "myApp.genres",
+    "myApp.cart",
+
 
 ])
 
@@ -22,7 +23,7 @@ app.config(function($routeProvider){
     $routeProvider
     .when("/", {templateUrl : "home.html", controller:"homeCtrl"})
     // .when("/myAccount", {templateUrl : "myAccount.html", controller:"myAccount"})
-    // .when("/cart", {templateUrl : "cart.html", controller:"cart"})
+    .when("/cart", {templateUrl : "cart.html", controller:"cartCtrl"})
     // .when("/checkout", {templateUrl : "checkout.html", controller:"checkout"})
     // .when("/catalog", {templateUrl : "catalog.html", controller:"catalogCtrl"})
     // .when("/contact", {templateUrl : "contact.html", controller:"contact"})

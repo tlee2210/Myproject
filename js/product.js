@@ -9,5 +9,11 @@ angular.module("myApp.product", ["ui.bootstrap"])
             console.log($scope.product)
         })
 
+        $scope.cart=[];
+        $scope.add_cart = function(product){
+            $scope.cart.push($scope.product)
+            console.log($scope.cart)
+        }
+
         
     }])
