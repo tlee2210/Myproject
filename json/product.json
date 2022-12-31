@@ -1,10 +1,10 @@
 [
     {
         "Id": 1,
-        "Brands": {
+        "Brands":[{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Shirts",
             "Id":500
@@ -20,10 +20,10 @@
     },
     {
         "Id": 2,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Shirts",
             "Id":500
@@ -38,10 +38,10 @@
     },
     {
         "Id": 3,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Shirts",
             "Id":500
@@ -57,10 +57,10 @@
     },
     {
         "Id": 4,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Shirts",
             "Id":500
@@ -94,10 +94,10 @@
     },
     {
         "Id": 6,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Shorts",
             "Id":640
@@ -112,10 +112,10 @@
     },
     {
         "Id": 7,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Shorts",
             "Id":640
@@ -130,10 +130,10 @@
     },
     {
         "Id": 8,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies",
             "Id":630        
@@ -148,10 +148,10 @@
     },
     {
         "Id": 9,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies",
             "Id":630        
@@ -166,10 +166,10 @@
     },
     {
         "Id": 10,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies",
             "Id":630        
@@ -184,10 +184,10 @@
     },
     {
         "Id": 11,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Skorts",
             "Id":650        
@@ -202,10 +202,10 @@
     },
     {
         "Id": 12,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Skorts",
             "Id":650        
@@ -220,10 +220,10 @@
     },
     {
         "Id": 13,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Skorts",
             "Id":650        
@@ -238,10 +238,10 @@
     },
     {
         "Id": 14,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Socks",
             "Id":600        
@@ -256,10 +256,10 @@
     },
     {
         "Id": 15,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Socks",
             "Id":600    
@@ -274,10 +274,10 @@
     },
     {
         "Id": 16,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Socks",
             "Id":600        
@@ -292,10 +292,10 @@
     },
     {
         "Id": 17,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Track Pants",
             "Id":610        
@@ -310,10 +310,10 @@
     },
     {
         "Id": 18,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Track Pants",
             "Id":610        
@@ -328,10 +328,10 @@
     },
     {
         "Id": 19,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Track Pants",
             "Id":610        
@@ -346,10 +346,10 @@
     },
     {
         "Id": 20,
-        "Brands": {
+        "Brands": [{
             "Id":"1000",
             "Brand":"AKOA SPORTSWEAR"
-        },
+        }],
         "Type":[{
             "Name":"Track Pants",
             "Id":610        
@@ -365,10 +365,10 @@
     },
     {
         "Id": 21,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Skirts",
             "Id":510        
@@ -383,10 +383,10 @@
     },
     {
         "Id": 22,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Skirts",
             "Id":510        
@@ -402,10 +402,10 @@
     },
     {
         "Id": 23,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Skirts",
             "Id":510        
@@ -420,10 +420,10 @@
     },
     {
         "Id": 24,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Skirts",
             "Id":510   
@@ -440,10 +440,10 @@
     },
     {
         "Id": 25,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Tops",
             "Id":620        
@@ -458,10 +458,10 @@
     },
     {
         "Id": 26,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Tops",
             "Id":620        
@@ -477,10 +477,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Tops",
             "Id":620        
@@ -495,10 +495,10 @@
     },
     {
         "Id": 28,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies",
             "Id":630        
@@ -513,10 +513,10 @@
     },
     {
         "Id": 29,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[
             {
             "Name":"Hoodies",
@@ -533,10 +533,10 @@
     },
     {
         "Id": 30,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies",
             "Id":630        
@@ -551,10 +551,10 @@
     },
     {
         "Id": 31,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Short",
             "Id":640        
@@ -569,10 +569,10 @@
     },
     {
         "Id": 32,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Short",
             "Id":640        
@@ -587,10 +587,10 @@
     },
     {
         "Id": 33,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Short",
             "Id":640        
@@ -605,10 +605,10 @@
     },
     {
         "Id": 34,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Skorts",
             "Id":650        
@@ -623,10 +623,10 @@
     },
     {
         "Id": 35,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Skorts",
             "Id":650        
@@ -641,10 +641,10 @@
     },
     {
         "Id": 36,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Skorts",
             "Id":650        
@@ -659,10 +659,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -676,10 +676,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -693,10 +693,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -711,10 +711,10 @@
 
      {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -728,10 +728,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -745,10 +745,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -762,10 +762,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -779,10 +779,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -796,10 +796,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -813,10 +813,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -830,10 +830,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -847,10 +847,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -864,10 +864,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -881,10 +881,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -898,10 +898,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -915,10 +915,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -932,10 +932,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -949,10 +949,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -966,10 +966,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -983,10 +983,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1000,10 +1000,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1017,10 +1017,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1034,10 +1034,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1051,10 +1051,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1068,10 +1068,31 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [
+            {
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+            }
+        ],
+        "Type":[
+            {
+            "Name":"Hoodies"        
+            }
+        ],
+        "Name":"CHADWICK PREMIUM PRO HOODY",
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Gender": "",
+        "Color": "BLACK AND AMBER",
+        "Price": 21,
+        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
+        "Details":"For best results, machine wash according to instruction on care label"
+    },
+    {
+        "Id": 27,
+        "Brands": [{
+            "Id":"2000",
+            "Brand":"Chadwick Teamwear"
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1085,10 +1106,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1102,10 +1123,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1119,10 +1140,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1136,10 +1157,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1153,10 +1174,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1170,10 +1191,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1187,10 +1208,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1204,10 +1225,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1221,10 +1242,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1238,10 +1259,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1255,10 +1276,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1272,10 +1293,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1289,10 +1310,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1306,10 +1327,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1323,10 +1344,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1340,10 +1361,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1357,10 +1378,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1374,10 +1395,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1391,10 +1412,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1408,10 +1429,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1425,10 +1446,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1442,10 +1463,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1459,10 +1480,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
+        }],
         "Type":[{
             "Name":"Hoodies"        
         }],
@@ -1476,27 +1497,10 @@
     },
     {
         "Id": 27,
-        "Brands": {
+        "Brands": [{
             "Id":"2000",
             "Brand":"Chadwick Teamwear"
-        },
-        "Type":[{
-            "Name":"Hoodies"        
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": {
-            "Id":"2000",
-            "Brand":"Chadwick Teamwear"
-        },
         "Type":[{
             "Name":"Hoodies"        
         }],
