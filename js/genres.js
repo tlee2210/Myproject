@@ -1,22 +1,24 @@
-angular.module("myApp.genres", ["ui.bootstrap"])
-    .controller("genresCtrl", ["$scope","$filter", "movieAPIservice","$routeParams", function($scope, $filter, movieAPIservice, $routeParams){
+angular.module("myApp.genres",["ui.bootstrap"])
+    .controller("genresCtrl", ["$scope","$filter", "productAPIservice","$routeParams", function($scope, $filter, productAPIservice, $routeParams){
+        
         $scope.currentPage = 1;
         $scope.pageSize=6;
 
-        $scope.catalogName = $routeParams.genresName;
+        $scope.Name = $routeParams.genresNanme
+        console.log($scope.genresNanme);
 
-        console.log($scope.catalogName);
-        movieAPIservice.getcatalog().then(function(reponse){
+
+        productAPIservice.getProduct().then(function(reponse){
             var data = reponse.data;
-            $scope.cataloglist = $filter("filter")(data, function(movie){
-                return $filter("filter")(movie.Type, {Name: $scope.catalogName});
+            $scope.catalogList = $filter("filter")(data, function(product){
+                return $filter("filter")(product.Type, {Name: $scope.Name}).length;
             })
-            console.log($scope.cataloglist);
+            // console.log($scope.catalogList);
         })
-
-        movieAPIservice.getProduct().then(function(reponse){
+        productAPIservice.getcatalog().then(function(reponse){
             var data = reponse.data;
-            $scope.dataMain= data;
+            $scope.productList = data;
+            // console.log($scope.productList);
         })
+    }])
 
-    }]) 
