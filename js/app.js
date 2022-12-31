@@ -12,7 +12,7 @@ var app = angular.module("myApp", [
     "myApp.product",
     "myApp.product-svervice",
     "myApp.menu",
-    "myApp.catalog",
+    // "myApp.catalog",
     "myApp.genres"
 
 ])
@@ -24,7 +24,7 @@ app.config(function($routeProvider){
     // .when("/myAccount", {templateUrl : "myAccount.html", controller:"myAccount"})
     // .when("/cart", {templateUrl : "cart.html", controller:"cart"})
     // .when("/checkout", {templateUrl : "checkout.html", controller:"checkout"})
-    .when("/catalog", {templateUrl : "catalog.html", controller:"catalogCtrl"})
+    // .when("/catalog", {templateUrl : "catalog.html", controller:"catalogCtrl"})
     // .when("/contact", {templateUrl : "contact.html", controller:"contact"})
     // .when("/aboutus", {templateUrl : "aboutus.html", controller:"aboutus"})
     // .when("/feedback", {templateUrl : "feedback.html", controller:"feedback"})
