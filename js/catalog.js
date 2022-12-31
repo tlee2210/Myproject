@@ -8,6 +8,11 @@ angular.module("myApp.catalog",["ui.bootstrap"])
         productAPIservice.getProduct().then(function(reponse){
             var data = reponse.data;
             $scope.catalogList = data;
-            console.log($scope.catalogList);
+            // console.log($scope.catalogList);
+        })
+        productAPIservice.getcatalog().then(function(reponse){
+            var data = reponse.data;
+            $scope.productList = data;
+            // console.log($scope.productList);
         })
     }])
