@@ -57,9 +57,9 @@
 
 								<div class="product-details-quantity">
 									<div class="quantity-select">
-										<input type="text" value="1">
+										<input type="text" value="{{products.count}}" placeholder="1" ng-click="addItem(products)">
 									</div>
-									<button class="add-to-cart-button" ng-click="add_cart()">
+									<button class="add-to-cart-button" ng-click="addItem(products)">
 										<span>ADD TO CART</span>
 									</button>
 								</div>
