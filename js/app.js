@@ -14,9 +14,6 @@ var app = angular.module("myApp", [
     // "myApp.catalog",
     "myApp.genres",
     "myApp.cart",
-    "ngCookies"
-
-
 ])
 
 
@@ -68,4 +65,16 @@ angular.module("feedback", [])
     }])
 
 
+// function add_cart(product){
 
+//     var new_cart = document.getElementById(product.id).value
+
+//     if(localStorage.getItem("Carts") == null){
+//         localStorage.getItem("Carts", "[]");
+//     }
+
+//     var old_cart = JSON.parse(localStorage.getsItem("Carts"))
+//     old_cart.push(new_cart);
+
+//     localStorage.setItem("Carts", JSON.stringify(old_cart))
+// }
