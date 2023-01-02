@@ -660,9 +660,6 @@
     {
         "Id": 37,
         "Brands": [{
-
-            "Id":"2000",
-            "Name":"Chadwick Teamwear",
             "Id":"3000",
             "Brand":"Banner Schoolwear"
 
@@ -682,8 +679,6 @@
     {
         "Id": 38,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear",
             "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
@@ -703,8 +698,7 @@
         "Id": 39,
         "Brands": [{
 
-            "Id":"2000",
-            "Name":"Chadwick Teamwear",
+            "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
         "Type":[{
@@ -721,790 +715,496 @@
     },
 
      {
-        "Id": 27,
+        "Id": 40,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"3000",
+            "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"PT.T-shirts",
+            "Id":530       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Name":"BANNER CHAMPION T-SHIRT",
+        "Img":"img/genres/Banner/P.T_T-shirts.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "ASH",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The Banner Champion t-shirt is an essential school wear item. Soft 100% cotton that is also ideal for embroidery or printing. Easy care machine wash.",
+        "Details":"100% Cotton"
     },
     {
-        "Id": 27,
+        "Id": 41,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"3000",
+            "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"PT.T-shirts",
+            "Id":530       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Name":"BANNER CHAMPION T-SHIRT",
+        "Img":"img/genres/Banner/P.T_T-shirts1.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "BLACK",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The Banner Champion t-shirt is an essential school wear item. Soft 100% cotton that is also ideal for embroidery or printing. Easy care machine wash.",
+        "Details":"100% Cotton"
     },
     {
-        "Id": 27,
+        "Id": 42,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"3000",
+            "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"PT.T-shirts",
+            "Id":530       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Name":"BANNER CHAMPION T-SHIRT",
+        "Img":"img/genres/Banner/P.T_T-shirts2.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "BOTTLE GREEN",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The Banner Champion t-shirt is an essential school wear item. Soft 100% cotton that is also ideal for embroidery or printing. Easy care machine wash.",
+        "Details":"100% Cotton"
     },
     {
-        "Id": 27,
+        "Id": 43,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"3000",
+            "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Hoodies",
+            "Id":630       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Name":"BANNER SELECT HOODIE",
+        "Img":"img/genres/Banner/Hoodies.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "BLACK",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The Banner Select hoodie has a soft fabric that is also durable. The drawstrings only apply to sizes Small and above. Stylish dropped shoulder fit with a kangaroo front pocket make this hoodie an excellent choice. Easy care machine wash.",
+        "Details":"65% Cotton, 35% Polyester"
     },
     {
-        "Id": 27,
+        "Id": 44,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"3000",
+            "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Hoodies",
+            "Id":630       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Name":"BANNER SELECT HOODIE",
+        "Img":"img/genres/Banner/Hoodies1.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "BOTTLE GREEN",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The Banner Select hoodie has a soft fabric that is also durable. The drawstrings only apply to sizes Small and above. Stylish dropped shoulder fit with a kangaroo front pocket make this hoodie an excellent choice. Easy care machine wash.",
+        "Details":"65% Cotton, 35% Polyester"
     },
     {
-        "Id": 27,
+        "Id": 45,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"3000",
+            "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Hoodies",
+            "Id":630       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Name":"BANNER SELECT HOODIE",
+        "Img":"img/genres/Banner/Hoodies2.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "BURGUNDY",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The Banner Select hoodie has a soft fabric that is also durable. The drawstrings only apply to sizes Small and above. Stylish dropped shoulder fit with a kangaroo front pocket make this hoodie an excellent choice. Easy care machine wash.",
+        "Details":"65% Cotton, 35% Polyester"
     },
     {
-        "Id": 27,
+        "Id": 46,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"3000",
+            "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Skirts",
+            "Id":510       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"BANNER THORNTON SENIOR FRONT PLEAT SKIRT", 
+        "Img":"img/genres/Banner/Shirts.jpg",
+        "Gender": "Girl",
+        "Color": "BLACK",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The Banner Thornton Front Pleat skirt is part of the Banner eco range. It has an internal waist adjuster with both a zip and button fastening. Easy wash at up to 40 degrees.",
+        "Details":"65% Polyester/35% Viscose twil"
     },
     {
-        "Id": 27,
+        "Id": 47,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"3000",
+            "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Skirts",
+            "Id":510       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"BANNER THORNTON SENIOR FRONT PLEAT SKIRT", 
+        "Img":"img/genres/Banner/Shirts1.jpg",
+        "Gender": "Girl",
+        "Color": "GREY",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The Banner Thornton Front Pleat skirt is part of the Banner eco range. It has an internal waist adjuster with both a zip and button fastening. Easy wash at up to 40 degrees.",
+        "Details":"65% Polyester/35% Viscose twil"
     },
     {
-        "Id": 27,
+        "Id": 48,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"3000",
+            "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Skirts",
+            "Id":510       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"BANNER DAVENPORT SENIOR KNIFE PLEAT SKIRT", 
+        "Img":"img/genres/Banner/Shirts2.jpg",
+        "Gender": "Girl",
+        "Color": "BLACK",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description":"The Banner Davenport knife pleated skirt is a Banner best seller. This skirt is a perfect addition to any school uniform. Easy wash at up to 40 degrees.",
+        "Details":"65% polyester, 35% viscose twill"
     },
     {
-        "Id": 27,
+        "Id": 49,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"3000",
+            "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Short",
+            "Id":640       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"BANNER ESSEX BOYS' SHORTS", 
+        "Img":"img/genres/Banner/Short.jpg",
+        "Gender": "Boy",
+        "Color": "NAVY",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description":"The Banner Essex boys' shorts have a mock fly for ages 3-6 whilst age 7 and above have a zip fly. These elasticated back shorts are perfect for warm summer days. Featuring Maxtech Resist tough protective finish with stain resistance and durability. Easy care machine wash.",
+        "Details":"65% Polyester, 35% Viscose"
     },
     {
-        "Id": 27,
+        "Id": 50,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"3000",
+            "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Short",
+            "Id":640       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"BANNER ESSEX BOYS' SHORTS", 
+        "Img":"img/genres/Banner/Short1.jpg",
+        "Gender": "Boy",
+        "Color": "GREY",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description":"The Banner Essex boys' shorts have a mock fly for ages 3-6 whilst age 7 and above have a zip fly. These elasticated back shorts are perfect for warm summer days. Featuring Maxtech Resist tough protective finish with stain resistance and durability. Easy care machine wash.",
+        "Details":"65% Polyester, 35% Viscose"
     },
     {
-        "Id": 27,
+        "Id": 51,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"3000",
+            "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Short",
+            "Id":640       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"BANNER BERMUDA BOYS' SHORTS", 
+        "Img":"img/genres/Banner/Short2.jpg",
+        "Gender": "Boy",
+        "Color": "GREY",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description":"The Banner Bermuda shorts are fully lined for maximum comfort. A stylish choice, they have a longer leg style with a pleated front, making them perfect for warm summer days. Featuring Maxtech Resist tough protective finish with stain resistance and durability. Easy care machine wash.",
+        "Details":"65% Polyester, 35% Viscose"
     },
     {
-        "Id": 27,
+        "Id": 52,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"3000",
+            "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Short",
+            "Id":640       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"BANNER BERMUDA BOYS' SHORTS", 
+        "Img":"img/genres/Banner/Short3.jpg",
+        "Gender": "Boy",
+        "Color": "CHARCOAL",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description":"The Banner Bermuda shorts are fully lined for maximum comfort. A stylish choice, they have a longer leg style with a pleated front, making them perfect for warm summer days. Featuring Maxtech Resist tough protective finish with stain resistance and durability. Easy care machine wash.",
+        "Details":"65% Polyester, 35% Viscose"
     },
     {
-        "Id": 27,
+        "Id": 53,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"4000",
+            "Brand":"David Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Shirts",
+            "Id":500       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Name":"DAVID LUKE ECO POLO SHIRT",
+        "Img":"img/genres/David/Pol_shirts.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "BRIGHT SKY",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "Id": 27,
+        "Id": 54,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"4000",
+            "Brand":"David Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Shirts",
+            "Id":500       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Name":"DAVID LUKE ECO POLO SHIRT",
+        "Img":"img/genres/David/Pol_shirts1.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "ROYAL",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "Id": 27,
+        "Id": 55,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"4000",
+            "Brand":"David Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Shirts",
+            "Id":500      
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Name":"DAVID LUKE ECO POLO SHIRT",
+        "Img":"img/genres/David/Pol_shirts2.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "EMERALD",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
+        "Details":"60% Cotton, 40% Polyester"
     },
     {
-        "Id": 27,
+        "Id": 56,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"4000",
+            "Brand":"David Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Short",
+            "Id":640       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"DAVID LUKE ECO SENIOR BOYS' BERMUDA SHORTS",
+        "Img":"img/genres/David/Short.jpg",
+        "Gender": "Boy",
+        "Color": "CHARCOAL",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The David Luke Eco Flat Front Classic Shorts are made from approximately 4 recycled plastic bottles which is over 30% of the Polyester material used.They feature a half elasticated back with a single hook and bar zip fly. These shorts are comfortable but practical.",
+        "Details":"65% Polyester/ 35% Viscose (worsted woven)"
     },
     {
-        "Id": 27,
+        "Id": 57,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"4000",
+            "Brand":"David Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Short",
+            "Id":640       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"DAVID LUKE ECO SENIOR BOYS' BERMUDA SHORTS",
+        "Img":"img/genres/David/Short1.jpg",
+        "Gender": "Boy",
+        "Color": "BLACK",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The David Luke Eco Flat Front Classic Shorts are made from approximately 4 recycled plastic bottles which is over 30% of the Polyester material used.They feature a half elasticated back with a single hook and bar zip fly. These shorts are comfortable but practical.",
+        "Details":"65% Polyester/ 35% Viscose (worsted woven)"
     },
     {
-        "Id": 27,
+        "Id": 58,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"4000",
+            "Brand":"David Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Short",
+            "Id":640       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"DAVID LUKE ECO JUNIOR BOYS' BERMUDA SHORTS",
+        "Img":"img/genres/David/Short2.jpg",
+        "Gender": "Boy",
+        "Color": "NAVY",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The David Luke Eco Bermuda length shorts contain polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Fully lined with a half elasticated waist for comfort, these shorts are perfect for the warmer days. Easy to care for, simply machine wash and tumble dry.",
+        "Details":"65% Polyester / 35% Viscose"
     },
     {
-        "Id": 27,
+        "Id": 59,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"4000",
+            "Brand":"David Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Skirts",
+            "Id":510       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"DAVID LUKE ECO SENIOR DROP WAIST KNIFE PLEAT SKIRT",
+        "Img":"img/genres/David/Skirts.jpg",
+        "Gender": "Girl",
+        "Color": "NAVY",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "This David Luke senior stitch down skirt has all round stitched down knife pleats. With a concealed zip and internal button side fastening for comfort, this skirt is a great choice for every day wear. Contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Easy to care for, simply machine wash and tumble dry.",
+        "Details":"63.5% Polyester/ 34.5% Viscose/ 2% Elastane"
     },
     {
-        "Id": 27,
+        "Id": 60,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"4000",
+            "Brand":"David Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Skirts",
+            "Id":510       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"DAVID LUKE SENIOR CHECKED STITCHED DOWN KNIFE PLEAT SKIRT",
+        "Img":"img/genres/David/Skirts1.jpg",
+        "Gender": "Girl",
+        "Color": "GREY AND NAVY",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "As schools'demand for stylish & unique styles continue to grow, our check stitched down knife pleat skirt offers a contemporary and individual style. Easy to care for, machine wash.",
+        "Details":"63% Polyester/35% Viscose/2% Elastane"
     },
     {
-        "Id": 27,
-        "Brands": [
-            {
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-            }
-        ],
-        "Type":[
-            {
-            "Name":"Hoodies"        
-            }
-        ],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
+        "Id": 61,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"4000",
+            "Brand":"David Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Skirts",
+            "Id":510       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"DAVID LUKE ECO SENIOR STRAIGHT SKIRT",
+        "Img":"img/genres/David/Skirts2.jpg",
+        "Gender": "Girl",
+        "Color": "BLACK",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The David Luke Eco Senior straight skirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. It has 2 front fob pockets and a short back vent. Easy to care for, simply machine wash and tumble dry.",
+        "Details":"63% Polyester, 35% Viscose, 2% Elastane"
     },
     {
-        "Id": 27,
+        "Id": 62,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"4000",
+            "Brand":"David Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Tops",
+            "Id":620       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"DAVID LUKE BOYS' SPORTS TOP",
+        "Img":"img/genres/David/Top_B.jpg",
+        "Gender": "Boy",
+        "Color": " BLACK AND WHITE",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The David Luke boys' sports top is short sleeved with contrast panels. The performance fabric is easy to care for just machine wash and tumble dry. Sizes are in chest inches",
+        "Details":"100% Polyester"
     },
     {
-        "Id": 27,
+        "Id": 63,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+
+            "Id":"4000",
+            "Brand":"David Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Tops",
+            "Id":620       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"DAVID LUKE BOYS' SPORTS TOP",
+        "Img":"img/genres/David/Top_B1.jpg",
+        "Gender": "Boy",
+        "Color": "NAVY AND WHITE",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The David Luke boys' sports top is short sleeved with contrast panels. The performance fabric is easy to care for just machine wash and tumble dry. Sizes are in chest inches",
+        "Details":"100% Polyester"
     },
     {
-        "Id": 27,
+        "Id": 64,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+            "Id":"4000",
+            "Brand":"David Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Tops",
+            "Id":620       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"DAVID LUKE GIRLS' FITTED SPORTS TOP",
+        "Img":"img/genres/David/Top_G.jpg",
+        "Gender": "Girl",
+        "Color": "BLACK AND WHITE",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The David Luke Girls' sports top is short sleeved with contrast panels. The performance fabric is easy to care for just machine wash and tumble dry. Sizes are in chest inches",
+        "Details":"100% Polyester"
     },
     {
-        "Id": 27,
+        "Id": 65,
         "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
+            "Id":"4000",
+            "Brand":"David Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Tops",
+            "Id":620       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Name":"DAVID LUKE GIRLS' FITTED SPORTS TOP",
+        "Img":"img/genres/David/Top_G1.jpg",
+        "Gender": "Girl",
+        "Color": "NAVY AND WHITE",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
-    },
-    {
-        "Id": 27,
-        "Brands": [{
-            "Id":"2000",
-            "Name":"Chadwick Teamwear"
-        }],
-        "Type":[{
-            "Name":"Hoodies"        
-        }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "Gender": "",
-        "Color": "BLACK AND AMBER",
-        "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The David Luke Girls' sports top is short sleeved with contrast panels. The performance fabric is easy to care for just machine wash and tumble dry. Sizes are in chest inches",
+        "Details":"100% Polyester"
     },
     {
         "Id": 27,
