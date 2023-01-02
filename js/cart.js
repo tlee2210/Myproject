@@ -1,6 +1,5 @@
 angular.module("myApp.cart", [])
-.controller("cartCtrl", ['$scope','productAPIservice','$filter',function($scope, productAPIservice, $filter){
-    
-    
+.controller("cartCtrl", ['$scope','cartService',function($scope, cartService){
+
 }])
 

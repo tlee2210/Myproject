@@ -37,10 +37,12 @@
 	<!--ui bootstrapjs -->
 	<link rel="stylesheet" href="lib/angular-bootstrap/ui-bootstrap-tpls.min.js">
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
 </head>
 
-<body ng-app="myApp">
+<body ng-app="myApp" ng-controller="menuCtrl">
 	<!-- Wrapper -->
 	<div id="wrapper" class="wrapper">
 
@@ -68,7 +70,7 @@
 			<!--// Header Top Area -->
 
 			<!-- Header Bottom Area -->
-			<div class="header-bottom-area d-none d-lg-block" ng-controller="menuCtrl">
+			<div class="header-bottom-area d-none d-lg-block">
 				<div class="container">
 					<div class="header-bottom-inner">
 						<nav class="sn-navigation">

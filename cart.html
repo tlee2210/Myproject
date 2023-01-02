@@ -32,19 +32,19 @@
 						</thead>
 						<tbody>
 
-							<tr ng-repeat="cart in carts">
+							<tr ng-repeat="product in cart">
 								<td>
 									{{index+1}}
 								</td>
 								<td>
 									<a href="#" class="product-image">
-										<img ng-src="{{cart.Img}}" alt="product image">
+										<img ng-src="{{product.Img}}" alt="product image">
 									</a>
 								</td>
 								<td>
-									<a href="" class="product-title">{{cart.Name}}</a>
+									<a href="" class="product-title">{{product.Name}}</a>
 								</td>
-								<td>{{cart.Price}}</td>
+								<td>{{product.Price}}</td>
 								<td>
 									<div class="quantity-select">
 										<input type="text" value="1">

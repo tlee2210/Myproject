@@ -8,14 +8,4 @@ angular.module("myApp.product", [])
             $scope.product = $filter("filter")(data, {Id: parseInt($scope.productId)}, true)[0];
             console.log($scope.product)
         })
-
-        $scope.carts=[];
-
-        $scope.add_cart = function(product){
-        if(product){
-        $scope.carts.push({name: product.Name,img: product.Img , Price: product.Price ,count: product.count})
-            
-        }
-        console.log($scope.carts)
-        }
     }])
