@@ -658,55 +658,66 @@
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
-        "Id": 27,
+        "Id": 37,
         "Brands": [{
+
             "Id":"2000",
-            "Name":"Chadwick Teamwear"
+            "Name":"Chadwick Teamwear",
+            "Id":"3000",
+            "Brand":"Banner Schoolwear"
+
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Shirts",
+            "Id":500       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Name":"BANNER MILLFIELD POLO SHIRT",
+        "Img":"img/genres/Banner/Pol_shirts.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "GOLD",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The Banner Millfield poloshirt is a knitted pique polo shirt. The flat knit collar and ribbed cuffs make this polo shirt a comfortable fit. A premium garment that is individually wrapped, perfect for every day wear. Easy care machine wash.",
+        "Details":"65% Polyester, 35% Cotton"
     },
     {
-        "Id": 27,
+        "Id": 38,
         "Brands": [{
             "Id":"2000",
-            "Name":"Chadwick Teamwear"
+            "Name":"Chadwick Teamwear",
+            "Id":"3000",
+            "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Shirts",
+            "Id":500       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Name":"BANNER MILLFIELD POLO SHIRT",
+        "Img":"img/genres/Banner/Pol_shirts1.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "RED",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The Banner Millfield poloshirt is a knitted pique polo shirt. The flat knit collar and ribbed cuffs make this polo shirt a comfortable fit. A premium garment that is individually wrapped, perfect for every day wear. Easy care machine wash.",
+        "Details":"65% Polyester, 35% Cotton"
     },
     {
-        "Id": 27,
+        "Id": 39,
         "Brands": [{
+
             "Id":"2000",
-            "Name":"Chadwick Teamwear"
+            "Name":"Chadwick Teamwear",
+            "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Hoodies"        
+            "Name":"Shirts",
+            "Id":500       
         }],
-        "Name":"CHADWICK PREMIUM PRO HOODY",
-        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "Name":"BANNER MILLFIELD POLO SHIRT",
+        "Img":"img/genres/Banner/Pol_shirts2.jpg",
         "Gender": "",
-        "Color": "BLACK AND AMBER",
+        "Color": "ROYAL",
         "Price": 21,
-        "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
-        "Details":"For best results, machine wash according to instruction on care label"
+        "Description": "The Banner Millfield poloshirt is a knitted pique polo shirt. The flat knit collar and ribbed cuffs make this polo shirt a comfortable fit. A premium garment that is individually wrapped, perfect for every day wear. Easy care machine wash.",
+        "Details":"65% Polyester, 35% Cotton"
     },
 
      {
