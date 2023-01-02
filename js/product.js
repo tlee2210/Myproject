@@ -1,4 +1,4 @@
-angular.module("myApp.product", ["ui.bootstrap"])
+angular.module("myApp.product", [])
     .controller("productCtrl", ["$scope","$filter", "productAPIservice","$routeParams", function($scope, $filter, productAPIservice, $routeParams){
 
         $scope.productId = $routeParams.Id
@@ -9,10 +9,15 @@ angular.module("myApp.product", ["ui.bootstrap"])
             console.log($scope.product)
         })
 
-        // $scope.cart=[];
-        // $scope.add_cart = function(product){
-        //     $scope.cart.push($scope.product)
-        //     console.log($scope.cart)
-        // }
-        
+
+        $scope.carts=[];
+
+        $scope.add_cart = function(product){
+            $scope.carts.push(product)
+            console.log($scope.carts)
+            localStorage.setItem("Item", JSON.stringify(carts))
+
+        }
+
+
     }])

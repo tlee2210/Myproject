@@ -32,19 +32,19 @@
 						</thead>
 						<tbody>
 
-							<tr>
+							<tr ng-repeat="cart in carts">
 								<td>
-									1
+									{{index+1}}
 								</td>
 								<td>
 									<a href="#" class="product-image">
-										<img src="" alt="product image">
+										<img ng-src="{{cart.Img}}" alt="product image">
 									</a>
 								</td>
 								<td>
-									<a href="" class="product-title">Aenean sagittis</a>
+									<a href="" class="product-title">{{cart.Name}}</a>
 								</td>
-								<td>£75.00</td>
+								<td>{{cart.Price}}</td>
 								<td>
 									<div class="quantity-select">
 										<input type="text" value="1">
@@ -54,7 +54,7 @@
 									<span class="total-price">£75.00</span>
 								</td>
 								<td>
-									<button class="remove-product" ng-click="deleteRow($index)"><i class="fa fa-remove"></i></button>
+									<button class="remove-product" ng-click="remove_cart(cart)"><i class="fa fa-remove"></i></button>
 								</td>
 							</tr>
 

@@ -14,6 +14,7 @@ var app = angular.module("myApp", [
     // "myApp.catalog",
     "myApp.genres",
     "myApp.cart",
+    "ngCookies"
 
 
 ])
