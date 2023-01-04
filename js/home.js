@@ -11,4 +11,12 @@ angular.module("myApp.homeCtrl",[])
             $scope.brandslist = data;
             // console.log($scope.brandslist);
         })
+
+        productAPIservice.getcatalog().then(function(reponse){
+            var data = reponse.data;
+            $scope.cataloglist = data;
+            // console.log($scope.cataloglist);
+        })
+
+
     }])

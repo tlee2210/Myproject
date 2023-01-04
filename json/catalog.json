@@ -1,11 +1,15 @@
 [
     {
         "Name":"Shirts",
-        "Id":500
+        "Id":500,
+        "Img":"img/genres/Akoa/Pol_skirts_B.jpg",
+        "Img1":"img/genres/Akoa/Pol_skirts_G1.jpg"
     },
     {
         "Name":"Skirts",
-        "Id":510
+        "Id":510,
+        "Img":"img/genres/Chadwick/Pol_skirts_B.jpg",
+        "Img1":"img/genres/Chadwick/Pol_skirts_G1.jpg"
     },
     {
         "Name":"Frocks",
@@ -22,14 +26,6 @@
     {
         "Name":"PT.track pants",
         "Id":550
-    },
-    {
-        "Name":"Bag & Backpacks",
-        "Id":560
-    },
-    {
-        "Name":"Gymsac Bags",
-        "Id":570
     },
     {
         "Name":"Belts",

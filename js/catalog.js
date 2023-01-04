@@ -16,13 +16,13 @@ angular.module("myApp.genres",["ui.bootstrap"])
             // console.log($scope.catalogList);
         })
 
-        productAPIservice.getProduct().then(function(reponse){
-            var data = reponse.data;
-            $scope.catalogList = $filter("filter")(data, function(product){
-                return $filter("filter")(product.Brands, {Name: $scope.genresName}).length;
-            })
-            // console.log($scope.catalogList);
-        })
+        // productAPIservice.getProduct().then(function(reponse){
+        //     var data = reponse.data;
+        //     $scope.catalogList = $filter("filter")(data, function(product){
+        //         return $filter("filter")(product.Brands, {Name: $scope.genresName}).length;
+        //     })
+        //     // console.log($scope.catalogList);
+        // })
         productAPIservice.getcatalog().then(function(reponse){
             var data = reponse.data;
             $scope.productList = data;
