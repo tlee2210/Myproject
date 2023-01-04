@@ -12,7 +12,11 @@
         }],
         "Name":"AKOA SECTOR POLO SHIRT",
         "Img":"img/genres/Akoa/Pol_skirts_B.jpg",
-        "Gender": "Boy",
+        "Gender":[
+            {
+              "Name":"Boy"
+            }
+        ],
         "Color": "BLACK AND SCARLET",
         "Price": 21,
         "Description": "The Akoa Sector polo shirt is perfect for everyday sports wear. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
