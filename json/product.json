@@ -81,8 +81,8 @@
             "Id":"1000"
         },
         "Type":[{
-            "Name":"Short",
-            "Id":640
+            "Name":"PT.shortt",
+            "Id":540
         }],
         "Name":"AKOA MULTISPORT SHORT",
         "Img":"img/genres/Akoa/School_short.jpg",
@@ -99,7 +99,7 @@
             "Name":"AKOA SPORTSWEAR"
         }],
         "Type":[{
-            "Name":"Shorts",
+            "Name":"PT.short",
             "Id":640
         }],
         "Name":"AKOA MULTISPORT SHORT",
@@ -117,8 +117,8 @@
             "Name":"AKOA SPORTSWEAR"
         }],
         "Type":[{
-            "Name":"Shorts",
-            "Id":640
+            "Name":"PT.short",
+            "Id":540
         }],
         "Name":"AKOA MULTISPORT SHORT",
         "Img":"img/genres/Akoa/School_short2.jpg",
@@ -556,8 +556,8 @@
             "Name":"Chadwick Teamwear"
         }],
         "Type":[{
-            "Name":"Short",
-            "Id":640        
+            "Name":"PT.shorts",
+            "Id":540        
         }],
         "Name":"CHADWICK IGEN UNISEX SHORTS",
         "Img":"img/genres/Chadwick/Shorts.jpg",
@@ -574,8 +574,8 @@
             "Name":"Chadwick Teamwear"
         }],
         "Type":[{
-            "Name":"Short",
-            "Id":640        
+            "Name":"PT.short",
+            "Id":540        
         }],
         "Name":"CHADWICK IGEN UNISEX SHORTS",
         "Img":"img/genres/Chadwick/Shorts1.jpg",
@@ -592,8 +592,8 @@
             "Name":"Chadwick Teamwear"
         }],
         "Type":[{
-            "Name":"Short",
-            "Id":640        
+            "Name":"PT.shorts",
+            "Id":540        
         }],
         "Name":"CHADWICK IGEN UNISEX SHORTS",
         "Img":"img/genres/Chadwick/Shorts2.jpg",
@@ -893,8 +893,8 @@
             "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Short",
-            "Id":640       
+            "Name":"PT.shorts",
+            "Id":540       
         }],
         "Name":"BANNER ESSEX BOYS' SHORTS", 
         "Img":"img/genres/Banner/Short.jpg",
@@ -912,8 +912,8 @@
             "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Short",
-            "Id":640       
+            "Name":"PT.shorts",
+            "Id":540       
         }],
         "Name":"BANNER ESSEX BOYS' SHORTS", 
         "Img":"img/genres/Banner/Short1.jpg",
@@ -931,7 +931,7 @@
             "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Short",
+            "Name":"PT.shorts",
             "Id":640       
         }],
         "Name":"BANNER BERMUDA BOYS' SHORTS", 
@@ -950,8 +950,8 @@
             "Brand":"Banner Schoolwear"
         }],
         "Type":[{
-            "Name":"Short",
-            "Id":640       
+            "Name":"PT.shorts",
+            "Id":540       
         }],
         "Name":"BANNER BERMUDA BOYS' SHORTS", 
         "Img":"img/genres/Banner/Short3.jpg",
@@ -1026,8 +1026,8 @@
             "Brand":"David Schoolwear"
         }],
         "Type":[{
-            "Name":"Short",
-            "Id":640       
+            "Name":"PT.shorts",
+            "Id":540       
         }],
         "Name":"DAVID LUKE ECO SENIOR BOYS' BERMUDA SHORTS",
         "Img":"img/genres/David/Short.jpg",
@@ -1045,8 +1045,8 @@
             "Brand":"David Schoolwear"
         }],
         "Type":[{
-            "Name":"Short",
-            "Id":640       
+            "Name":"PT.shorts",
+            "Id":540       
         }],
         "Name":"DAVID LUKE ECO SENIOR BOYS' BERMUDA SHORTS",
         "Img":"img/genres/David/Short1.jpg",
@@ -1064,8 +1064,8 @@
             "Brand":"David Schoolwear"
         }],
         "Type":[{
-            "Name":"Short",
-            "Id":640       
+            "Name":"PT.shorts",
+            "Id":540       
         }],
         "Name":"DAVID LUKE ECO JUNIOR BOYS' BERMUDA SHORTS",
         "Img":"img/genres/David/Short2.jpg",
