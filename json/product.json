@@ -34,7 +34,11 @@
         }],
         "Name":"AKOA SECTOR POLO SHIRT",
         "Img":"img/genres/Akoa/Pol_skirts_B1.jpg",
-        "Gender": "Boy",
+        "Gender":[
+            {
+              "Name":"Boy"
+            }
+        ],
         "Color": "BLACK AND WHITE",
         "Price": 23,
         "Description": "The Akoa Sector polo shirt is perfect for everyday sports wear. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
@@ -52,7 +56,11 @@
         }],
         "Name":"AKOA SECTOR GIRLS' FIT POLO SHIRT",
         "Img":"img/genres/Akoa/Pol_skirts_G.jpg",
-        "Gender": "Girl",
+        "Gender":[
+            {
+              "Name":"Girl"
+            }
+        ],
         "Color": "BLACK AND SCARLET",
         "Price": 21,
         "Description": "The Akoa Sector girls' polo shirt is perfect for everyday sports wear. It is a fitted girls' style with an open neck. Age 9/10 has a button to neck fastening. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
@@ -72,7 +80,11 @@
         }],
         "Name":"AKOA SECTOR GIRLS' FIT POLO SHIRT",
         "Img":"img/genres/Akoa/Pol_skirts_G1.jpg",
-        "Gender": "Girl",
+        "Gender":[
+            {
+              "Name":"Girl"
+            }
+        ],
         "Color": "BLACK AND WHITE",
         "Price": 23,
         "Description": "The Akoa Sector girls' polo shirt is perfect for everyday sports wear. It is a fitted girls' style with an open neck. Age 9/10 has a button to neck fastening. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
@@ -90,7 +102,11 @@
         }],
         "Name":"AKOA MULTISPORT SHORT",
         "Img":"img/genres/Akoa/School_short.jpg",
-        "Gender": "Boy",
+        "Gender":[
+            {
+              "Name":"Boy"
+            }
+        ],
         "Color": "BLACK",
         "Price": 21,
         "Description": "The Akoa multisport short is perfect for everyday sports wear. Sizes XXS and above feature an elasticated waist with secure drawcord. (* Junior sizes do not include a drawcord.) The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. Suitable for both boys' and girls.",
@@ -108,7 +124,11 @@
         }],
         "Name":"AKOA MULTISPORT SHORT",
         "Img":"img/genres/Akoa/School_short1.jpg",
-        "Gender": "Boy",
+        "Gender":[
+            {
+              "Name":"Boy"
+            }
+        ],
         "Color": "ROYAL",
         "Price": 21,
         "Description": "The Akoa multisport short is perfect for everyday sports wear. Sizes XXS and above feature an elasticated waist with secure drawcord. (* Junior sizes do not include a drawcord.) The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions.",
@@ -126,7 +146,11 @@
         }],
         "Name":"AKOA MULTISPORT SHORT",
         "Img":"img/genres/Akoa/School_short2.jpg",
-        "Gender": "Boy",
+        "Gender":[
+            {
+              "Name":"Boy"
+            }
+        ],
         "Color": "WHITE",
         "Price": 21,
         "Description":"The Akoa multisport short is perfect for everyday sports wear. Sizes XXS and above feature an elasticated waist with secure drawcord. (* Junior sizes do not include a drawcord.) The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions.",
@@ -144,7 +168,10 @@
         }],
         "Name":"AKOA SECTOR MICROFLEECE",
         "Img":"img/genres/Akoa/Fleeces_hoodies.jpg",
-        "Gender":"",
+        "Gender":[
+            {"Name":"Boy"},
+            {"Name":"Girl"}
+        ],
         "Color": "BLACK",
         "Price": 21,
         "Description": "The Akoa Sector microfleece is lightweight and has breathable panelling. Suitable for both boys' and girls' it features a front side pocket and ¼ zip fastening.",
@@ -162,7 +189,10 @@
         }],
         "Name":"AKOA SECTOR HOODY",
         "Img":"img/genres/Akoa/Fleeces_hoodies1.jpg",
-        "Gender": "",
+        "Gender":[
+            {"Name":"Boy"},
+            {"Name":"Girl"}
+        ],
         "Color": "BLACK AND SCARLET",
         "Price": 21,
         "Description": "The Akoa Sector hoody is suitable for both boys' and girls. The side panels are breathable using Endura-Dri fabric. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions.",
@@ -180,7 +210,10 @@
         }],
         "Name":"AKOA SECTOR HOODY",
         "Img":"img/genres/Akoa/Fleeces_hoodies2.jpg",
-        "Gender": "",
+        "Gender":[
+            {"Name":"Boy"},
+            {"Name":"Girl"}
+        ],
         "Color": "NAVY AND WHITE",
         "Price": 21,
         "Description": "The Akoa Sector hoody is suitable for both boys' and girls. The side panels are breathable using Endura-Dri fabric. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions.",
@@ -198,7 +231,11 @@
         }],
         "Name":"AKOA SECTOR PANEL SKORT",
         "Img":"img/genres/Akoa/Skort.jpg",
-        "Gender": "Girl",
+        "Gender":[
+            {
+              "Name":"Girl"
+            }
+        ],
         "Color": "BLACK AND SCARLET",
         "Price": 21,
         "Description": "The Akoa Sector panel skort is perfect for everyday sports wear. It has a stretch under short for comfort and modesty. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
@@ -216,7 +253,11 @@
         }],
         "Name":"AKOA SECTOR PANEL SKORT",
         "Img":"img/genres/Akoa/Skort1.jpg",
-        "Gender": "Girl",
+        "Gender":[
+            {
+              "Name":"Girl"
+            }
+        ],
         "Color": "NAVY AND CYCLONE BLUE",
         "Price": 21,
         "Description":"The Akoa Sector panel skort is perfect for everyday sports wear. It has a stretch under short for comfort and modesty. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
@@ -234,7 +275,11 @@
         }],
         "Name":"AKOA SECTOR PANEL SKORT",
         "Img":"img/genres/Akoa/Skort2.jpg",
-        "Gender": "Girl",
+        "Gender":[
+            {
+              "Name":"Girl"
+            }
+        ],
         "Color": "NAVY AND WHITE",
         "Price": 21,
         "Description": "The Akoa Sector panel skort is perfect for everyday sports wear. It has a stretch under short for comfort and modesty. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
@@ -252,7 +297,10 @@
         }],
         "Name":"AKOA SECTOR CONTRAST TOP SOCK",
         "Img":"img/genres/Akoa/Socks.jpg",
-        "Gender": "",
+        "Gender":[
+            {"Name":"Boy"},
+            {"Name":"Girl"}
+        ],
         "Color": "BLACK AND SCARLET",
         "Price": 21,
         "Description": "The Akoa Sector contrast top sock has an elasticated top that eliminates the need for tie ups and can be worn under or over the knee. The elasticated ankle support helps hold shin pads in place with a padded sole for added comfort. Micromesh foot venting and a flat toe are extra features.",
@@ -270,7 +318,10 @@
         }],
         "Name":"AKOA SECTOR CONTRAST TOP SOCK",
         "Img":"img/genres/Akoa/Socks1.jpg",
-        "Gender": "",
+        "Gender":[
+            {"Name":"Boy"},
+            {"Name":"Girl"}
+        ],
         "Color": "NAVY AND CYCLONE BLUE",
         "Price": 21,
         "Description": "The Akoa Sector contrast top sock has an elasticated top that eliminates the need for tie ups and can be worn under or over the knee. The elasticated ankle support helps hold shin pads in place with a padded sole for added comfort. Micromesh foot venting and a flat toe are extra features.",
@@ -288,7 +339,10 @@
         }],
         "Name":"AKOA SECTOR CONTRAST TOP SOCK",
         "Img":"img/genres/Akoa/Socks2.jpg",
-        "Gender": "",
+        "Gender":[
+            {"Name":"Boy"},
+            {"Name":"Girl"}
+        ],
         "Color": "ROYAL AND WHITE",
         "Price": 21,
         "Description": "The Akoa Sector contrast top sock has an elasticated top that eliminates the need for tie ups and can be worn under or over the knee. The elasticated ankle support helps hold shin pads in place with a padded sole for added comfort. Micromesh foot venting and a flat toe are extra features.",
@@ -306,7 +360,11 @@
         }],
         "Name":"AKOA SECTOR GIRLS' LEGGINGS",
         "Img":"img/genres/Akoa/Track_Leggings_G.jpg",
-        "Gender": "Girl",
+        "Gender":[
+            {
+              "Name":"Girl"
+            }
+        ],
         "Color": "BLACK",
         "Price": 21,
         "Description":"The Akoa Sector girls' leggings are made from a dense stretch fabric for comfort, performance and modesty. The fit is especially designed for girls.",
@@ -324,7 +382,11 @@
         }],
         "Name":"AKOA SECTOR GIRLS' LEGGINGS",
         "Img":"img/genres/Akoa/Track_Leggings_G1.jpg",
-        "Gender": "Girl",
+        "Gender":[
+            {
+              "Name":"Girl"
+            }
+        ],
         "Color": "NAVY",
         "Price": 21,
         "Description":"The Akoa Sector girls' leggings are made from a dense stretch fabric for comfort, performance and modesty. The fit is especially designed for girls.",
@@ -342,7 +404,11 @@
         }],
         "Name":"AKOA SECTOR PRO TRACK PANT",
         "Img":"img/genres/Akoa/Track_Leggings_B.jpg",
-        "Gender": "Boy",
+        "Gender":[
+            {
+              "Name":"Boy"
+            }
+        ],
         "Color": "BLACK",
         "Price": 21,
         "Description":"The Akoa Sector pro track pant is perfect for everyday sports wear. Sizes XXS and above feature an elasticated waist with an internal drawcord. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side stripe is coloured or self coloured and it features an open hem with ¼ zip opening.",
@@ -360,7 +426,11 @@
         }],
         "Name":"AKOA SECTOR PRO TRACK PANT",
         "Img":"img/genres/Akoa/Track_Leggings_B1.jpg",
-        "Gender": "Boy",
+        "Gender":[
+            {
+              "Name":"Boy"
+            }
+        ],
         "Color": "NAVY",
         "Price": 21,
         "Description": "The Akoa Sector pro track pant is perfect for everyday sports wear. Sizes XXS and above feature an elasticated waist with an internal drawcord. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side stripe is coloured or self coloured and it features an open hem with ¼ zip opening.",
@@ -379,7 +449,11 @@
         }],
         "Name":"CHADWICK IGEN FEMALE POLO",
         "Img":"img/genres/Chadwick/Pol_skirts_G.jpg",
-        "Gender": "Girl",
+        "Gender":[
+            {
+              "Name":"Girl"
+            }
+        ],
         "Color": "BLACK AND AMBER",
         "Price": 21,
         "Description": "Chadwick's iGen Female Polo is part of a 4-piece iGen product range. It is a specially designed female fit polo and can be worn with the iGen team skort. It comes in a breathable fabric, that is lightweight and easy to care for.",
