@@ -5,11 +5,11 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Shirts",
             "Id":500
             
-        }],
+        },
         "Name":"AKOA SECTOR POLO SHIRT",
         "Img":"img/genres/Akoa/Pol_shirts_B.jpg",
         "Gender":[
@@ -28,10 +28,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Shirts",
             "Id":500
-        }],
+        },
         "Name":"AKOA SECTOR POLO SHIRT",
         "Img":"img/genres/Akoa/Pol_shirts_B1.jpg",
         "Gender":[
@@ -50,10 +50,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Shirts",
             "Id":500
-        }],
+        },
         "Name":"AKOA SECTOR GIRLS' FIT POLO SHIRT",
         "Img":"img/genres/Akoa/Pol_shirts_G.jpg",
         "Gender":[
@@ -73,11 +73,11 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Shirts",
             "Id":500
             
-        }],
+        },
         "Name":"AKOA SECTOR GIRLS' FIT POLO SHIRT",
         "Img":"img/genres/Akoa/Pol_shirts_G1.jpg",
         "Gender":[
@@ -96,10 +96,10 @@
             "Name":"AKOA SPORTSWEAR",
             "Id":"1000"
         },
-        "Type":[{
+        "Type":{
             "Name":"PT.shortt",
             "Id":540
-        }],
+        },
         "Name":"AKOA MULTISPORT SHORT",
         "Img":"img/genres/Akoa/School_short.jpg",
         "Gender":[
@@ -118,10 +118,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.short",
             "Id":640
-        }],
+        },
         "Name":"AKOA MULTISPORT SHORT",
         "Img":"img/genres/Akoa/School_short1.jpg",
         "Gender":[
@@ -140,10 +140,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.short",
             "Id":540
-        }],
+        },
         "Name":"AKOA MULTISPORT SHORT",
         "Img":"img/genres/Akoa/School_short2.jpg",
         "Gender":[
@@ -162,10 +162,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Hoodies",
             "Id":630        
-        }],
+        },
         "Name":"AKOA SECTOR MICROFLEECE",
         "Img":"img/genres/Akoa/Fleeces_hoodies.jpg",
         "Gender":[
@@ -183,10 +183,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Hoodies",
             "Id":630        
-        }],
+        },
         "Name":"AKOA SECTOR HOODY",
         "Img":"img/genres/Akoa/Fleeces_hoodies1.jpg",
         "Gender":[
@@ -204,10 +204,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Hoodies",
             "Id":630        
-        }],
+        },
         "Name":"AKOA SECTOR HOODY",
         "Img":"img/genres/Akoa/Fleeces_hoodies2.jpg",
         "Gender":[
@@ -225,10 +225,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Skorts",
             "Id":650        
-        }],
+        },
         "Name":"AKOA SECTOR PANEL SKORT",
         "Img":"img/genres/Akoa/Skort.jpg",
         "Gender":[
@@ -247,10 +247,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Skorts",
             "Id":650        
-        }],
+        },
         "Name":"AKOA SECTOR PANEL SKORT",
         "Img":"img/genres/Akoa/Skort1.jpg",
         "Gender":[
@@ -269,10 +269,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Skorts",
             "Id":650        
-        }],
+        },
         "Name":"AKOA SECTOR PANEL SKORT",
         "Img":"img/genres/Akoa/Skort2.jpg",
         "Gender":[
@@ -291,10 +291,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Socks",
             "Id":600        
-        }],
+        },
         "Name":"AKOA SECTOR CONTRAST TOP SOCK",
         "Img":"img/genres/Akoa/Socks.jpg",
         "Gender":[
@@ -312,10 +312,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Socks",
             "Id":600    
-        }],
+        },
         "Name":"AKOA SECTOR CONTRAST TOP SOCK",
         "Img":"img/genres/Akoa/Socks1.jpg",
         "Gender":[
@@ -333,10 +333,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Socks",
             "Id":600        
-        }],
+        },
         "Name":"AKOA SECTOR CONTRAST TOP SOCK",
         "Img":"img/genres/Akoa/Socks2.jpg",
         "Gender":[
@@ -354,10 +354,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.track pants",
             "Id":550        
-        }],
+        },
         "Name":"AKOA SECTOR GIRLS' LEGGINGS",
         "Img":"img/genres/Akoa/Track_Leggings_G.jpg",
         "Gender":[
@@ -376,10 +376,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.track pants",
             "Id":550        
-        }],
+        },
         "Name":"AKOA SECTOR GIRLS' LEGGINGS",
         "Img":"img/genres/Akoa/Track_Leggings_G1.jpg",
         "Gender":[
@@ -398,10 +398,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.track pants",
             "Id":550        
-        }],
+        },
         "Name":"AKOA SECTOR PRO TRACK PANT",
         "Img":"img/genres/Akoa/Track_Leggings_B.jpg",
         "Gender":[
@@ -420,10 +420,10 @@
             "Id":"1000",
             "Name":"AKOA SPORTSWEAR"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.track pants",
             "Id":550       
-        }],
+        },
         "Name":"AKOA SECTOR PRO TRACK PANT",
         "Img":"img/genres/Akoa/Track_Leggings_B1.jpg",
         "Gender":[
@@ -443,10 +443,10 @@
             "Id":"2000",
             "Name":"Chadwick Teamwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Shirts",
             "Id":510        
-        }],
+        },
         "Name":"CHADWICK IGEN FEMALE POLO",
         "Img":"img/genres/Chadwick/Pol_shirts_G.jpg",
         "Gender":[
@@ -465,10 +465,10 @@
             "Id":"2000",
             "Name":"Chadwick Teamwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Shirts",
             "Id":510        
-        }],
+        },
         "Name":"CHADWICK IGEN FEMALE POLO",
         "Img":"img/genres/Chadwick/Pol_shirts_G1.jpg",
         "Gender":[
@@ -488,10 +488,10 @@
             "Id":"2000",
             "Name":"Chadwick Teamwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Shirts",
             "Id":510        
-        }],
+        },
         "Name":"CHADWICK IGEN MALE POLO",
         "Img":"img/genres/Chadwick/Pol_shirts_B.jpg",
         "Gender":[
@@ -510,11 +510,11 @@
             "Id":"2000",
             "Name":"Chadwick Teamwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Shirts",
             "Id":510   
                 
-        }],
+        },
         "Name":"CHADWICK IGEN MALE POLO",
         "Img":"img/genres/Chadwick/Pol_shirts_B1.jpg",
         "Gender":[
@@ -534,10 +534,10 @@
             "Id":"2000",
             "Name":"Chadwick Teamwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Tops",
             "Id":620        
-        }],
+        },
         "Name":"CHADWICK 860 EDGE PRO CONTACT TOP",
         "Img":"img/genres/Chadwick/Tops.jpg",
         "Gender":[
@@ -555,10 +555,10 @@
             "Id":"2000",
             "Name":"Chadwick Teamwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Tops",
             "Id":620        
-        }],
+        },
         "Name":"CHADWICK 860 EDGE PRO CONTACT TOP",
         "Img":"img/genres/Chadwick/Tops1.jpg",
         "Gender":[
@@ -577,10 +577,10 @@
             "Id":"2000",
             "Name":"Chadwick Teamwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Tops",
             "Id":620        
-        }],
+        },
         "Name":"CHADWICK 860 EDGE PRO CONTACT TOP",
         "Img":"img/genres/Chadwick/Tops2.jpg",
         "Gender":[
@@ -598,10 +598,10 @@
             "Id":"2000",
             "Name":"Chadwick Teamwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Hoodies",
             "Id":630        
-        }],
+        },
         "Name":"CHADWICK PREMIUM PRO HOODY",
         "Img":"img/genres/Chadwick/Hoodies.jpg",
         "Gender":[
@@ -619,11 +619,11 @@
             "Id":"2000",
             "Name":"Chadwick Teamwear"
         }],
-        "Type":[
+        "Type":
             {
             "Name":"Hoodies",
             "Id":630
-        }],
+        },
 
         "Name":"CHADWICK PREMIUM PRO HOODY",
         "Img":"img/genres/Chadwick/Hoodies1.jpg",
@@ -642,10 +642,10 @@
             "Id":"2000",
             "Name":"Chadwick Teamwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Hoodies",
             "Id":630        
-        }],
+        },
         "Name":"CHADWICK PREMIUM PRO HOODY",
         "Img":"img/genres/Chadwick/Hoodies2.jpg",
         "Gender":[
@@ -663,10 +663,10 @@
             "Id":"2000",
             "Name":"Chadwick Teamwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.shorts",
             "Id":540        
-        }],
+        },
         "Name":"CHADWICK IGEN UNISEX SHORTS",
         "Img":"img/genres/Chadwick/Shorts.jpg",
         "Gender":[
@@ -684,10 +684,10 @@
             "Id":"2000",
             "Name":"Chadwick Teamwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.short",
             "Id":540        
-        }],
+        },
         "Name":"CHADWICK IGEN UNISEX SHORTS",
         "Img":"img/genres/Chadwick/Shorts1.jpg",
         "Gender":[
@@ -705,10 +705,10 @@
             "Id":"2000",
             "Name":"Chadwick Teamwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.shorts",
             "Id":540        
-        }],
+        },
         "Name":"CHADWICK IGEN UNISEX SHORTS",
         "Img":"img/genres/Chadwick/Shorts2.jpg",
         "Gender":[
@@ -726,10 +726,10 @@
             "Id":"2000",
             "Name":"Chadwick Teamwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Skorts",
             "Id":650        
-        }],
+        },
         "Name":"CHADWICK IGEN FEMALE SKORT",
         "Img":"img/genres/Chadwick/Skorts.jpg",
         "Gender":[
@@ -748,10 +748,10 @@
             "Id":"2000",
             "Name":"Chadwick Teamwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Skorts",
             "Id":650        
-        }],
+        },
         "Name":"CHADWICK IGEN FEMALE SKORT",
         "Img":"img/genres/Chadwick/Skorts1.jpg",
         "Gender":[
@@ -770,10 +770,10 @@
             "Id":"2000",
             "Name":"Chadwick Teamwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Skorts",
             "Id":650        
-        }],
+        },
         "Name":"CHADWICK IGEN FEMALE SKORT",
         "Img":"img/genres/Chadwick/Skorts2.jpg",
         "Gender":[
@@ -793,10 +793,10 @@
             "Brand":"Banner Schoolwear"
 
         }],
-        "Type":[{
+        "Type":{
             "Name":"Shirts",
             "Id":500       
-        }],
+        },
         "Name":"BANNER MILLFIELD POLO SHIRT",
         "Img":"img/genres/Banner/Pol_shirts.jpg",
         "Gender":[
@@ -814,10 +814,10 @@
             "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Shirts",
             "Id":500       
-        }],
+        },
         "Name":"BANNER MILLFIELD POLO SHIRT",
         "Img":"img/genres/Banner/Pol_shirts1.jpg",
         "Gender":[
@@ -836,10 +836,10 @@
             "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Shirts",
             "Id":500       
-        }],
+        },
         "Name":"BANNER MILLFIELD POLO SHIRT",
         "Img":"img/genres/Banner/Pol_shirts2.jpg",
         "Gender":[
@@ -859,10 +859,10 @@
             "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.T-shirts",
             "Id":530       
-        }],
+        },
         "Name":"BANNER CHAMPION T-SHIRT",
         "Img":"img/genres/Banner/P.T_T-shirts.jpg",
         "Gender":[
@@ -881,10 +881,10 @@
             "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.T-shirts",
             "Id":530       
-        }],
+        },
         "Name":"BANNER CHAMPION T-SHIRT",
         "Img":"img/genres/Banner/P.T_T-shirts1.jpg",
         "Gender":[
@@ -903,10 +903,10 @@
             "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.T-shirts",
             "Id":530       
-        }],
+        },
         "Name":"BANNER CHAMPION T-SHIRT",
         "Img":"img/genres/Banner/P.T_T-shirts2.jpg",
         "Gender":[
@@ -925,10 +925,10 @@
             "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Hoodies",
             "Id":630       
-        }],
+        },
         "Name":"BANNER SELECT HOODIE",
         "Img":"img/genres/Banner/Hoodies.jpg",
         "Gender":[
@@ -947,10 +947,10 @@
             "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Hoodies",
             "Id":630       
-        }],
+        },
         "Name":"BANNER SELECT HOODIE",
         "Img":"img/genres/Banner/Hoodies1.jpg",
         "Gender":[
@@ -969,10 +969,10 @@
             "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Hoodies",
             "Id":630       
-        }],
+        },
         "Name":"BANNER SELECT HOODIE",
         "Img":"img/genres/Banner/Hoodies2.jpg",
         "Gender":[
@@ -991,10 +991,10 @@
             "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Skirts",
             "Id":510       
-        }],
+        },
         "Name":"BANNER THORNTON SENIOR FRONT PLEAT SKIRT", 
         "Img":"img/genres/Banner/Skirts.jpg",
         "Gender":[
@@ -1014,10 +1014,10 @@
             "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Skirts",
             "Id":510       
-        }],
+        },
         "Name":"BANNER THORNTON SENIOR FRONT PLEAT SKIRT", 
         "Img":"img/genres/Banner/Skirts1.jpg",
         "Gender":[
@@ -1037,10 +1037,10 @@
             "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Skirts",
             "Id":510       
-        }],
+        },
         "Name":"BANNER DAVENPORT SENIOR KNIFE PLEAT SKIRT", 
         "Img":"img/genres/Banner/Skirts2.jpg",
         "Gender":[
@@ -1060,10 +1060,10 @@
             "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.shorts",
             "Id":540       
-        }],
+        },
         "Name":"BANNER ESSEX BOYS' SHORTS", 
         "Img":"img/genres/Banner/Short.jpg",
         "Gender":[
@@ -1083,10 +1083,10 @@
             "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.shorts",
             "Id":540       
-        }],
+        },
         "Name":"BANNER ESSEX BOYS' SHORTS", 
         "Img":"img/genres/Banner/Short1.jpg",
         "Gender":[
@@ -1106,10 +1106,10 @@
             "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.shorts",
             "Id":640       
-        }],
+        },
         "Name":"BANNER BERMUDA BOYS' SHORTS", 
         "Img":"img/genres/Banner/Short2.jpg",
         "Gender":[
@@ -1129,10 +1129,10 @@
             "Id":"3000",
             "Brand":"Banner Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.shorts",
             "Id":540       
-        }],
+        },
         "Name":"BANNER BERMUDA BOYS' SHORTS", 
         "Img":"img/genres/Banner/Short3.jpg",
         "Gender":[
@@ -1152,10 +1152,10 @@
             "Id":"4000",
             "Brand":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Shirts",
             "Id":500       
-        }],
+        },
         "Name":"DAVID LUKE ECO POLO SHIRT",
         "Img":"img/genres/David/Pol_shirts.jpg",
         "Gender":[
@@ -1174,10 +1174,10 @@
             "Id":"4000",
             "Brand":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Shirts",
             "Id":500       
-        }],
+        },
         "Name":"DAVID LUKE ECO POLO SHIRT",
         "Img":"img/genres/David/Pol_shirts1.jpg",
         "Gender":[
@@ -1196,10 +1196,10 @@
             "Id":"4000",
             "Brand":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Shirts",
             "Id":500      
-        }],
+        },
         "Name":"DAVID LUKE ECO POLO SHIRT",
         "Img":"img/genres/David/Pol_shirts2.jpg",
         "Gender":[
@@ -1218,10 +1218,10 @@
             "Id":"4000",
             "Brand":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.shorts",
             "Id":540       
-        }],
+        },
         "Name":"DAVID LUKE ECO SENIOR BOYS' BERMUDA SHORTS",
         "Img":"img/genres/David/Short.jpg",
         "Gender":[
@@ -1241,10 +1241,10 @@
             "Id":"4000",
             "Brand":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.shorts",
             "Id":540       
-        }],
+        },
         "Name":"DAVID LUKE ECO SENIOR BOYS' BERMUDA SHORTS",
         "Img":"img/genres/David/Short1.jpg",
         "Gender":[
@@ -1264,10 +1264,10 @@
             "Id":"4000",
             "Brand":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"PT.shorts",
             "Id":540       
-        }],
+        },
         "Name":"DAVID LUKE ECO JUNIOR BOYS' BERMUDA SHORTS",
         "Img":"img/genres/David/Short2.jpg",
         "Gender":[
@@ -1287,10 +1287,10 @@
             "Id":"4000",
             "Brand":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Skirts",
             "Id":510       
-        }],
+        },
         "Name":"DAVID LUKE ECO SENIOR DROP WAIST KNIFE PLEAT SKIRT",
         "Img":"img/genres/David/Skirts.jpg",
         "Gender":[
@@ -1310,10 +1310,10 @@
             "Id":"4000",
             "Brand":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Skirts",
             "Id":510       
-        }],
+        },
         "Name":"DAVID LUKE SENIOR CHECKED STITCHED DOWN KNIFE PLEAT SKIRT",
         "Img":"img/genres/David/Skirts1.jpg",
         "Gender":[
@@ -1333,10 +1333,10 @@
             "Id":"4000",
             "Brand":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Skirts",
             "Id":510       
-        }],
+        },
         "Name":"DAVID LUKE ECO SENIOR STRAIGHT SKIRT",
         "Img":"img/genres/David/Skirts2.jpg",
         "Gender":[
@@ -1356,10 +1356,10 @@
             "Id":"4000",
             "Brand":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Tops",
             "Id":620       
-        }],
+        },
         "Name":"DAVID LUKE BOYS' SPORTS TOP",
         "Img":"img/genres/David/Top_B.jpg",
         "Gender":[
@@ -1379,10 +1379,10 @@
             "Id":"4000",
             "Brand":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Tops",
             "Id":620       
-        }],
+        },
         "Name":"DAVID LUKE BOYS' SPORTS TOP",
         "Img":"img/genres/David/Top_B1.jpg",
         "Gender":[
@@ -1401,10 +1401,10 @@
             "Id":"4000",
             "Brand":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Tops",
             "Id":620       
-        }],
+        },
         "Name":"DAVID LUKE GIRLS' FITTED SPORTS TOP",
         "Img":"img/genres/David/Top_G.jpg",
         "Gender":[
@@ -1423,10 +1423,10 @@
             "Id":"4000",
             "Brand":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Tops",
             "Id":620       
-        }],
+        },
         "Name":"DAVID LUKE GIRLS' FITTED SPORTS TOP",
         "Img":"img/genres/David/Top_G1.jpg",
         "Gender":[
@@ -1445,10 +1445,10 @@
             "Id":"4000",
             "Name":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Belts",
             "Id":580        
-        }],
+        },
         "Name":"BLACK LEATHER BELT 560  ",
         "Img":"img/genres/David/Belts_B.jpg",
         "Gender":[
@@ -1467,10 +1467,10 @@
             "Id":"4000",
             "Name":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Belts",
             "Id":580        
-        }],
+        },
         "Name":"BLACK LEATHER BELT 760",
         "Img":"img/genres/David/Belts_B1.jpg",
         "Gender":[
@@ -1489,10 +1489,10 @@
             "Id":"4000",
             "Name":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Belts",
             "Id":580        
-        }],
+        },
         "Name":"BLACK LEATHER BELT 810",
         "Img":"img/genres/David/Belts_B2.jpg",
         "Gender":[
@@ -1511,10 +1511,10 @@
             "Id":"4000",
             "Name":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Belts",
             "Id":580        
-        }],
+        },
         "Name":"LEATHER BELT 820",
         "Img":"img/genres/David/Belts_G.jpg",
         "Gender":[
@@ -1533,10 +1533,10 @@
             "Id":"4000",
             "Name":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Belts",
             "Id":580        
-        }],
+        },
         "Name":"LEATHER BELT 750",
         "Img":"img/genres/David/Belts_G1.jpg",
         "Gender":[
@@ -1555,10 +1555,10 @@
             "Id":"4000",
             "Name":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Ties",
             "Id":590        
-        }],
+        },
         "Name":"DAVID TIE FOR GIRLS BUTTERFLY COLOR SCHOOL",
         "Img":"img/genres/David/Ties_G.jpg",
         "Gender":[
@@ -1577,10 +1577,10 @@
             "Id":"4000",
             "Name":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Ties",
             "Id":590        
-        }],
+        },
         "Name":"DAVID TIE FOR GIRLS BUTTERFLY COLOR SCHOOL",
         "Img":"img/genres/David/Ties_G1.jpg",
         "Gender":[
@@ -1599,10 +1599,10 @@
             "Id":"4000",
             "Name":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Ties",
             "Id":590        
-        }],
+        },
         "Name":"DAVID TIE FOR BOY SCHOOL",
         "Img":"img/genres/David/Ties_B.jpg",
         "Gender":[
@@ -1621,10 +1621,10 @@
             "Id":"4000",
             "Name":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Ties",
             "Id":590        
-        }],
+        },
         "Name":"DAVID TIE FOR BOY SCHOOL",
         "Img":"img/genres/David/Ties_B1.jpg",
         "Gender":[
@@ -1643,10 +1643,10 @@
             "Id":"4000",
             "Name":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Ties",
             "Id":590        
-        }],
+        },
         "Name":"DAVID TIE FOR BOY SCHOOL",
         "Img":"img/genres/David/Ties_B2.jpg",
         "Gender":[
@@ -1665,10 +1665,10 @@
             "Id":"4000",
             "Name":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Frocks",
             "Id":520        
-        }],
+        },
         "Name":"DAVID SCHOOL UNIFORM FROCK",
         "Img":"img/genres/David/Frocks.jpg",
         "Gender":[
@@ -1687,10 +1687,10 @@
             "Id":"4000",
             "Name":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Frocks",
             "Id":520        
-        }],
+        },
         "Name":"DAVID SCHOOL UNIFORM FROCK",
         "Img":"img/genres/David/Frocks1.jpg",
         "Gender":[
@@ -1709,10 +1709,10 @@
             "Id":"4000",
             "Name":"David Schoolwear"
         }],
-        "Type":[{
+        "Type":{
             "Name":"Frocks",
             "Id":520        
-        }],
+        },
         "Name":"DAVID SCHOOL UNIFORM FROCK",
         "Img":"img/genres/David/Frocks2.jpg",
         "Gender":[
