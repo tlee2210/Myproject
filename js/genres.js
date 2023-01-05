@@ -16,13 +16,6 @@ angular.module("myApp.genres",["ui.bootstrap"])
             // console.log($scope.catalogList);
         })
 
-        $scope.productId = $routeParams.Id
-
-        productAPIservice.getProduct().then(function(reponse){
-            var data = reponse.data;
-            $scope.brands = $filter("filter")(data, {Id: parseInt($scope.productId)}, true)[0];
-            console.log($scope.brands)
-        })
 
         productAPIservice.getcatalog().then(function(reponse){
             var data = reponse.data;

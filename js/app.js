@@ -28,7 +28,7 @@ app.config(function($routeProvider){
     .when("/aboutus", {templateUrl : "aboutus.html", controller:"aboutus"})
     .when("/feedback", {templateUrl : "feedback.html", controller:"feedback"})
     .when("/product/:Id", {templateUrl : "product.html", controller:"productCtrl"})
-    .when("/brands/:Id", {templateUrl : "catalog.html", controller:"genresCtrl"})
+    // .when("/brands/:Id", {templateUrl : "catalog.html", controller:"genresCtrl"})
     .when("/genres/:genresName", {templateUrl : "catalog.html", controller:"genresCtrl"})
 })
 
