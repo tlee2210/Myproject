@@ -23,12 +23,11 @@ app.config(function($routeProvider){
     .when("/myAccount", {templateUrl : "myAccount.html", controller:"myAccount"})
     .when("/cart", {templateUrl : "cart.html", controller:"cartCtrl"})
     // .when("/checkout", {templateUrl : "checkout.html", controller:"checkout"})
-    // .when("/catalog", {templateUrl : "catalog.html", controller:"catalogCtrl"})
+    .when("/catalog", {templateUrl : "catalog.html", controller:"genresCtrl"})
     .when("/contact", {templateUrl : "contact.html", controller:"contact"})
     .when("/aboutus", {templateUrl : "aboutus.html", controller:"aboutus"})
     .when("/feedback", {templateUrl : "feedback.html", controller:"feedback"})
     .when("/product/:Id", {templateUrl : "product.html", controller:"productCtrl"})
-    .when("/product/:Id", {templateUrl : "catalog.html", controller:"genresCtrl"})
     .when("/genres/:genresName", {templateUrl : "catalog.html", controller:"genresCtrl"})
 })
 
