@@ -22,26 +22,26 @@
 					<div class="col-lg-6">
 						<div class="commentbox">
 							<h5>LEAVE US A MESSAGE</h5>
-							<form id="contact-form" action="https://whizthemes.com/nazmul/php/mail.php" method="POST" class="sn-form contact-form">
+							<form id="contact-form"method="post" class="sn-form contact-form" onsubmit="checkform()">
 								<div class="sn-form-inner">
 									<div class="single-input single-input-half">
 										<label for="new-review-name">Name*</label>
-										<input type="text" name="name" id="new-review-name">
+										<input type="text" name="name" id="name" placeholder="Your name" autofocus required>
 									</div>
 									<div class="single-input single-input-half">
 										<label for="new-review-email">Email*</label>
-										<input type="email" name="email" id="new-review-email">
+										<input type="email" name="email" id="email"placeholder="Your email" autofocus required>
 									</div>
 									<div class="single-input">
 										<label for="new-review-subject">Subject*</label>
-										<input type="text" name="subject" id="new-review-subject">
+										<input type="text" name="subject" id="subject"placeholder="Your subject" autofocus required>
 									</div>
 									<div class="single-input">
 										<label for="new-review-textbox">Your Message</label>
-										<textarea id="new-review-textbox" name="message" cols="30" rows="5"></textarea>
+										<textarea id="message" name="message" cols="30" rows="5"placeholder="Your message" autofocus required></textarea>
 									</div>
 									<div class="single-input">
-										<button class="sn-button sn-button-dark" type="submit"><span>Send</span></button>
+										<button class="sn-button sn-button-dark" type="submit"value="SUBMIT"><span>Send</span></button>
 									</div>
 								</div>
 							</form>
@@ -70,13 +70,13 @@
 		<!-- Features Area -->
 		<div class="features-area">
 			<div class="container">
-				<div class="row justify-content-center features-wrapper">
+				<div class="row justify-content-center features-wrapper"ng-repeat="contact in ContactList">
 
 					<!-- Single Features -->
 					<div class="col-lg-4 col-md-6 col-12">
 						<div class="features text-center">
-							<h6>MONEY BACK GUARANTEED</h6>
-							<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur</p>
+							<h6>Phone:</h6>
+							<a href="tel:+88587485698765">{{contact.phone}}</a>
 						</div>	
 					</div>
 					<!--// Single Features -->
@@ -84,8 +84,8 @@
 					<!-- Single Features -->
 					<div class="col-lg-4 col-md-6 col-12">
 						<div class="features text-center">
-							<h6>FREE WORLDWIDE DELIVERY</h6>
-							<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur</p>
+							<h6>Email:</h6>
+							<a href="mailto:outside@email.com">{{contact.email}}</a>
 						</div>	
 					</div>
 					<!--// Single Features -->
@@ -93,8 +93,8 @@
 					<!-- Single Features -->
 					<div class="col-lg-4 col-md-6 col-12">
 						<div class="features text-center">
-							<h6>ONLINE SUPPORT 24/7</h6>
-							<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur</p>
+							<h6>Adress:</h6>
+							<p>{{contact.address}}</p>
 						</div>	
 					</div>
 					<!--// Single Features -->
@@ -130,3 +130,27 @@
 	<!--// Page Conttent -->
 
 </div>
+<script>
+    function checkform(){
+        var a=document.getElementById("name").value;
+        var b=document.getElementById("email").value;
+        var c=document.getElementById("message").value;
+       
+        if(a == " ")
+        {
+            alert("Please enter your name!");
+        }
+        else if(b == " ")
+        {
+            alert("Please enter your email address!");
+        }
+        else if(c == " ")
+        {
+            alert("Don't forget to send your message with us!");
+        }
+        else
+        {
+            alert("Successfully sent!");
+        }
+    }
+</script>
