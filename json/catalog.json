@@ -2,14 +2,12 @@
     {
         "Name":"Shirts",
         "Id":500,
-        "Img":"img/genres/Akoa/Pol_skirts_B.jpg",
-        "Img1":"img/genres/Akoa/Pol_skirts_G1.jpg"
+        "Img":"img/genres/Banner/P.T_T-shirts2.jpg"
     },
     {
         "Name":"Skirts",
         "Id":510,
-        "Img":"img/genres/Chadwick/Pol_skirts_B.jpg",
-        "Img1":"img/genres/Chadwick/Pol_skirts_G1.jpg"
+        "Img":"img/genres/Banner/Skirts.jpg"
     },
     {
         "Name":"Frocks",
@@ -17,11 +15,13 @@
     },
     {
         "Name":"PT.T-shirts",
-        "Id":530
+        "Id":530,
+        "Img":"img/genres/Banner/P.T_T-shirts.jpg"
     },
     {
         "Name":"PT.shorts",
-        "Id":540
+        "Id":540,
+        "Img":"img/genres/Banner/Short1.jpg"
     },
     {
         "Name":"PT.track pants",
@@ -29,7 +29,8 @@
     },
     {
         "Name":"Belts",
-        "Id":580
+        "Id":580,
+        "Img":"img/genres/David/Belts_B.jpg"
     },
     {
         "Name":"Ties",
@@ -37,23 +38,28 @@
     },
     {
         "Name":"Socks",
-        "Id":600
+        "Id":600,
+        "Img":"img/genres/Akoa/Socks.jpg"
     },
     {
         "Name":"Track Pants",
-        "Id":610
+        "Id":610,
+        "Img":"img/genres/Akoa/Track_Leggings_G.jpg"
     },
     {
         "Name":"Tops",
-        "Id":620
+        "Id":620,
+        "Img":"img/genres/Chadwick/Tops.jpg"
     },
     {
         "Name":"Hoodies",
-        "Id":630
+        "Id":630,
+        "Img":"img/genres/Chadwick/Hoodies.jpg"
     },
     
     {
         "Name":"Skort",
-        "Id":650    
+        "Id":650,
+        "Img":"img/genres/Chadwick/Skorts.jpg"
     }
 ]

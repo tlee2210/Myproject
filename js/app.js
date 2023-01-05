@@ -5,7 +5,7 @@ var app = angular.module("myApp", [
     // "contact",
     // "aboutus",
     // "feedback",
-    "myApp.homeCtrl",
+    "myApp.home",
     "ui.bootstrap",
     "myApp.paginate-filter",
     "myApp.product",
@@ -29,7 +29,7 @@ app.config(function($routeProvider){
     .when("/feedback", {templateUrl : "feedback.html", controller:"feedback"})
     .when("/product/:Id", {templateUrl : "product.html", controller:"productCtrl"})
     .when("/genres/:genresName", {templateUrl : "catalog.html", controller:"genresCtrl"})
-    // .when("/Brands/:genresBrand", {templateUrl : "catalog.html", controller:"menuCtrl"})
+    .when("/list/:listName", {templateUrl : "catalog.html", controller:"menuCtrl"})
 })
 
 
