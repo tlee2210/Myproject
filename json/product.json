@@ -355,8 +355,8 @@
             "Name":"AKOA SPORTSWEAR"
         }],
         "Type":[{
-            "Name":"Track Pants",
-            "Id":610        
+            "Name":"PT.track pants",
+            "Id":550        
         }],
         "Name":"AKOA SECTOR GIRLS' LEGGINGS",
         "Img":"img/genres/Akoa/Track_Leggings_G.jpg",
@@ -377,8 +377,8 @@
             "Name":"AKOA SPORTSWEAR"
         }],
         "Type":[{
-            "Name":"Track Pants",
-            "Id":610        
+            "Name":"PT.track pants",
+            "Id":550        
         }],
         "Name":"AKOA SECTOR GIRLS' LEGGINGS",
         "Img":"img/genres/Akoa/Track_Leggings_G1.jpg",
@@ -399,8 +399,8 @@
             "Name":"AKOA SPORTSWEAR"
         }],
         "Type":[{
-            "Name":"Track Pants",
-            "Id":610        
+            "Name":"PT.track pants",
+            "Id":550        
         }],
         "Name":"AKOA SECTOR PRO TRACK PANT",
         "Img":"img/genres/Akoa/Track_Leggings_B.jpg",
@@ -421,8 +421,8 @@
             "Name":"AKOA SPORTSWEAR"
         }],
         "Type":[{
-            "Name":"Track Pants",
-            "Id":610        
+            "Name":"PT.track pants",
+            "Id":550       
         }],
         "Name":"AKOA SECTOR PRO TRACK PANT",
         "Img":"img/genres/Akoa/Track_Leggings_B1.jpg",
@@ -1515,14 +1515,14 @@
             "Name":"Belts",
             "Id":580        
         }],
-        "Name":"BLACK LEATHER BELT 810",
+        "Name":"LEATHER BELT 820",
         "Img":"img/genres/David/Belts_G.jpg",
         "Gender":[
             {
               "Name":"Girl"
             }
         ],
-        "Color": "GOLD",
+        "Color": "BLACK",
         "Price": 21,
         "Description": "Our black David Schoowearl leather belt features a classic and professional look. The design is timeless, while the look is stylish and elegant. The David Schoowearl belt, made from first quality leather, comes with: A comfortable and stylish appearance to complete your uniform appearance Clip buckle in a stylish",
         "Details":"100% Leather"
@@ -1537,16 +1537,194 @@
             "Name":"Belts",
             "Id":580        
         }],
-        "Name":"BLACK LEATHER BELT 810",
+        "Name":"LEATHER BELT 750",
         "Img":"img/genres/David/Belts_G1.jpg",
         "Gender":[
             {
               "Name":"Girl"
             }
         ],
-        "Color": "GOLD",
+        "Color": "NAVY",
         "Price": 21,
         "Description": "Our black David Schoowearl leather belt features a classic and professional look. The design is timeless, while the look is stylish and elegant. The David Schoowearl belt, made from first quality leather, comes with: A comfortable and stylish appearance to complete your uniform appearance Clip buckle in a stylish",
         "Details":"100% Leather"
+    },
+    {
+        "Id": 71,
+        "Brands": [{
+            "Id":"4000",
+            "Name":"David Schoolwear"
+        }],
+        "Type":[{
+            "Name":"Ties",
+            "Id":590        
+        }],
+        "Name":"DAVID TIE FOR GIRLS BUTTERFLY COLOR SCHOOL",
+        "Img":"img/genres/David/Ties_G.jpg",
+        "Gender":[
+            {
+              "Name":"Girl"
+            }
+        ],
+        "Color": "GREEN",
+        "Price": 21,
+        "Description": "The school uniform, house or club clip on tie can be made in any colour and stripe design to suit your requirements. The custom design tie is made from polyester fabric. The clip on style ensures standard lengths and uniformity of the tie when worn.",
+        "Details":" Polyester"
+    },
+    {
+        "Id": 72,
+        "Brands": [{
+            "Id":"4000",
+            "Name":"David Schoolwear"
+        }],
+        "Type":[{
+            "Name":"Ties",
+            "Id":590        
+        }],
+        "Name":"DAVID TIE FOR GIRLS BUTTERFLY COLOR SCHOOL",
+        "Img":"img/genres/David/Ties_G1.jpg",
+        "Gender":[
+            {
+              "Name":"Girl"
+            }
+        ],
+        "Color": "GREEN",
+        "Price": 21,
+        "Description": "The school uniform, house or club clip on tie can be made in any colour and stripe design to suit your requirements. The custom design tie is made from polyester fabric. The clip on style ensures standard lengths and uniformity of the tie when worn.",
+        "Details":" Polyester"
+    },
+    {
+        "Id": 73,
+        "Brands": [{
+            "Id":"4000",
+            "Name":"David Schoolwear"
+        }],
+        "Type":[{
+            "Name":"Ties",
+            "Id":590        
+        }],
+        "Name":"DAVID TIE FOR BOY SCHOOL",
+        "Img":"img/genres/David/Ties_B.jpg",
+        "Gender":[
+            {
+              "Name":"Boy"
+            }
+        ],
+        "Color": "GOLD",
+        "Price": 21,
+        "Description": "The school uniform, house or club clip on tie can be made in any colour and stripe design to suit your requirements. The custom design tie is made from polyester fabric. The clip on style ensures standard lengths and uniformity of the tie when worn.",
+        "Details":" Polyester"
+    },
+    {
+        "Id": 74,
+        "Brands": [{
+            "Id":"4000",
+            "Name":"David Schoolwear"
+        }],
+        "Type":[{
+            "Name":"Ties",
+            "Id":590        
+        }],
+        "Name":"DAVID TIE FOR BOY SCHOOL",
+        "Img":"img/genres/David/Ties_B1.jpg",
+        "Gender":[
+            {
+              "Name":"Boy"
+            }
+        ],
+        "Color": "GREY",
+        "Price": 21,
+        "Description": "The school uniform, house or club clip on tie can be made in any colour and stripe design to suit your requirements. The custom design tie is made from polyester fabric. The clip on style ensures standard lengths and uniformity of the tie when worn.",
+        "Details":" Polyester"
+    },
+    {
+        "Id": 75,
+        "Brands": [{
+            "Id":"4000",
+            "Name":"David Schoolwear"
+        }],
+        "Type":[{
+            "Name":"Ties",
+            "Id":590        
+        }],
+        "Name":"DAVID TIE FOR BOY SCHOOL",
+        "Img":"img/genres/David/Ties_B2.jpg",
+        "Gender":[
+            {
+              "Name":"Boy"
+            }
+        ],
+        "Color": "PURPLE",
+        "Price": 21,
+        "Description": "The school uniform, house or club clip on tie can be made in any colour and stripe design to suit your requirements. The custom design tie is made from polyester fabric. The clip on style ensures standard lengths and uniformity of the tie when worn.",
+        "Details":" Polyester"
+    },
+    {
+        "Id": 76,
+        "Brands": [{
+            "Id":"4000",
+            "Name":"David Schoolwear"
+        }],
+        "Type":[{
+            "Name":"Frocks",
+            "Id":520        
+        }],
+        "Name":"DAVID SCHOOL UNIFORM FROCK",
+        "Img":"img/genres/David/Frocks.jpg",
+        "Gender":[
+            {
+              "Name":"Girl"
+            }
+        ],
+        "Color": "ASH GREY",
+        "Price": 21,
+        "Description": "The offered uniform can be availed from us at wholesale prices. We undertake the stitching of these uniforms as per the predefined customer specifications. Our designers make use of only high quality raw material such as polyester and cotton fabric in the making of this range.",
+        "Details":" Cotton"
+    },
+    {
+        "Id": 77,
+        "Brands": [{
+            "Id":"4000",
+            "Name":"David Schoolwear"
+        }],
+        "Type":[{
+            "Name":"Frocks",
+            "Id":520        
+        }],
+        "Name":"DAVID SCHOOL UNIFORM FROCK",
+        "Img":"img/genres/David/Frocks1.jpg",
+        "Gender":[
+            {
+              "Name":"Girl"
+            }
+        ],
+        "Color": "NAVY",
+        "Price": 21,
+        "Description": "The offered uniform can be availed from us at wholesale prices. We undertake the stitching of these uniforms as per the predefined customer specifications. Our designers make use of only high quality raw material such as polyester and cotton fabric in the making of this range.",
+        "Details":" Cotton"
+    },
+    {
+        "Id": 78,
+        "Brands": [{
+            "Id":"4000",
+            "Name":"David Schoolwear"
+        }],
+        "Type":[{
+            "Name":"Frocks",
+            "Id":520        
+        }],
+        "Name":"DAVID SCHOOL UNIFORM FROCK",
+        "Img":"img/genres/David/Frocks2.jpg",
+        "Gender":[
+            {
+              "Name":"Girl"
+            }
+        ],
+        "Color": "PURPLE",
+        "Price": 21,
+        "Description": "The offered uniform can be availed from us at wholesale prices. We undertake the stitching of these uniforms as per the predefined customer specifications. Our designers make use of only high quality raw material such as polyester and cotton fabric in the making of this range.",
+        "Details":" Cotton"
     }
+
+
 ]
