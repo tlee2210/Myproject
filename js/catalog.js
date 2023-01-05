@@ -16,14 +16,12 @@ angular.module("myApp.genres",["ui.bootstrap"])
             // console.log($scope.catalogList);
         })
 
-        $scope.listName = $routeParams.listName
+        $scope.productId = $routeParams.Id
 
         productAPIservice.getProduct().then(function(reponse){
             var data = reponse.data;
-            $scope.catalogList = $filter("filter")(data, function(product){
-                return $filter("filter")(product.Brands, {Name: $scope.listName}).length;
-            })
-            // console.log($scope.catalogList);
+            $scope.product = $filter("filter")(data, {Id: parseInt($scope.productId)}, true)[0];
+            console.log($scope.product)
         })
 
 
