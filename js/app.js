@@ -49,8 +49,13 @@ angular.module("checkout", [])
 
 
 angular.module("contact", [])
-    .controller("contact", ["$scope", "$http", function($scope, $http){
-                
+    .controller("contact", ["$scope", "$http", function($scope, $http)
+       {
+        $http.get("json/contact.json")
+        .then(function(response){
+            $scope.ContactList = response.data;
+            console.log(response.data);
+       })         
     }])
 
 angular.module("aboutus", [])

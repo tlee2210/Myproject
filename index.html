@@ -240,7 +240,30 @@
 		<!--// Footer Area -->
 	</div>
 	<!--// Wrapper -->
-
+	<script>
+		function checkform(){
+			var a=document.getElementById("name").value;
+			var b=document.getElementById("email").value;
+			var c=document.getElementById("message").value;
+		   
+			if(a == " ")
+			{
+				alert("Please enter your name!");
+			}
+			else if(b == " ")
+			{
+				alert("Please enter your email address!");
+			}
+			else if(c == " ")
+			{
+				alert("Don't forget to send your message with us!");
+			}
+			else
+			{
+				alert("Successfully sent!");
+			}
+		}
+	</script>
 	<!-- Js Files -->
 	<script src="js/vendor/modernizr-3.11.2.min.js"></script>
 	<script src="js/vendor/jquery-3.6.0.min.js"></script>
