@@ -63,6 +63,10 @@
 
  * Reset Styels
  */
+
+ .product-details-categories{
+  padding-right: 10px !important;
+ }
  .shop_toolbar {
   display: flex;
   align-items: center;

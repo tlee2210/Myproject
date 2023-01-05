@@ -68,28 +68,17 @@
 									<ul>{{product.Color}}</ul>
 								</div>
 
-								<div class="product-details-size">
-									<span>Size :</span>
-									<ul>
-										<li class="checked"><span>S</span></li>
-										<li><span>M</span></li>
-										<li><span>L</span></li>
-										<li><span>XL</span></li>
-										<li><span>XXL</span></li>
-									</ul>
-								</div>
-
-								<div class="product-details-categories">
+								<div class="product-details-color">
 									<span>Categories :</span>
-									<ul>
-										<li><a href="">the loai {{product.Type.Name}}</a></li>
+									<ul ng-repeat="Type in product.Type">
+										<li><a href="">{{Type.Name}}</a></li>
 									</ul>
 								</div>
 
-								<div class="product-details-categories">
+								<div class="product-details-color">
 									<span>Gender :</span>
-									<ul>
-										<li><a ng-repeat="gender in product.Gender" href="">{{gender.Name}}</a></li>
+									<ul ng-repeat="gender in product.Gender">
+										<li><a href="">{{gender.Name}}</a></li>
 									</ul>
 								</div>
 
@@ -157,39 +146,6 @@
 												</div>
 											</div>
 										</div>
-	
-										<!-- <div class="commentbox mt-5">
-											<h6>ADD A REVIEW</h6>
-											<form action="#" class="sn-form">
-												<div class="sn-form-inner">
-													<div class="single-input">
-														<label>Your Rating</label>
-														<div class="ratting-box hover-action">
-															<span class="active"><i class="fa fa-star"></i></span>
-															<span class="active"><i class="fa fa-star"></i></span>
-															<span class="active"><i class="fa fa-star"></i></span>
-															<span class="active"><i class="fa fa-star"></i></span>
-															<span><i class="fa fa-star"></i></span>
-														</div>
-													</div>
-													<div class="single-input">
-														<label for="new-review-textbox">Your Review</label>
-														<textarea id="new-review-textbox" cols="30" rows="5"></textarea>
-													</div>
-													<div class="single-input">
-														<label for="new-review-name">Name*</label>
-														<input type="text" id="new-review-name">
-													</div>
-													<div class="single-input">
-														<label for="new-review-email">Email*</label>
-														<input type="email" id="new-review-email">
-													</div>
-													<div class="single-input">
-														<button class="sn-button sn-button-dark" type="submit"><span>Submit</span></button>
-													</div>
-												</div>
-											</form>
-										</div> -->
 	
 									</div>
 								</div>
