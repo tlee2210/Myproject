@@ -15,10 +15,6 @@ angular.module("myApp.genres",["ui.bootstrap"])
             })
             // console.log($scope.catalogList);
         })
-
-       
-
-
         // productAPIservice.getProduct().then(function(reponse){
         //     var data = reponse.data;
         //     $scope.catalogList = $filter("filter")(data, function(product){
