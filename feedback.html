@@ -16,19 +16,19 @@
 			<div class="container">
 				<div class="row col-lg-6">	
 					<div class="myaccount-details">
-						<form action="#" class="sn-form">
+						<form class="sn-form"onsubmit="checkform()">
 							<div class="sn-form-inner">
 								<div class="single-input">
 									<label for="account-details-firstname"> Name</label>
-									<input type="text" id="account-details-firstname">
+									<input type="text" id="name">
 								</div>
 								<div class="single-input">
 									<label for="account-details-email">Email*</label>
-									<input type="email" id="account-details-email">
+									<input type="email" id="email">
 								</div>
 								<div class="single-input">
 									<label>Comment</label>
-									<textarea  name="txtcontent" rows="6" cols="50"></textarea>
+									<textarea  name="txtcontent" id="message" rows="6" cols="50"></textarea>
 								</div>
 								<div class="single-input">
 									<button class="sn-button sn-button-dark spackbot" type="submit"><span>SAVE</span></button>
