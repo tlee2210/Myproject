@@ -5,6 +5,10 @@ angular.module("myApp.product-svervice", [])
         productAPI.getProduct = function(){
             return $http.get("../json/product.json");
         }
+
+        productAPI.getfiltertype = function(){
+            return $http.get("../json/product.json");
+        }
         
         productAPI.getHome = function(){
             return $http.get("../json/home.json");
