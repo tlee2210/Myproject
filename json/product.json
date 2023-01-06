@@ -2,9 +2,8 @@
     {
         "Id": 1,    
         "Brands":[{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -19,16 +18,15 @@
             }
         ],
         "Color": "BLACK AND SCARLET",
-        "Price": 22,
+        "Price": 21,
         "Description": "The Akoa Sector polo shirt is perfect for everyday sports wear. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
         "Details":"100% polyester"
     },
     {
         "Id": 2,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -49,9 +47,8 @@
     {
         "Id": 3,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -65,7 +62,7 @@
             }
         ],
         "Color": "BLACK AND SCARLET",
-        "Price": 27,
+        "Price": 21,
         "Description": "The Akoa Sector girls' polo shirt is perfect for everyday sports wear. It is a fitted girls' style with an open neck. Age 9/10 has a button to neck fastening. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
         "Details":"100% polyester"
     
@@ -73,9 +70,8 @@
     {
         "Id": 4,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -90,16 +86,16 @@
             }
         ],
         "Color": "BLACK AND WHITE",
-        "Price": 29,
+        "Price": 23,
         "Description": "The Akoa Sector girls' polo shirt is perfect for everyday sports wear. It is a fitted girls' style with an open neck. Age 9/10 has a button to neck fastening. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
         "Details":"100% polyester"
     },
     {
         "Id": 5,
-        "Brands": {
-            "Name":"AKOA SPORTSWEAR",
+        "Brands": [{
+            "Name":"akoa sportswear",
             "Id":"1000"
-        },
+        }],
         "Type":[{
             "Name":"PT.shortt",
             "Id":540
@@ -112,16 +108,15 @@
             }
         ],
         "Color": "BLACK",
-        "Price": 33,
+        "Price": 21,
         "Description": "The Akoa multisport short is perfect for everyday sports wear. Sizes XXS and above feature an elasticated waist with secure drawcord. (* Junior sizes do not include a drawcord.) The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. Suitable for both boys' and girls.",
         "Details":"100% Polyester"
     },
     {
         "Id": 6,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"PT.short",
@@ -135,16 +130,15 @@
             }
         ],
         "Color": "ROYAL",
-        "Price": 29,
+        "Price": 21,
         "Description": "The Akoa multisport short is perfect for everyday sports wear. Sizes XXS and above feature an elasticated waist with secure drawcord. (* Junior sizes do not include a drawcord.) The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions.",
         "Details":"100% Polyester"
     },
     {
         "Id": 7,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"PT.short",
@@ -158,16 +152,15 @@
             }
         ],
         "Color": "WHITE",
-        "Price": 27,
+        "Price": 21,
         "Description":"The Akoa multisport short is perfect for everyday sports wear. Sizes XXS and above feature an elasticated waist with secure drawcord. (* Junior sizes do not include a drawcord.) The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions.",
         "Details":"100% Polyester"
     },
     {
         "Id": 8,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -180,16 +173,15 @@
             {"Name":"Girl"}
         ],
         "Color": "BLACK",
-        "Price": 22,
+        "Price": 21,
         "Description": "The Akoa Sector microfleece is lightweight and has breathable panelling. Suitable for both boys' and girls' it features a front side pocket and ¼ zip fastening.",
         "Details":"100% Polyester"
     },
     {
         "Id": 9,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -202,16 +194,15 @@
             {"Name":"Girl"}
         ],
         "Color": "BLACK AND SCARLET",
-        "Price": 27,
+        "Price": 21,
         "Description": "The Akoa Sector hoody is suitable for both boys' and girls. The side panels are breathable using Endura-Dri fabric. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions.",
         "Details":"65% Polyester, 35% Cotton main body"
     },
     {
         "Id": 10,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -224,16 +215,15 @@
             {"Name":"Girl"}
         ],
         "Color": "NAVY AND WHITE",
-        "Price": 29,
+        "Price": 21,
         "Description": "The Akoa Sector hoody is suitable for both boys' and girls. The side panels are breathable using Endura-Dri fabric. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions.",
         "Details":"100% Polyester side panelling"
     },
     {
         "Id": 11,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Skorts",
@@ -247,16 +237,15 @@
             }
         ],
         "Color": "BLACK AND SCARLET",
-        "Price": 22,
+        "Price": 21,
         "Description": "The Akoa Sector panel skort is perfect for everyday sports wear. It has a stretch under short for comfort and modesty. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
         "Details":"100% polyester"
     },
     {
         "Id": 12,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Skorts",
@@ -270,16 +259,15 @@
             }
         ],
         "Color": "NAVY AND CYCLONE BLUE",
-        "Price": 29,
+        "Price": 21,
         "Description":"The Akoa Sector panel skort is perfect for everyday sports wear. It has a stretch under short for comfort and modesty. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
         "Details":"100% polyester"
     },
     {
         "Id": 13,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Skorts",
@@ -293,16 +281,15 @@
             }
         ],
         "Color": "NAVY AND WHITE",
-        "Price": 29,
+        "Price": 21,
         "Description": "The Akoa Sector panel skort is perfect for everyday sports wear. It has a stretch under short for comfort and modesty. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side panels feature an eyelet fabric for cooling comfort.",
         "Details":"100% polyester"
     },
     {
         "Id": 14,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Socks",
@@ -315,16 +302,15 @@
             {"Name":"Girl"}
         ],
         "Color": "BLACK AND SCARLET",
-        "Price": 27,
+        "Price": 21,
         "Description": "The Akoa Sector contrast top sock has an elasticated top that eliminates the need for tie ups and can be worn under or over the knee. The elasticated ankle support helps hold shin pads in place with a padded sole for added comfort. Micromesh foot venting and a flat toe are extra features.",
         "Details":"95% Polyamide, 5% Elastane"
     },
     {
         "Id": 15,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Socks",
@@ -337,16 +323,15 @@
             {"Name":"Girl"}
         ],
         "Color": "NAVY AND CYCLONE BLUE",
-        "Price": 22,
+        "Price": 21,
         "Description": "The Akoa Sector contrast top sock has an elasticated top that eliminates the need for tie ups and can be worn under or over the knee. The elasticated ankle support helps hold shin pads in place with a padded sole for added comfort. Micromesh foot venting and a flat toe are extra features.",
         "Details":"95% Polyamide, 5% Elastane"
     },
     {
         "Id": 16,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Socks",
@@ -359,16 +344,15 @@
             {"Name":"Girl"}
         ],
         "Color": "ROYAL AND WHITE",
-        "Price": 27,
+        "Price": 21,
         "Description": "The Akoa Sector contrast top sock has an elasticated top that eliminates the need for tie ups and can be worn under or over the knee. The elasticated ankle support helps hold shin pads in place with a padded sole for added comfort. Micromesh foot venting and a flat toe are extra features.",
         "Details":"95% Polyamide, 5% Elastane"
     },
     {
         "Id": 17,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"PT.track pants",
@@ -382,15 +366,15 @@
             }
         ],
         "Color": "BLACK",
-        "Price": 29,
+        "Price": 21,
         "Description":"The Akoa Sector girls' leggings are made from a dense stretch fabric for comfort, performance and modesty. The fit is especially designed for girls.",
         "Details":"88% Polyester, 12% Elastane"
     },
     {
         "Id": 18,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"PT.track pants",
@@ -404,16 +388,15 @@
             }
         ],
         "Color": "NAVY",
-        "Price": 27,
+        "Price": 21,
         "Description":"The Akoa Sector girls' leggings are made from a dense stretch fabric for comfort, performance and modesty. The fit is especially designed for girls.",
         "Details":"88% Polyester, 12% Elastane"
     },
     {
         "Id": 19,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"PT.track pants",
@@ -427,16 +410,15 @@
             }
         ],
         "Color": "BLACK",
-        "Price": 22,
+        "Price": 21,
         "Description":"The Akoa Sector pro track pant is perfect for everyday sports wear. Sizes XXS and above feature an elasticated waist with an internal drawcord. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side stripe is coloured or self coloured and it features an open hem with ¼ zip opening.",
         "Details":"Open hem with ¼ zip opening"
     },
     {
         "Id": 20,
         "Brands": [{
-            "Name":"AKOA SPORTSWEAR",
-            "Id":"1000"
-            
+            "Id":"1000",
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"PT.track pants",
@@ -450,7 +432,7 @@
             }
         ],
         "Color": "NAVY",
-        "Price": 27,
+        "Price": 21,
         "Description": "The Akoa Sector pro track pant is perfect for everyday sports wear. Sizes XXS and above feature an elasticated waist with an internal drawcord. The Endura-Dri fabric is a generation of high performance Akoa fabrics designed to cope with the most challenging conditions. The side stripe is coloured or self coloured and it features an open hem with ¼ zip opening.",
         "Details":"Open hem with ¼ zip opening"
         
@@ -458,9 +440,8 @@
     {
         "Id": 21,
         "Brands": [{
-            "Name":"Chadwick Teamwear",
-            "Id":"2000"
-            
+            "Id":"2000",
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -474,16 +455,15 @@
             }
         ],
         "Color": "BLACK AND AMBER",
-        "Price": 29,
+        "Price": 21,
         "Description": "Chadwick's iGen Female Polo is part of a 4-piece iGen product range. It is a specially designed female fit polo and can be worn with the iGen team skort. It comes in a breathable fabric, that is lightweight and easy to care for.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
         "Id": 22,
         "Brands": [{
-            "Name":"Chadwick Teamwear",
-            "Id":"2000"
-            
+            "Id":"2000",
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -497,7 +477,7 @@
             }
         ],
         "Color": "BLACK AND BOTTLE GREEN",
-        "Price": 29,
+        "Price": 21,
         "Description": "Chadwick's iGen Female Polo is part of a 4-piece iGen product range. It is a specially designed female fit polo and can be worn with the iGen team skort. It comes in a breathable fabric, that is lightweight and easy to care for.",
         "Details":"For best results, machine wash according to instruction on care label"
         
@@ -505,9 +485,8 @@
     {
         "Id": 23,
         "Brands": [{
-            "Name":"Chadwick Teamwear",
-            "Id":"2000"
-            
+            "Id":"2000",
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -521,16 +500,15 @@
             }
         ],
         "Color": "BLACK AND AMBER",
-        "Price": 27,
+        "Price": 21,
         "Description": "Chadwick's iGen Male Polo is part of a 4-piece iGen product range. It is a specially designed female fit polo and can be worn with the iGen team skort. It comes in a breathable fabric, that is lightweight and easy to care for.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
         "Id": 24,
         "Brands": [{
-            "Name":"Chadwick Teamwear",
-            "Id":"2000"
-            
+            "Id":"2000",
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -545,7 +523,7 @@
             }
         ],
         "Color": "BLACK AND PURPLE",
-        "Price": 22,
+        "Price": 21,
         "Description": "Chadwick's iGen Unisex Polo is part of a 4-piece iGen product range. It is a specially designed female fit polo and can be worn with the iGen team skort. It comes in a breathable fabric, that is lightweight and easy to care for.",
         "Details":"For best results, machine wash according to instruction on care label"
         
@@ -553,9 +531,8 @@
     {
         "Id": 25,
         "Brands": [{
-            "Name":"Chadwick Teamwear",
-            "Id":"2000"
-            
+            "Id":"2000",
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[{
             "Name":"Tops",
@@ -568,16 +545,15 @@
             {"Name":"Girl"}
         ],
         "Color": "BLACK",
-        "Price": 27,
+        "Price": 21,
         "Description": "The Chadwick's 860 edge pro contact top is the next level multi purpose training top. It is durable with reinforced seams throughout, perfect for wearing indoors or outdoors. Easy care for just machine wash.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
         "Id": 26,
         "Brands": [{
-            "Name":"Chadwick Teamwear",
-            "Id":"2000"
-            
+            "Id":"2000",
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[{
             "Name":"Tops",
@@ -590,7 +566,7 @@
             {"Name":"Girl"}
         ],
         "Color": "BLACK AND AMBER",
-        "Price": 29,
+        "Price": 21,
         "Description":"The Chadwick's 860 edge pro contact top is the next level multi purpose training top. It is durable with reinforced seams throughout, perfect for wearing indoors or outdoors. Easy care for just machine wash.",
         "Details":"For best results, machine wash according to instruction on care label "
         
@@ -598,9 +574,8 @@
     {
         "Id": 27,
         "Brands": [{
-            "Name":"Chadwick Teamwear",
-            "Id":"2000"
-            
+            "Id":"2000",
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[{
             "Name":"Tops",
@@ -613,16 +588,15 @@
             {"Name":"Girl"}
         ],
         "Color": "NAVY",
-        "Price": 26,
+        "Price": 21,
         "Description":"The Chadwick's 860 edge pro contact top is the next level multi purpose training top. It is durable with reinforced seams throughout, perfect for wearing indoors or outdoors. Easy care for just machine wash.",
         "Details":"For best results, machine wash according to instruction on care label "
     },
     {
         "Id": 28,
         "Brands": [{
-            "Name":"Chadwick Teamwear",
-            "Id":"2000"
-            
+            "Id":"2000",
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -635,16 +609,15 @@
             {"Name":"Girl"}
         ],
         "Color": "BLACK AND AMBER",
-        "Price": 26,
+        "Price": 21,
         "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
         "Id": 29,
         "Brands": [{
-            "Name":"Chadwick Teamwear",
-            "Id":"2000"
-            
+            "Id":"2000",
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[
             {
@@ -659,16 +632,15 @@
             {"Name":"Girl"}
         ],
         "Color": "BLACK AND EMERALD",
-        "Price": 26,
+        "Price": 21,
         "Description":"Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
         "Id": 30,
         "Brands": [{
-            "Name":"Chadwick Teamwear",
-            "Id":"2000"
-            
+            "Id":"2000",
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -681,16 +653,15 @@
             {"Name":"Girl"}
         ],
         "Color": "BLACK AND WHITE",
-        "Price": 29,
+        "Price": 21,
         "Description": "Chadwick's premium quality technical hooded top and all its additional features, makes this desired fitted hoody ideal for on and off the pitch.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
         "Id": 31,
         "Brands": [{
-            "Name":"Chadwick Teamwear",
-            "Id":"2000"
-            
+            "Id":"2000",
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[{
             "Name":"PT.shorts",
@@ -703,16 +674,15 @@
             {"Name":"Girl"}
         ],
         "Color": "BLACK",
-        "Price": 27,
+        "Price": 21,
         "Description": "Chadwick's iGen Unisex Team Short is part of a 4-piece iGen product range. It is a specially designed games style team short and can be worn with the iGen unisex polo. It comes in a breathable fabric, that is lightweight and easy to care for.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
         "Id": 32,
         "Brands": [{
-            "Name":"Chadwick Teamwear",
-            "Id":"2000"
-            
+            "Id":"2000",
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[{
             "Name":"PT.short",
@@ -725,16 +695,15 @@
             {"Name":"Girl"}
         ],
         "Color": "BLACK AND RED",
-        "Price": 25,
+        "Price": 21,
         "Description": "Chadwick's iGen Unisex Team Short is part of a 4-piece iGen product range. It is a specially designed games style team short and can be worn with the iGen unisex polo. It comes in a breathable fabric, that is lightweight and easy to care for.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
         "Id": 33,
         "Brands": [{
-            "Name":"Chadwick Teamwear",
-            "Id":"2000"
-            
+            "Id":"2000",
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[{
             "Name":"PT.shorts",
@@ -747,16 +716,15 @@
             {"Name":"Girl"}
         ],
         "Color": "NAVY",
-        "Price": 25,
+        "Price": 21,
         "Description": "Chadwick's iGen Unisex Team Short is part of a 4-piece iGen product range. It is a specially designed games style team short and can be worn with the iGen unisex polo. It comes in a breathable fabric, that is lightweight and easy to care for.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
         "Id": 34,
         "Brands": [{
-            "Name":"Chadwick Teamwear",
-            "Id":"2000"
-            
+            "Id":"2000",
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[{
             "Name":"Skorts",
@@ -770,16 +738,15 @@
             }
         ],
         "Color": "BLACK",
-        "Price": 25,
+        "Price": 21,
         "Description": "Chadwick's iGen Female Skort is part of a 4-piece iGen product range. It is a specially designed games style team short and can be worn with the iGen unisex polo. It comes in a breathable fabric, that is lightweight and easy to care for.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
         "Id": 35,
         "Brands": [{
-            "Name":"Chadwick Teamwear",
-            "Id":"2000"
-            
+            "Id":"2000",
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[{
             "Name":"Skorts",
@@ -793,16 +760,15 @@
             }
         ],
         "Color": "BLACK AND AMBER",
-        "Price": 29,
+        "Price": 21,
         "Description": "Chadwick's iGen Female Skort is part of a 4-piece iGen product range. It is a specially designed games style team short and can be worn with the iGen unisex polo. It comes in a breathable fabric, that is lightweight and easy to care for.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
         "Id": 36,
         "Brands": [{
-            "Name":"Chadwick Teamwear",
-            "Id":"2000"
-            
+            "Id":"2000",
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[{
             "Name":"Skorts",
@@ -816,16 +782,15 @@
             }
         ],
         "Color": "NAVY",
-        "Price": 29,
+        "Price": 21,
         "Description": "Chadwick's iGen Female Skort is part of a 4-piece iGen product range. It is a specially designed games style team short and can be worn with the iGen unisex polo. It comes in a breathable fabric, that is lightweight and easy to care for.",
         "Details":"For best results, machine wash according to instruction on care label"
     },
     {
         "Id": 37,
         "Brands": [{
-            "Name":"Banner Schoolwear",
-            "Id":"3000"
-            
+            "Id":"3000",
+            "Name":"Banner Schoolwear"
 
         }],
         "Type":[{
@@ -839,16 +804,15 @@
             {"Name":"Girl"}
         ],
         "Color": "GOLD",
-        "Price": 27,
+        "Price": 21,
         "Description": "The Banner Millfield poloshirt is a knitted pique polo shirt. The flat knit collar and ribbed cuffs make this polo shirt a comfortable fit. A premium garment that is individually wrapped, perfect for every day wear. Easy care machine wash.",
         "Details":"65% Polyester, 35% Cotton"
     },
     {
         "Id": 38,
         "Brands": [{
-            "Name":"Banner Schoolwear",
-            "Id":"3000"
-            
+            "Id":"3000",
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -861,16 +825,16 @@
             {"Name":"Girl"}
         ],
         "Color": "RED",
-        "Price": 25,
+        "Price": 21,
         "Description": "The Banner Millfield poloshirt is a knitted pique polo shirt. The flat knit collar and ribbed cuffs make this polo shirt a comfortable fit. A premium garment that is individually wrapped, perfect for every day wear. Easy care machine wash.",
         "Details":"65% Polyester, 35% Cotton"
     },
     {
         "Id": 39,
         "Brands": [{
-            "Name":"Banner Schoolwear",
-            "Id":"3000"
-            
+
+            "Id":"3000",
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -883,7 +847,7 @@
             {"Name":"Girl"}
         ],
         "Color": "ROYAL",
-        "Price": 25,
+        "Price": 21,
         "Description": "The Banner Millfield poloshirt is a knitted pique polo shirt. The flat knit collar and ribbed cuffs make this polo shirt a comfortable fit. A premium garment that is individually wrapped, perfect for every day wear. Easy care machine wash.",
         "Details":"65% Polyester, 35% Cotton"
     },
@@ -891,9 +855,9 @@
      {
         "Id": 40,
         "Brands": [{
-            "Name":"Banner Schoolwear",
-            "Id":"3000"
-            
+
+            "Id":"3000",
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"PT.T-shirts",
@@ -906,16 +870,16 @@
             {"Name":"Girl"}
         ],
         "Color": "ASH",
-        "Price": 25,
+        "Price": 21,
         "Description": "The Banner Champion t-shirt is an essential school wear item. Soft 100% cotton that is also ideal for embroidery or printing. Easy care machine wash.",
         "Details":"100% Cotton"
     },
     {
         "Id": 41,
         "Brands": [{
-            "Name":"Banner Schoolwear",
-            "Id":"3000"
-            
+
+            "Id":"3000",
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"PT.T-shirts",
@@ -928,16 +892,16 @@
             {"Name":"Girl"}
         ],
         "Color": "BLACK",
-        "Price": 27,
+        "Price": 21,
         "Description": "The Banner Champion t-shirt is an essential school wear item. Soft 100% cotton that is also ideal for embroidery or printing. Easy care machine wash.",
         "Details":"100% Cotton"
     },
     {
         "Id": 42,
         "Brands": [{
-            "Name":"Banner Schoolwear",
-            "Id":"3000"
-            
+
+            "Id":"3000",
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"PT.T-shirts",
@@ -950,16 +914,16 @@
             {"Name":"Girl"}
         ],
         "Color": "BOTTLE GREEN",
-        "Price": 29,
+        "Price": 21,
         "Description": "The Banner Champion t-shirt is an essential school wear item. Soft 100% cotton that is also ideal for embroidery or printing. Easy care machine wash.",
         "Details":"100% Cotton"
     },
     {
         "Id": 43,
         "Brands": [{
-            "Name":"Banner Schoolwear",
-            "Id":"3000"
-            
+
+            "Id":"3000",
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -972,16 +936,16 @@
             {"Name":"Girl"}
         ],
         "Color": "BLACK",
-        "Price": 25,
+        "Price": 21,
         "Description": "The Banner Select hoodie has a soft fabric that is also durable. The drawstrings only apply to sizes Small and above. Stylish dropped shoulder fit with a kangaroo front pocket make this hoodie an excellent choice. Easy care machine wash.",
         "Details":"65% Cotton, 35% Polyester"
     },
     {
         "Id": 44,
         "Brands": [{
-            "Name":"Banner Schoolwear",
-            "Id":"3000"
-            
+
+            "Id":"3000",
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -994,16 +958,16 @@
             {"Name":"Girl"}
         ],
         "Color": "BOTTLE GREEN",
-        "Price": 25,
+        "Price": 21,
         "Description": "The Banner Select hoodie has a soft fabric that is also durable. The drawstrings only apply to sizes Small and above. Stylish dropped shoulder fit with a kangaroo front pocket make this hoodie an excellent choice. Easy care machine wash.",
         "Details":"65% Cotton, 35% Polyester"
     },
     {
         "Id": 45,
         "Brands": [{
-            "Name":"Banner Schoolwear",
-            "Id":"3000"
-            
+
+            "Id":"3000",
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -1016,16 +980,16 @@
             {"Name":"Girl"}
         ],
         "Color": "BURGUNDY",
-        "Price": 22,
+        "Price": 21,
         "Description": "The Banner Select hoodie has a soft fabric that is also durable. The drawstrings only apply to sizes Small and above. Stylish dropped shoulder fit with a kangaroo front pocket make this hoodie an excellent choice. Easy care machine wash.",
         "Details":"65% Cotton, 35% Polyester"
     },
     {
         "Id": 46,
         "Brands": [{
-            "Name":"Banner Schoolwear",
-            "Id":"3000"
-            
+
+            "Id":"3000",
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"Skirts",
@@ -1039,16 +1003,16 @@
             }
         ],
         "Color": "BLACK",
-        "Price": 22,
+        "Price": 21,
         "Description": "The Banner Thornton Front Pleat skirt is part of the Banner eco range. It has an internal waist adjuster with both a zip and button fastening. Easy wash at up to 40 degrees.",
         "Details":"65% Polyester/35% Viscose twil"
     },
     {
         "Id": 47,
         "Brands": [{
-            "Name":"Banner Schoolwear",
-            "Id":"3000"
-            
+
+            "Id":"3000",
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"Skirts",
@@ -1069,9 +1033,9 @@
     {
         "Id": 48,
         "Brands": [{
-            "Name":"Banner Schoolwear",
-            "Id":"3000"
-            
+
+            "Id":"3000",
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"Skirts",
@@ -1092,9 +1056,9 @@
     {
         "Id": 49,
         "Brands": [{
-            "Name":"Banner Schoolwear",
-            "Id":"3000"
-            
+
+            "Id":"3000",
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"PT.shorts",
@@ -1108,16 +1072,16 @@
             }
         ],
         "Color": "NAVY",
-        "Price": 24,
+        "Price": 21,
         "Description":"The Banner Essex boys' shorts have a mock fly for ages 3-6 whilst age 7 and above have a zip fly. These elasticated back shorts are perfect for warm summer days. Featuring Maxtech Resist tough protective finish with stain resistance and durability. Easy care machine wash.",
         "Details":"65% Polyester, 35% Viscose"
     },
     {
         "Id": 50,
         "Brands": [{
-            "Name":"Banner Schoolwear",
-            "Id":"3000"
-            
+
+            "Id":"3000",
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"PT.shorts",
@@ -1131,16 +1095,16 @@
             }
         ],
         "Color": "GREY",
-        "Price": 27,
+        "Price": 21,
         "Description":"The Banner Essex boys' shorts have a mock fly for ages 3-6 whilst age 7 and above have a zip fly. These elasticated back shorts are perfect for warm summer days. Featuring Maxtech Resist tough protective finish with stain resistance and durability. Easy care machine wash.",
         "Details":"65% Polyester, 35% Viscose"
     },
     {
         "Id": 51,
         "Brands": [{
-            "Name":"Banner Schoolwear",
-            "Id":"3000"
-            
+
+            "Id":"3000",
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"PT.shorts",
@@ -1154,16 +1118,16 @@
             }
         ],
         "Color": "GREY",
-        "Price": 29,
+        "Price": 21,
         "Description":"The Banner Bermuda shorts are fully lined for maximum comfort. A stylish choice, they have a longer leg style with a pleated front, making them perfect for warm summer days. Featuring Maxtech Resist tough protective finish with stain resistance and durability. Easy care machine wash.",
         "Details":"65% Polyester, 35% Viscose"
     },
     {
         "Id": 52,
         "Brands": [{
-            "Name":"Banner Schoolwear",
-            "Id":"3000"
-            
+
+            "Id":"3000",
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"PT.shorts",
@@ -1177,16 +1141,16 @@
             }
         ],
         "Color": "CHARCOAL",
-        "Price": 27,
+        "Price": 21,
         "Description":"The Banner Bermuda shorts are fully lined for maximum comfort. A stylish choice, they have a longer leg style with a pleated front, making them perfect for warm summer days. Featuring Maxtech Resist tough protective finish with stain resistance and durability. Easy care machine wash.",
         "Details":"65% Polyester, 35% Viscose"
     },
     {
         "Id": 53,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -1199,16 +1163,16 @@
             {"Name":"Girl"}
         ],
         "Color": "BRIGHT SKY",
-        "Price": 25,
+        "Price": 21,
         "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
         "Details":"60% Cotton, 40% Polyester"
     },
     {
         "Id": 54,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -1221,16 +1185,16 @@
             {"Name":"Girl"}
         ],
         "Color": "ROYAL",
-        "Price": 25,
+        "Price": 21,
         "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
         "Details":"60% Cotton, 40% Polyester"
     },
     {
         "Id": 55,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -1243,16 +1207,16 @@
             {"Name":"Girl"}
         ],
         "Color": "EMERALD",
-        "Price": 27,
+        "Price": 21,
         "Description": "The David Luke Eco poloshirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Durable and affordable, this poloshirt is a perfect addition to any uniform. Easy to care for just machine wash and tumble dry.",
         "Details":"60% Cotton, 40% Polyester"
     },
     {
         "Id": 56,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"PT.shorts",
@@ -1266,16 +1230,15 @@
             }
         ],
         "Color": "CHARCOAL",
-        "Price": 29,
+        "Price": 21,
         "Description": "The David Luke Eco Flat Front Classic Shorts are made from approximately 4 recycled plastic bottles which is over 30% of the Polyester material used.They feature a half elasticated back with a single hook and bar zip fly. These shorts are comfortable but practical.",
         "Details":"65% Polyester/ 35% Viscose (worsted woven)"
     },
     {
         "Id": 57,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"PT.shorts",
@@ -1289,16 +1252,16 @@
             }
         ],
         "Color": "BLACK",
-        "Price": 27,
+        "Price": 21,
         "Description": "The David Luke Eco Flat Front Classic Shorts are made from approximately 4 recycled plastic bottles which is over 30% of the Polyester material used.They feature a half elasticated back with a single hook and bar zip fly. These shorts are comfortable but practical.",
         "Details":"65% Polyester/ 35% Viscose (worsted woven)"
     },
     {
         "Id": 58,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"PT.shorts",
@@ -1312,16 +1275,16 @@
             }
         ],
         "Color": "NAVY",
-        "Price": 29,
+        "Price": 21,
         "Description": "The David Luke Eco Bermuda length shorts contain polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Fully lined with a half elasticated waist for comfort, these shorts are perfect for the warmer days. Easy to care for, simply machine wash and tumble dry.",
         "Details":"65% Polyester / 35% Viscose"
     },
     {
         "Id": 59,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Skirts",
@@ -1335,16 +1298,16 @@
             }
         ],
         "Color": "NAVY",
-        "Price": 25,
+        "Price": 21,
         "Description": "This David Luke senior stitch down skirt has all round stitched down knife pleats. With a concealed zip and internal button side fastening for comfort, this skirt is a great choice for every day wear. Contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. Easy to care for, simply machine wash and tumble dry.",
         "Details":"63.5% Polyester/ 34.5% Viscose/ 2% Elastane"
     },
     {
         "Id": 60,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Skirts",
@@ -1358,16 +1321,16 @@
             }
         ],
         "Color": "GREY AND NAVY",
-        "Price": 25,
+        "Price": 21,
         "Description": "As schools'demand for stylish & unique styles continue to grow, our check stitched down knife pleat skirt offers a contemporary and individual style. Easy to care for, machine wash.",
         "Details":"63% Polyester/35% Viscose/2% Elastane"
     },
     {
         "Id": 61,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Skirts",
@@ -1381,16 +1344,16 @@
             }
         ],
         "Color": "BLACK",
-        "Price": 22,
+        "Price": 21,
         "Description": "The David Luke Eco Senior straight skirt contains polyester made from non-biodegradable plastic drinking bottles, which would otherwise end up in landfill. It has 2 front fob pockets and a short back vent. Easy to care for, simply machine wash and tumble dry.",
         "Details":"63% Polyester, 35% Viscose, 2% Elastane"
     },
     {
         "Id": 62,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Tops",
@@ -1404,16 +1367,16 @@
             }
         ],
         "Color": " BLACK AND WHITE",
-        "Price": 22,
+        "Price": 21,
         "Description": "The David Luke boys' sports top is short sleeved with contrast panels. The performance fabric is easy to care for just machine wash and tumble dry. Sizes are in chest inches",
         "Details":"100% Polyester"
     },
     {
         "Id": 63,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Tops",
@@ -1427,16 +1390,15 @@
             }
         ],
         "Color": "NAVY AND WHITE",
-        "Price": 25,
+        "Price": 21,
         "Description": "The David Luke boys' sports top is short sleeved with contrast panels. The performance fabric is easy to care for just machine wash and tumble dry. Sizes are in chest inches",
         "Details":"100% Polyester"
     },
     {
         "Id": 64,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Tops",
@@ -1450,16 +1412,15 @@
             }
         ],
         "Color": "BLACK AND WHITE",
-        "Price": 27,
+        "Price": 21,
         "Description": "The David Luke Girls' sports top is short sleeved with contrast panels. The performance fabric is easy to care for just machine wash and tumble dry. Sizes are in chest inches",
         "Details":"100% Polyester"
     },
     {
         "Id": 65,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Tops",
@@ -1473,16 +1434,15 @@
             }
         ],
         "Color": "NAVY AND WHITE",
-        "Price": 27,
+        "Price": 21,
         "Description": "The David Luke Girls' sports top is short sleeved with contrast panels. The performance fabric is easy to care for just machine wash and tumble dry. Sizes are in chest inches",
         "Details":"100% Polyester"
     },
     {
         "Id": 66,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Belts",
@@ -1496,16 +1456,15 @@
             }
         ],
         "Color": "SLIVER",
-        "Price": 25,
+        "Price": 21,
         "Description": "Our black David Schoowearl leather belt features a classic and professional look. The design is timeless, while the look is stylish and elegant. The David Schoowearl belt, made from first quality leather, comes with: A comfortable and stylish appearance to complete your uniform appearance Clip buckle in a stylish",
         "Details":"100% Leather"
     },
     {
         "Id": 67,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Belts",
@@ -1519,16 +1478,15 @@
             }
         ],
         "Color": "GOLD",
-        "Price": 25,
+        "Price": 21,
         "Description": "Our black David Schoowearl leather belt features a classic and professional look. The design is timeless, while the look is stylish and elegant. The David Schoowearl belt, made from first quality leather, comes with: A comfortable and stylish appearance to complete your uniform appearance Clip buckle in a stylish",
         "Details":"100% Leather"
     },
     {
         "Id": 68,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Belts",
@@ -1542,16 +1500,15 @@
             }
         ],
         "Color": "GOLD",
-        "Price": 22,
+        "Price": 21,
         "Description": "Our black David Schoowearl leather belt features a classic and professional look. The design is timeless, while the look is stylish and elegant. The David Schoowearl belt, made from first quality leather, comes with: A comfortable and stylish appearance to complete your uniform appearance Clip buckle in a stylish",
         "Details":"100% Leather"
     },
     {
         "Id": 69,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Belts",
@@ -1565,16 +1522,15 @@
             }
         ],
         "Color": "BLACK",
-        "Price": 25,
+        "Price": 21,
         "Description": "Our black David Schoowearl leather belt features a classic and professional look. The design is timeless, while the look is stylish and elegant. The David Schoowearl belt, made from first quality leather, comes with: A comfortable and stylish appearance to complete your uniform appearance Clip buckle in a stylish",
         "Details":"100% Leather"
     },
     {
         "Id": 70,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Belts",
@@ -1588,16 +1544,15 @@
             }
         ],
         "Color": "NAVY",
-        "Price": 27,
+        "Price": 21,
         "Description": "Our black David Schoowearl leather belt features a classic and professional look. The design is timeless, while the look is stylish and elegant. The David Schoowearl belt, made from first quality leather, comes with: A comfortable and stylish appearance to complete your uniform appearance Clip buckle in a stylish",
         "Details":"100% Leather"
     },
     {
         "Id": 71,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Ties",
@@ -1611,16 +1566,15 @@
             }
         ],
         "Color": "GREEN",
-        "Price": 25,
+        "Price": 21,
         "Description": "The school uniform, house or club clip on tie can be made in any colour and stripe design to suit your requirements. The custom design tie is made from polyester fabric. The clip on style ensures standard lengths and uniformity of the tie when worn.",
         "Details":" Polyester"
     },
     {
         "Id": 72,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Ties",
@@ -1634,16 +1588,15 @@
             }
         ],
         "Color": "GREEN",
-        "Price": 22,
+        "Price": 21,
         "Description": "The school uniform, house or club clip on tie can be made in any colour and stripe design to suit your requirements. The custom design tie is made from polyester fabric. The clip on style ensures standard lengths and uniformity of the tie when worn.",
         "Details":" Polyester"
     },
     {
         "Id": 73,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Ties",
@@ -1657,16 +1610,15 @@
             }
         ],
         "Color": "GOLD",
-        "Price": 22,
+        "Price": 21,
         "Description": "The school uniform, house or club clip on tie can be made in any colour and stripe design to suit your requirements. The custom design tie is made from polyester fabric. The clip on style ensures standard lengths and uniformity of the tie when worn.",
         "Details":" Polyester"
     },
     {
         "Id": 74,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Ties",
@@ -1680,16 +1632,15 @@
             }
         ],
         "Color": "GREY",
-        "Price": 22,
+        "Price": 21,
         "Description": "The school uniform, house or club clip on tie can be made in any colour and stripe design to suit your requirements. The custom design tie is made from polyester fabric. The clip on style ensures standard lengths and uniformity of the tie when worn.",
         "Details":" Polyester"
     },
     {
         "Id": 75,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Ties",
@@ -1703,16 +1654,15 @@
             }
         ],
         "Color": "PURPLE",
-        "Price": 27,
+        "Price": 21,
         "Description": "The school uniform, house or club clip on tie can be made in any colour and stripe design to suit your requirements. The custom design tie is made from polyester fabric. The clip on style ensures standard lengths and uniformity of the tie when worn.",
         "Details":" Polyester"
     },
     {
         "Id": 76,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Frocks",
@@ -1726,16 +1676,15 @@
             }
         ],
         "Color": "ASH GREY",
-        "Price": 25,
+        "Price": 21,
         "Description": "The offered uniform can be availed from us at wholesale prices. We undertake the stitching of these uniforms as per the predefined customer specifications. Our designers make use of only high quality raw material such as polyester and cotton fabric in the making of this range.",
         "Details":" Cotton"
     },
     {
         "Id": 77,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Frocks",
@@ -1749,16 +1698,15 @@
             }
         ],
         "Color": "NAVY",
-        "Price": 29,
+        "Price": 21,
         "Description": "The offered uniform can be availed from us at wholesale prices. We undertake the stitching of these uniforms as per the predefined customer specifications. Our designers make use of only high quality raw material such as polyester and cotton fabric in the making of this range.",
         "Details":" Cotton"
     },
     {
         "Id": 78,
         "Brands": [{
-            "Name":"David Schoolwear",
-            "Id":"4000"
-            
+            "Id":"4000",
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Frocks",
@@ -1772,16 +1720,15 @@
             }
         ],
         "Color": "PURPLE",
-        "Price": 25,
+        "Price": 21,
         "Description": "The offered uniform can be availed from us at wholesale prices. We undertake the stitching of these uniforms as per the predefined customer specifications. Our designers make use of only high quality raw material such as polyester and cotton fabric in the making of this range.",
         "Details":" Cotton"
     },
     {
         "Id": 79,
         "Brands": [{
-            "Name":"",
-            "Id":""
-            
+            "Id":"",
+            "Name":""
         }],
         "Type":[{
             "Name":"Logo",
@@ -1795,16 +1742,15 @@
             }
         ],
         "Color": "Basic Blue",
-        "Price": 49,
+        "Price": 29,
         "Description": "Logo for school, university.",
         "Details":""
     },
     {
         "Id": 80,
         "Brands": [{
-            "Name":"",
-            "Id":""
-            
+            "Id":"",
+            "Name":""
         }],
         "Type":[{
             "Name":"Logo",
@@ -1818,16 +1764,15 @@
             }
         ],
         "Color": "Basic Blue",
-        "Price": 45,
+        "Price": 22,
         "Description": "Logo for school, university.",
         "Details":""
     },
     {
         "Id": 81,
         "Brands": [{
-            "Name":"",
-            "Id":""
-            
+            "Id":"",
+            "Name":""
         }],
         "Type":[{
             "Name":"Logo",
@@ -1841,7 +1786,7 @@
             }
         ],
         "Color": "Basic Blue",
-        "Price": 44,
+        "Price": 24,
         "Description": "Logo for school, university.",
         "Details":""
     }
