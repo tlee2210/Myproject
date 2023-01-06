@@ -2,8 +2,9 @@
     {
         "Id": 1,    
         "Brands":[{
-            "Id":"1000",
-            "Name":"Chadwick Teamwear"
+            "Name":"akoa sportswear",
+            "Id":"1000"
+
         }],
         "Type":[{
             "Name":"Shirts",
@@ -25,8 +26,8 @@
     {
         "Id": 2,
         "Brands": [{
-            "Id":"1000",
-            "Name":"akoa sportswear"
+            "Name":"akoa sportswear",
+            "Id":"1000"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -47,8 +48,8 @@
     {
         "Id": 3,
         "Brands": [{
-            "Id":"1000",
-            "Name":"akoa sportswear"
+            "Name":"akoa sportswear",
+            "Id":"1000"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -70,8 +71,8 @@
     {
         "Id": 4,
         "Brands": [{
-            "Id":"1000",
-            "Name":"akoa sportswear"
+            "Name":"akoa sportswear",
+            "Id":"1000"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -115,8 +116,8 @@
     {
         "Id": 6,
         "Brands": [{
-            "Id":"1000",
-            "Name":"akoa sportswear"
+            "Name":"akoa sportswear",
+            "Id":"1000"
         }],
         "Type":[{
             "Name":"PT.short",
@@ -137,8 +138,8 @@
     {
         "Id": 7,
         "Brands": [{
-            "Id":"1000",
-            "Name":"akoa sportswear"
+            "Name":"akoa sportswear",
+            "Id":"1000"
         }],
         "Type":[{
             "Name":"PT.short",
@@ -159,8 +160,8 @@
     {
         "Id": 8,
         "Brands": [{
-            "Id":"1000",
-            "Name":"akoa sportswear"
+            "Name":"akoa sportswear",
+            "Id":"1000"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -180,8 +181,8 @@
     {
         "Id": 9,
         "Brands": [{
-            "Id":"1000",
-            "Name":"akoa sportswear"
+            "Name":"akoa sportswear",
+            "Id":"1000"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -201,8 +202,8 @@
     {
         "Id": 10,
         "Brands": [{
-            "Id":"1000",
-            "Name":"akoa sportswear"
+            "Name":"akoa sportswear",
+            "Id":"1000"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -222,8 +223,8 @@
     {
         "Id": 11,
         "Brands": [{
-            "Id":"1000",
-            "Name":"akoa sportswear"
+            "Name":"akoa sportswear",
+            "Id":"1000"
         }],
         "Type":[{
             "Name":"Skorts",
@@ -244,8 +245,8 @@
     {
         "Id": 12,
         "Brands": [{
-            "Id":"1000",
-            "Name":"akoa sportswear"
+            "Name":"akoa sportswear",
+            "Id":"1000"
         }],
         "Type":[{
             "Name":"Skorts",
@@ -266,8 +267,8 @@
     {
         "Id": 13,
         "Brands": [{
-            "Id":"1000",
-            "Name":"akoa sportswear"
+            "Name":"akoa sportswear",
+            "Id":"1000"
         }],
         "Type":[{
             "Name":"Skorts",
@@ -1148,9 +1149,8 @@
     {
         "Id": 53,
         "Brands": [{
-
-            "Id":"4000",
-            "Name":"David Schoolwear"
+            "Name":"David Schoolwear",
+            "Id":"4000"
         }],
         "Type":[{
             "Name":"Shirts",
