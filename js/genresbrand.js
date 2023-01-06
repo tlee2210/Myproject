@@ -10,7 +10,7 @@ angular.module("myApp.brandcatalog",["ui.bootstrap"])
 
         productAPIservice.getProduct().then(function(reponse){
             var data = reponse.data;
-            $scope.catalogList = $filter("filter")(data, function(product){
+            $scope.brandsList = $filter("filter")(data, function(product){
                 return $filter("filter")(product.Brands, {Name: $scope.brandName}).length;
             })
             // console.log($scope.catalogList);
