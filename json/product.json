@@ -3,7 +3,7 @@
         "Id": 1,    
         "Brands":[{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"Chadwick Teamwear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -26,7 +26,7 @@
         "Id": 2,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -48,7 +48,7 @@
         "Id": 3,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -71,7 +71,7 @@
         "Id": 4,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -93,7 +93,7 @@
     {
         "Id": 5,
         "Brands": {
-            "Name":"AKOA SPORTSWEAR",
+            "Name":"akoa sportswear",
             "Id":"1000"
         },
         "Type":[{
@@ -116,7 +116,7 @@
         "Id": 6,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"PT.short",
@@ -138,7 +138,7 @@
         "Id": 7,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"PT.short",
@@ -160,7 +160,7 @@
         "Id": 8,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -181,7 +181,7 @@
         "Id": 9,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -202,7 +202,7 @@
         "Id": 10,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -223,7 +223,7 @@
         "Id": 11,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Skorts",
@@ -245,7 +245,7 @@
         "Id": 12,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Skorts",
@@ -267,7 +267,7 @@
         "Id": 13,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Skorts",
@@ -289,7 +289,7 @@
         "Id": 14,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Socks",
@@ -310,7 +310,7 @@
         "Id": 15,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Socks",
@@ -331,7 +331,7 @@
         "Id": 16,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"Socks",
@@ -352,7 +352,7 @@
         "Id": 17,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"PT.track pants",
@@ -374,7 +374,7 @@
         "Id": 18,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"PT.track pants",
@@ -396,7 +396,7 @@
         "Id": 19,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"PT.track pants",
@@ -418,7 +418,7 @@
         "Id": 20,
         "Brands": [{
             "Id":"1000",
-            "Name":"AKOA SPORTSWEAR"
+            "Name":"akoa sportswear"
         }],
         "Type":[{
             "Name":"PT.track pants",
@@ -790,7 +790,7 @@
         "Id": 37,
         "Brands": [{
             "Id":"3000",
-            "Brand":"Banner Schoolwear"
+            "Name":"Banner Schoolwear"
 
         }],
         "Type":[{
@@ -812,7 +812,7 @@
         "Id": 38,
         "Brands": [{
             "Id":"3000",
-            "Brand":"Banner Schoolwear"
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -834,7 +834,7 @@
         "Brands": [{
 
             "Id":"3000",
-            "Brand":"Banner Schoolwear"
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -857,7 +857,7 @@
         "Brands": [{
 
             "Id":"3000",
-            "Brand":"Banner Schoolwear"
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"PT.T-shirts",
@@ -879,7 +879,7 @@
         "Brands": [{
 
             "Id":"3000",
-            "Brand":"Banner Schoolwear"
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"PT.T-shirts",
@@ -901,7 +901,7 @@
         "Brands": [{
 
             "Id":"3000",
-            "Brand":"Banner Schoolwear"
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"PT.T-shirts",
@@ -923,7 +923,7 @@
         "Brands": [{
 
             "Id":"3000",
-            "Brand":"Banner Schoolwear"
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -945,7 +945,7 @@
         "Brands": [{
 
             "Id":"3000",
-            "Brand":"Banner Schoolwear"
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -967,7 +967,7 @@
         "Brands": [{
 
             "Id":"3000",
-            "Brand":"Banner Schoolwear"
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"Hoodies",
@@ -989,7 +989,7 @@
         "Brands": [{
 
             "Id":"3000",
-            "Brand":"Banner Schoolwear"
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"Skirts",
@@ -1012,7 +1012,7 @@
         "Brands": [{
 
             "Id":"3000",
-            "Brand":"Banner Schoolwear"
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"Skirts",
@@ -1035,7 +1035,7 @@
         "Brands": [{
 
             "Id":"3000",
-            "Brand":"Banner Schoolwear"
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"Skirts",
@@ -1058,7 +1058,7 @@
         "Brands": [{
 
             "Id":"3000",
-            "Brand":"Banner Schoolwear"
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"PT.shorts",
@@ -1081,7 +1081,7 @@
         "Brands": [{
 
             "Id":"3000",
-            "Brand":"Banner Schoolwear"
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"PT.shorts",
@@ -1104,7 +1104,7 @@
         "Brands": [{
 
             "Id":"3000",
-            "Brand":"Banner Schoolwear"
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"PT.shorts",
@@ -1127,7 +1127,7 @@
         "Brands": [{
 
             "Id":"3000",
-            "Brand":"Banner Schoolwear"
+            "Name":"Banner Schoolwear"
         }],
         "Type":[{
             "Name":"PT.shorts",
@@ -1150,7 +1150,7 @@
         "Brands": [{
 
             "Id":"4000",
-            "Brand":"David Schoolwear"
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -1172,7 +1172,7 @@
         "Brands": [{
 
             "Id":"4000",
-            "Brand":"David Schoolwear"
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -1194,7 +1194,7 @@
         "Brands": [{
 
             "Id":"4000",
-            "Brand":"David Schoolwear"
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Shirts",
@@ -1216,7 +1216,7 @@
         "Brands": [{
 
             "Id":"4000",
-            "Brand":"David Schoolwear"
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"PT.shorts",
@@ -1237,9 +1237,8 @@
     {
         "Id": 57,
         "Brands": [{
-
             "Id":"4000",
-            "Brand":"David Schoolwear"
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"PT.shorts",
@@ -1262,7 +1261,7 @@
         "Brands": [{
 
             "Id":"4000",
-            "Brand":"David Schoolwear"
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"PT.shorts",
@@ -1285,7 +1284,7 @@
         "Brands": [{
 
             "Id":"4000",
-            "Brand":"David Schoolwear"
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Skirts",
@@ -1308,7 +1307,7 @@
         "Brands": [{
 
             "Id":"4000",
-            "Brand":"David Schoolwear"
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Skirts",
@@ -1331,7 +1330,7 @@
         "Brands": [{
 
             "Id":"4000",
-            "Brand":"David Schoolwear"
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Skirts",
@@ -1354,7 +1353,7 @@
         "Brands": [{
 
             "Id":"4000",
-            "Brand":"David Schoolwear"
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Tops",
@@ -1377,7 +1376,7 @@
         "Brands": [{
 
             "Id":"4000",
-            "Brand":"David Schoolwear"
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Tops",
@@ -1399,7 +1398,7 @@
         "Id": 64,
         "Brands": [{
             "Id":"4000",
-            "Brand":"David Schoolwear"
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Tops",
@@ -1421,7 +1420,7 @@
         "Id": 65,
         "Brands": [{
             "Id":"4000",
-            "Brand":"David Schoolwear"
+            "Name":"David Schoolwear"
         }],
         "Type":[{
             "Name":"Tops",
