@@ -14,9 +14,6 @@ var app = angular.module("myApp", [
     // "myApp.catalog",
     "myApp.genres",
     "myApp.cart",
-
-    "Accessories",
-    "feedback"
 ])
 
 
@@ -33,7 +30,6 @@ app.config(function($routeProvider){
     .when("/product/:Id", {templateUrl : "product.html", controller:"productCtrl"})
     // .when("/brands/:Id", {templateUrl : "catalog.html", controller:"genresCtrl"})
     .when("/genres/:genresName", {templateUrl : "catalog.html", controller:"genresCtrl"})
-    .when("/brands/:brandsName", {templateUrl : "catalog.html", controller:"genresCtrl"})
 })
 
 
