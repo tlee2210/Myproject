@@ -61,5 +61,10 @@
         "Name":"Skort",
         "Id":650,
         "Img":"img/genres/Chadwick/Skorts.jpg"
+    },
+    {
+        "Name":"Logo",
+        "Id":660,
+        "Img":"img/genres/Logo/lg1.jpg"
     }
 ]

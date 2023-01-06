@@ -1724,5 +1724,71 @@
         "Price": 21,
         "Description": "The offered uniform can be availed from us at wholesale prices. We undertake the stitching of these uniforms as per the predefined customer specifications. Our designers make use of only high quality raw material such as polyester and cotton fabric in the making of this range.",
         "Details":" Cotton"
+    },
+    {
+        "Id": 79,
+        "Brands": [{
+            "Id":"",
+            "Name":""
+        }],
+        "Type":[{
+            "Name":"Logo",
+            "Id":"L01"        
+        }],
+        "Name":"LOGO A01",
+        "Img":"img/genres/Logo/lg1.jpg",
+        "Gender":[
+            {
+              "Name":""
+            }
+        ],
+        "Color": "Basic Blue",
+        "Price": 29,
+        "Description": "Logo for school, university.",
+        "Details":""
+    },
+    {
+        "Id": 80,
+        "Brands": [{
+            "Id":"",
+            "Name":""
+        }],
+        "Type":[{
+            "Name":"Logo",
+            "Id":"L01"        
+        }],
+        "Name":"LOGO A02",
+        "Img":"img/genres/Logo/lg2.jpg",
+        "Gender":[
+            {
+              "Name":""
+            }
+        ],
+        "Color": "Basic Blue",
+        "Price": 22,
+        "Description": "Logo for school, university.",
+        "Details":""
+    },
+    {
+        "Id": 81,
+        "Brands": [{
+            "Id":"",
+            "Name":""
+        }],
+        "Type":[{
+            "Name":"Logo",
+            "Id":"L01"        
+        }],
+        "Name":"LOGO A03",
+        "Img":"img/genres/Logo/lg3.jpg",
+        "Gender":[
+            {
+              "Name":""
+            }
+        ],
+        "Color": "Basic Blue",
+        "Price": 24,
+        "Description": "Logo for school, university.",
+        "Details":""
     }
 ]
