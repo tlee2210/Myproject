@@ -1,5 +1,4 @@
 angular.module("myApp.paginate-filter",[])
-
     .filter("paginate",function(){
         return function(arr,currentPage,pageSize){
             try{
