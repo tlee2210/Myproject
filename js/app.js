@@ -15,16 +15,15 @@ var app = angular.module("myApp", [
     "myApp.genres",
     "myApp.cart",
     "myApp.brandcatalog",
-    "myApp.boy",
-    "myApp.girl"
+    "myApp.gender",
 ])
 
 
 app.config(function($routeProvider){
     $routeProvider
     .when("/", {templateUrl : "home.html", controller:"homeCtrl"})
-    .when("/boy", {templateUrl : "boyuniform.html", controller:"boyCtrl"})
-    .when("/girl", {templateUrl : "girlunifrom.html", controller:"girlCtrl"})
+    .when("/boy", {templateUrl : "boyuniform.html", controller:"genderCtrl"})
+    .when("/girl", {templateUrl : "girluniform.html", controller:"genderCtrl"})
     .when("/myAccount", {templateUrl : "myAccount.html", controller:"myAccount"})
     .when("/cart", {templateUrl : "cart.html", controller:"cartCtrl"})
     .when("/checkout", {templateUrl : "checkout.html", controller:"checkout"})

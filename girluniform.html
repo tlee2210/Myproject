@@ -1,4 +1,4 @@
-<div ng-controller="girlCtrl">
+<div ng-controller="genderCtrl">
     <!-- Page Conttent -->
 		<main class="page-content">
 
@@ -41,7 +41,7 @@
                             <div class="row justify-content-center shop-page-products products-wrapper">
 
                                 <!-- Single Product -->
-                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in catalogList | filter:'Girl':true | paginate:currentPage:pageSize">
+                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in gender | filter:'Girl':true | paginate:currentPage:pageSize">
                                     <div class="product-item">
 
                                         <div class="product-item-images">
@@ -83,10 +83,8 @@
 
                             </div>
                             <div  class="shop-page-toolbars right-pagination ">
-                                <pagination class="pagination"items-per-page="pageSize" ng-model="currentPage" total-items="catalogList.length">
+                                <pagination class="pagination"items-per-page="pageSize" ng-model="currentPage" total-items="54">
                                 </pagination>
-                                
-                                
                             </div>
                         </div>
                         <!--// Shop Page Products -->
