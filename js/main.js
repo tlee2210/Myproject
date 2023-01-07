@@ -50,9 +50,9 @@
 // }, 3000);
 // ======================================================================
 
-
 (function($){
     'use strict';
+
 	
 	/* Sticky Header */
 	$(window).on('scroll', function () {
@@ -63,6 +63,7 @@
 			$('.sticky-header').removeClass('is-sticky');
 		}
 	});
+	
 
 
 
