@@ -50,6 +50,11 @@
 // }, 3000);
 // ======================================================================
 
+
+$(document).ready(function(){
+	$(".owl-carousel").owlCarousel();
+  });
+
 (function($){
     'use strict';
 
