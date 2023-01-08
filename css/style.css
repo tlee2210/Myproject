@@ -64,6 +64,12 @@
  * Reset Styels
  */
 
+ .img_logo{
+  width: 150px;
+  display: block;
+  float: left;
+ }
+
  .product-details-categories{
   padding-right: 10px !important;
  }

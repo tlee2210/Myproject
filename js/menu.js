@@ -10,4 +10,10 @@ angular.module("myApp.menu",[])
             $scope.menuList = data;
             console.log($scope.menuList);
         })
+
+        productAPIservice.getlogo().then(function(reponse){
+            var data = reponse.data;
+            $scope.logolist = data;
+            // console.log($scope.logolist);
+        })
     }])

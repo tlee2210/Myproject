@@ -17,6 +17,10 @@ angular.module("myApp.product-svervice", [])
         productAPI.getcatalog = function(){
             return $http.get("../json/catalog.json");
         }
+
+        productAPI.getlogo = function(){
+            return $http.get("../json/logo.json");
+        }
         
         return productAPI;
     }]) 
