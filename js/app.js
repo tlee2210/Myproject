@@ -31,6 +31,7 @@ app.config(function($routeProvider){
     .when("/contact", {templateUrl : "contact.html", controller:"contact"})
     .when("/aboutus", {templateUrl : "aboutus.html", controller:"aboutus"})
     .when("/feedback", {templateUrl : "feedback.html", controller:"feedback"})
+    .when("/logout", {templateUrl : "login-register.html", controller:"logout"})
     .when("/product/:Id", {templateUrl : "product.html", controller:"productCtrl"})
     // .when("/brands/:Id", {templateUrl : "catalog.html", controller:"genresCtrl"})
     .when("/genres/:genresName", {templateUrl : "catalog.html", controller:"genresCtrl"})
@@ -73,5 +74,3 @@ angular.module("feedback", [])
     .controller("feedback", ["$scope", "$http", function($scope, $http){
                 
     }])
-
-
