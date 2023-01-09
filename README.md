@@ -16,7 +16,7 @@ eProject documentation at: https://github.com/levietdongqt/Persol/tree/main/Revi
 
 ============================
 
-eProject published at: https://levietdongqt.github.io/Persol/#!/
+eProject published at: https://tlee2210.github.io/Myproject/#!/
 
 ============================
 
