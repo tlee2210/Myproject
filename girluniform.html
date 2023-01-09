@@ -21,16 +21,19 @@
 
                             <!-- Shop Page Toolbars -->
                             <div class="shop-page-toolbars">
-                                <div class="shop-toolbar-sortby" >
+
+                                <!-- <div class="shop-toolbar-items-count">Showing 1–9 of 20 results</div> -->
+
+                                <div class="shop-toolbar-sortby">
                                     <span>Sort By</span>
-                                    <select name="shop-toolbar-sortby" ng-model="sortProduct">
-                                        <option value="">Default Sorting</option>
-                                        <option value="Name">Sort by Name: A-Z</option>
-                                        <option value="-Name">Sort by Name: Z-A</option>
-                                        <option  value="Price">Sort by Price: Low to High</option>
-                                        <option value="-Price">Sort by Price: High to Low</option>
+                                    <select name="shop-toolbar-sortby">
+                                        <option value="0">Default Sorting</option>
+                                        <option value="1">Sort By Popularity</option>
+                                        <option value="2">Sort By Price</option>
+                                        <option value="3">Sort By Recent</option>
                                     </select>
                                 </div>
+
                             </div>
                             <!--// Shop Page Toolbars -->
 
@@ -38,7 +41,7 @@
                             <div class="row justify-content-center shop-page-products products-wrapper">
 
                                 <!-- Single Product -->
-                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in gender | filter:'Girl':true | paginate:currentPage:pageSize | orderBy:sortProduct">
+                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in gender | filter:'Girl':true | paginate:currentPage:pageSize">
                                     <div class="product-item">
 
                                         <div class="product-item-images">
@@ -93,6 +96,40 @@
                                         </li>
                                     </ul> 
                                 </aside>
+
+                                
+
+                                <!-- <aside class="single-widget widget-size">
+                                    <h6 class="widget-title">SIZE</h6>
+                                    <ul>  
+                                        <li><a href="shop-right-sidebar.html">S <span>(18)</span></a></li>
+                                        <li><a href="shop-right-sidebar.html">M <span>(16)</span></a></li>
+                                        <li><a href="shop-right-sidebar.html">L <span>(6)</span></a></li>
+                                        <li><a href="shop-right-sidebar.html">XL <span>(11)</span></a></li>
+                                        <li><a href="shop-right-sidebar.html">XXL <span>(11)</span></a></li>
+                                    </ul>
+                                </aside> -->
+
+                                <!-- <aside class="single-widget widget-filter">
+                                    <h6 class="widget-title">FILTER BY PRICE</h6>
+                                    <div class="widget-filter-inner">
+                                        <div class="range-slider" data-range_min="45" data-range_max="515" data-cur_min="180" data-cur_max="390">
+                                            <div class="bar"></div>
+                                            <span class="range-slider-leftgrip"></span>
+                                            <span class="range-slider-rightgrip"></span>
+                                        </div>
+                                        <div class="widget-filter-bottom">
+                                            <a href="#" class="add-to-cart-button">
+                                                <span>FILTER</span>
+                                            </a>
+                                            <div class="widget-filter-price">
+                                                <b>Price: </b> £<span class="range-slider-leftlabel"></span> - £<span class="range-slider-rightlabel"></span>
+                                            </div>
+                                        </div>
+                                        
+                                    </div>
+                                </aside> -->
+
                             </div>
                         </div>
                         <!--// Widgets -->
