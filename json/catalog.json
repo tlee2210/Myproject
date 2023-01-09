@@ -3,20 +3,20 @@
         "Name":"Shirts",
         "Id":500,
         "Img":"img/genres/Akoa/Pol_shirts_B.jpg",
-        "total":34
+        "total":17
     },
     {
         "Name":"Skirts",
         "Id":510,
         "Img":"img/genres/Banner/Skirts.jpg",
-        "total":12
+        "total":6
 
     },
     {
         "Name":"Frocks",
         "Id":520,
         "Img":"img/genres/David/Frocks.jpg",
-        "total":6
+        "total":3
     },
     {
         "Name":"PT.T-shirts",
@@ -43,35 +43,35 @@
         "Name":"Belts",
         "Id":580,
         "Img":"img/genres/David/Belts_B.jpg",
-        "total":10
+        "total":5
 
     },
     {
         "Name":"Ties",
         "Id":590,
         "Img":"img/genres/David/Ties_B.jpg",
-        "total":10
+        "total":5
 
     },
     {
         "Name":"Socks",
         "Id":600,
         "Img":"img/genres/Akoa/Socks.jpg",
-        "total":6
+        "total":3
 
     },
     {
         "Name":"Tops",
         "Id":620,
         "Img":"img/genres/Chadwick/Tops.jpg",
-        "total":10
+        "total":7
 
     },
     {
         "Name":"Hoodies",
         "Id":630,
         "Img":"img/genres/Chadwick/Hoodies.jpg",
-        "total":18
+        "total":9
 
     },
     
@@ -79,14 +79,14 @@
         "Name":"Skort",
         "Id":650,
         "Img":"img/genres/Chadwick/Skorts.jpg",
-        "total":28
+        "total":6
 
     },
     {
         "Name":"Logo",
         "Id":660,
         "Img":"img/genres/Logo/lg1.jpg",
-        "total":12
+        "total":3
 
     }
 ]

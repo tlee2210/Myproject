@@ -1565,6 +1565,10 @@ blockquote {
 .h-10 {
   height: 10%;
 }
+/*section-margin*/
+.section-margin{
+  margin-top: 30px;
+}
 
 /* Section padding */
 .section-padding-xlg {
@@ -5710,6 +5714,7 @@ a:visited{
 a:hover{
   color:#000;
 }
+
 /*****************************************/
 /*>>>>>>>>>>>>>>>(THE END)<<<<<<<<<<<<<<<*/
 /*****************************************/
