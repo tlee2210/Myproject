@@ -1,19 +1,19 @@
 [
     {
         "Type": "liveshow-main",
-        "img": "img/slider/1.jpg"
+        "img": "../img/slider/1.jpg"
     },
     {
         "Type": "liveshow",
-        "img": "img/slider/2.jpg"
+        "img": "../img/slider/2.jpg"
     },
     {
         "Type": "liveshow",
-        "img":"img/slider/3.jpg"
+        "img":"../img/slider/3.jpg"
     },
     {
         "Type": "liveshow",
-        "img": "img/slider/4.jpg"
+        "img": "../img/slider/4.jpg"
     }
 ]
    
