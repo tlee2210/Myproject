@@ -21,19 +21,16 @@
 
                             <!-- Shop Page Toolbars -->
                             <div class="shop-page-toolbars">
-
-                                <!-- <div class="shop-toolbar-items-count">Showing 1–9 of 20 results</div> -->
-
-                                <div class="shop-toolbar-sortby">
+                                <div class="shop-toolbar-sortby" >
                                     <span>Sort By</span>
-                                    <select name="shop-toolbar-sortby">
-                                        <option value="0">Default Sorting</option>
-                                        <option value="1">Sort By Popularity</option>
-                                        <option value="2">Sort By Price</option>
-                                        <option value="3">Sort By Recent</option>
+                                    <select name="shop-toolbar-sortby" ng-model="sortProduct">
+                                        <option value="">Default Sorting</option>
+                                        <option value="Name">Sort by Name: A-Z</option>
+                                        <option value="-Name">Sort by Name: Z-A</option>
+                                        <option  value="Price">Sort by Price: Low to High</option>
+                                        <option value="-Price">Sort by Price: High to Low</option>
                                     </select>
                                 </div>
-
                             </div>
                             <!--// Shop Page Toolbars -->
 
@@ -41,7 +38,7 @@
                             <div class="row justify-content-center shop-page-products products-wrapper">
 
                                 <!-- Single Product -->
-                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in brandsList | paginate:currentPage:pageSize">
+                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in brandsList | paginate:currentPage:pageSize | orderBy:sortProduct">
                                     <div class="product-item">
 
                                         <div class="product-item-images">
