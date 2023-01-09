@@ -9,7 +9,7 @@
                     <div class="shop-breadcrumb">
                         <ul>
                             <li><a href="index.html">Home</a></li>
-                            <li>Shop</li>
+                            <li>{{x.name}}</li>
                         </ul>
                     </div>
                     <!--// Shop Breadcrumb -->
@@ -88,7 +88,7 @@
                             <div class="widgets">
 
                                 <aside class="single-widget widget-categories" >
-                                    <h6 class="widget-title">by Genres</h6>
+                                    <h6 class="widget-title">By Genres</h6>
                                     <ul >  
                                         <li ng-repeat= "genres in productList">
                                             <a href="#!/genres/{{genres.Name}}">{{genres.Name}} 
