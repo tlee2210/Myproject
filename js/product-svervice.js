@@ -3,23 +3,23 @@ angular.module("myApp.product-svervice", [])
         var productAPI = {};
 
         productAPI.getProduct = function(){
-            return $http.get("../json/product.json");
+            return $http.get("json/product.json");
         }
         
         productAPI.getHome = function(){
-            return $http.get("../json/home.json");
+            return $http.get("json/home.json");
         }
 
         productAPI.getBrands = function(){
-            return $http.get("../json/brands.json");
+            return $http.get("json/brands.json");
         }
 
         productAPI.getcatalog = function(){
-            return $http.get("../json/catalog.json");
+            return $http.get("json/catalog.json");
         }
 
         productAPI.getlogo = function(){
-            return $http.get("../json/logo.json");
+            return $http.get("json/logo.json");
         }
         
         return productAPI;
