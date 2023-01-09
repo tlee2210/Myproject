@@ -2,69 +2,91 @@
     {
         "Name":"Shirts",
         "Id":500,
-        "Img":"img/genres/Akoa/Pol_shirts_B.jpg"
+        "Img":"img/genres/Akoa/Pol_shirts_B.jpg",
+        "total":34
     },
     {
         "Name":"Skirts",
         "Id":510,
-        "Img":"img/genres/Banner/Skirts.jpg"
+        "Img":"img/genres/Banner/Skirts.jpg",
+        "total":12
 
     },
     {
         "Name":"Frocks",
         "Id":520,
-        "Img":"img/genres/David/Frocks.jpg"
+        "Img":"img/genres/David/Frocks.jpg",
+        "total":6
     },
     {
         "Name":"PT.T-shirts",
         "Id":530,
-        "Img":"img/genres/Banner/P.T_T-shirts1.jpg"
+        "Img":"img/genres/Banner/P.T_T-shirts1.jpg",
+        "total":3
 
     },
     {
         "Name":"PT.shorts",
         "Id":540,
-        "Img":"img/genres/Banner/Short.jpg"
+        "Img":"img/genres/Banner/Short.jpg",
+        "total":9
+
     },
     {
         "Name":"PT.track pants",
         "Id":550,
-        "Img":"img/genres/Akoa/Track_Leggings_B.jpg"
+        "Img":"img/genres/Akoa/Track_Leggings_B.jpg",
+        "total":4
+
     },
     {
         "Name":"Belts",
         "Id":580,
-        "Img":"img/genres/David/Belts_B.jpg"
+        "Img":"img/genres/David/Belts_B.jpg",
+        "total":10
+
     },
     {
         "Name":"Ties",
         "Id":590,
-        "Img":"img/genres/David/Ties_B.jpg"
+        "Img":"img/genres/David/Ties_B.jpg",
+        "total":10
+
     },
     {
         "Name":"Socks",
         "Id":600,
-        "Img":"img/genres/Akoa/Socks.jpg"
+        "Img":"img/genres/Akoa/Socks.jpg",
+        "total":6
+
     },
     {
         "Name":"Tops",
         "Id":620,
-        "Img":"img/genres/Chadwick/Tops.jpg"
+        "Img":"img/genres/Chadwick/Tops.jpg",
+        "total":10
+
     },
     {
         "Name":"Hoodies",
         "Id":630,
-        "Img":"img/genres/Chadwick/Hoodies.jpg"
+        "Img":"img/genres/Chadwick/Hoodies.jpg",
+        "total":18
+
     },
     
     {
         "Name":"Skort",
         "Id":650,
-        "Img":"img/genres/Chadwick/Skorts.jpg"
+        "Img":"img/genres/Chadwick/Skorts.jpg",
+        "total":28
+
     },
     {
         "Name":"Logo",
         "Id":660,
-        "Img":"img/genres/Logo/lg1.jpg"
+        "Img":"img/genres/Logo/lg1.jpg",
+        "total":12
+
     }
 ]
