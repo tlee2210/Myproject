@@ -12,7 +12,7 @@ Group members Name Student ID
           	Student1420696	Le Thanh Thien
 ============================
 
-eProject documentation at: https://github.com/levietdongqt/Persol/tree/main/Review
+eProject documentation at: https://github.com/tlee2210/Myproject/tree/main/Review
 
 ============================
 
