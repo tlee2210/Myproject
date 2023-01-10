@@ -78,6 +78,7 @@ angular.module("feedback", [])
         else
         {
             alert("Successfully sent!");
+            return;
         }
         
     }
