@@ -16,13 +16,15 @@
 		<div class="checkout-area bg-white section-padding-md">
 			<div class="container">
 
-				<div class="checkout-info">
+				<!--<div class="checkout-info">
 					<i class="fa fa-window-maximize"></i>
 					Returning customer? <a class="checkout-info-login-trigger" href="#">Click here to login</a>
 				</div>
+				-->
 
 				<div class="checkout-info-collapsebox">
-					<form action="#" class="sn-form sn-form-boxed checkout-info-login">
+					<form name="formLOG" id="formLOG"
+					onsubmit="checkLogin()" class="sn-form sn-form-boxed checkout-info-login">
 						<div class="sn-form-inner">
 							<div class="single-input">
 								<label for="login-form-email">Username or email address *</label>
@@ -41,16 +43,18 @@
 									<label for="login-form-remember">Remember me</label>
 								</div>
 							</div>
+							<!--
 							<div class="single-input">
 								<a href="#">Lost your password?</a>
 							</div>
+							-->
 						</div>
 					</form>
 				</div>
 
 				<div class="checkout-info">
 					<i class="fa fa-window-maximize"></i>
-					Have a coupon? <a class="checkout-info-coupon-trigger" href="#">Click here to enter your code</a>
+					Have a coupon?
 				</div>
 
 				<div class="checkout-info-collapsebox">
