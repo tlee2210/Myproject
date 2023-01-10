@@ -67,3 +67,19 @@ angular.module("feedback", [])
     .controller("feedback", ["$scope", "$http", function($scope, $http){
                 
     }])
+    function checkform(){
+        
+        var d=document.getElementById("email").value;
+        
+     if(d == " ")
+        {
+            alert("Don't forget to send your message with us!");
+        }
+        else
+        {
+            alert("Successfully sent!");
+        }
+        
+    }
+    
+    
