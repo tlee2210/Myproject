@@ -49,9 +49,7 @@
                     <a class="nav-link active" id="products-of-mens-tab" data-bs-toggle="tab" href="#products-of-mens"
                         role="tab" aria-controls="products-of-mens" aria-selected="false">List of catalog</a>
                 </li>
-            </ul>
-
-            <!-- boy list -->
+            </ul>>
             <div class="tab-content" id="myTabContent">
                 <div class="tab-pane fade show active" id="products-of-mens" role="tabpanel"
                     aria-labelledby="products-of-mens-tab">
@@ -78,6 +76,37 @@
                         </div>
                         <!--// Single Product -->
 
+
+                        <ul class="nav products-tab-trigger" id="myTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="products-of-mens-tab" data-bs-toggle="tab" href="#products-of-mens"
+                                    role="tab" aria-controls="products-of-mens" aria-selected="false">logo DETAILS</a>
+                            </li>
+                        </ul>
+
+                        <!-- Single Product -->
+                        <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in logo | filter:'Logo':true">
+                            <div class="product-item">
+
+                                <div class="product-item-images">
+                                    <a href="#!/genres/{{x.Name}}" class="product-item-image-inner">
+                                        <img ng-src="{{x.Img}}"alt="product image">
+                                    </a>
+                                    <a href="#!/product/{{x.Id}}" class="add-to-cart-button">
+                                        <span>DETAILS</span>
+                                    </a>
+                                </div>
+
+                                <div class="product-item-content">
+                                    <div class="product-item-content-left">
+                                        <h4><a href="#!/genres/{{x.Name}}">{{x.Name}}</a></h4>
+                                        
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!--// Single Product -->
                     </div>
                 </div>
             </div>
@@ -138,8 +167,9 @@
                         </form>
                     </div>
                 </div>
-                </div>
                 <!--// Newsletter -->
+
+                <!-- Brand Logo -->
                 <div class="col-lg-8">
                     <ul ng-repeat="x in logolist" class="img_logo">
                         <li>
@@ -147,6 +177,7 @@
                         </li>
                     </ul>
                 </div>
+                <!--// Brand Logo -->
 
             </div>
         </div>
