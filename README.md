@@ -29,7 +29,7 @@ The Website is to be created based on the following requirements:
 3) It is necessary to provide a Filter / Search bar for users to choose the desired product, brand, price
 
 4) Information should be categorized by Uniform Brand Name, for example if User wants to see any 1 brand then he clicks on that brand button and he will see only those Brand uniforms, etc.
-=============================
+
 5) User should be allowed to provide Ratings about products.
 
 6) About Us and Contact Us: This menu option should display Email ID, Address, and Contact Number.
