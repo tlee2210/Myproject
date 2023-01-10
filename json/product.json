@@ -1737,9 +1737,8 @@
         "Name":"LOGO A01",
         "Img":"img/genres/Logo/lg1.jpg",
         "Gender":[
-            {
-              "Name":""
-            }
+            {"Name":"Boy"},
+            {"Name":"Girl"}
         ],
         "Color": "Basic Blue",
         "Price": 29,
@@ -1759,9 +1758,8 @@
         "Name":"LOGO A02",
         "Img":"img/genres/Logo/lg2.jpg",
         "Gender":[
-            {
-              "Name":""
-            }
+            {"Name":"Boy"},
+            {"Name":"Girl"}
         ],
         "Color": "Basic Blue",
         "Price": 22,
@@ -1781,9 +1779,8 @@
         "Name":"LOGO A03",
         "Img":"img/genres/Logo/lg3.jpg",
         "Gender":[
-            {
-              "Name":""
-            }
+            {"Name":"Boy"},
+            {"Name":"Girl"}
         ],
         "Color": "Basic Blue",
         "Price": 27,
