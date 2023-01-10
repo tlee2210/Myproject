@@ -12,6 +12,12 @@ angular.module("myApp.home",[])
             // console.log($scope.cataloglist);
         })
 
+        productAPIservice.getProduct().then(function(reponse){
+            var data = reponse.data;
+            $scope.logo = data
+            console.log($scope.logo);
+        })
+
 
 
     }])
