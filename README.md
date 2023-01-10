@@ -2,7 +2,8 @@
 ========> Group 1 <=========
 # jsnpire shop
 
-![1](https://user-images.githubusercontent.com/109102523/211561993-e75bd123-4016-4549-b871-b0d5e43ead0f.jpg)
+![1](https://user-images.githubusercontent.com/109102523/211562345-a4afcda9-6290-4a24-b66c-118d298dee39.jpg)
+
 
 *************************************
 WELCOME TO OUR PROJECT
