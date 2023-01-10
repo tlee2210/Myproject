@@ -254,7 +254,7 @@
 			var a=document.getElementById("name").value;
 			var b=document.getElementById("email").value;
 			var c=document.getElementById("message").value;
-		   
+			var d=document.getElementById("email1").value;
 			if(a == " ")
 			{
 				alert("Please enter your name!");
@@ -267,12 +267,17 @@
 			{
 				alert("Don't forget to send your message with us!");
 			}
+			else if(d == " ")
+			{
+				alert("Don't forget to send your message with us!");
+			}
 			else
 			{
 				alert("Successfully sent!");
 			}
 		}
 	</script>
+
 	<!-- Js Files -->
 	<script src="js/vendor/modernizr-3.11.2.min.js"></script>
 	<script src="js/vendor/jquery-3.6.0.min.js"></script>
