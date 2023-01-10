@@ -1,15 +1,6 @@
 
 ========> Group 1 <=========
-
-4 collaborators:
-
-Group members Name Student ID
-
-                   
-          	Student1416070	Nguyen Ngoc Thanh Chuong
-	        Student1420703	Quang Đai Vi
-	        Student1418261	Đinh The Dan
-          	Student1420696	Le Thanh Thien
+		
 ============================
 
 eProject documentation at: https://github.com/tlee2210/Myproject/tree/main/Review
@@ -78,23 +69,22 @@ The Website is to be created based on the following requirements:
 WAYS TO GREAT THINGS
 *************************************
 
-1) Trailer: https://www.youtube.com/watch?v=mazuJ-lh39w
+1) Trailer: link
 
-2) Explore our dedicated website: https://naymihtah.github.io/blackandblue/#!/
+2) Explore our dedicated website: 
 
-3) Review - Documents: https://www.mediafire.com/folder/4rgc8prnpnjtk/review-documents
+3) Review - Documents:
 
-4) Backup Files: https://www.mediafire.com/file/w5m7ucnqbk5ny8u/G5_Black_And_Blue.rar/file
+4) Backup Files: link
 
 *************************************
 COLLABORATORS
 *************************************
-
-1) Nguyen Thi Thanh Thao - Student1416059
-
-2) Ha Thi My An - Student1416001
-
-3) Diep Kinh Nhan - Student1420713
+Group members Name Student ID
+          	Student1416070	Nguyen Ngoc Thanh Chuong
+	        Student1420703	Quang Đai Vi
+	        Student1418261	Đinh The Dan
+          	Student1420696	Le Thanh Thien
 
 *************************************
 INSTRUCTOR
