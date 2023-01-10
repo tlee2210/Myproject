@@ -1800,9 +1800,8 @@
         "Name":"LOGO A04",
         "Img":"img/genres/Logo/lg4.jpg",
         "Gender":[
-            {
-              "Name":""
-            }
+            {"Name":"Boy"},
+            {"Name":"Girl"}
         ],
         "Color": "Basic Blue",
         "Price": 27,
