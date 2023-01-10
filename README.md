@@ -57,7 +57,7 @@ Nguyen Ngoc Thanh Chuong  	Student1416070
 ----------------------------------------------
 Quang Đai Vi 			Student1420703
 ----------------------------------------------
-Đinh The Dan  			Student1418261
+Đinh The Dan			Student1418261
 	
 	
 
