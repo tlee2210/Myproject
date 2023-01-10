@@ -113,8 +113,8 @@
 					<div class="col-lg-4">
 						<div class="newsletterbox" >
 							<h5>SIGN UP FOR OUR WEEKLY NEWSLETTER !</h5>
-							<form onsubmit="checkform()">
-								<input type="email" placeholder="Email" id="email1" required>
+							<form>
+								<input type="email" placeholder="Email" id="email" required>
 								<button type="submit" value="submit"><span>Subscribe</span></button>
 							</form>
 						</div>
@@ -135,7 +135,6 @@
         var a=document.getElementById("name").value;
         var b=document.getElementById("email").value;
         var c=document.getElementById("message").value;
-		var d=document.getElementById("email1").value;
         if(a == " ")
         {
             alert("Please enter your name!");
@@ -145,10 +144,6 @@
             alert("Please enter your email address!");
         }
         else if(c == " ")
-        {
-            alert("Don't forget to send your message with us!");
-        }
-		else if(d == " ")
         {
             alert("Don't forget to send your message with us!");
         }
