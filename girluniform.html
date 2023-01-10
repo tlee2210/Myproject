@@ -147,14 +147,14 @@
 
 						<!-- Newsletter -->
 						<div class="col-lg-4">
-							<div class="newsletterbox">
-								<h5>SIGN UP FOR OUR WEEKLY NEWSLETTER !</h5>
-								<form>
-									<input type="text" placeholder="Email" required>
-									<button type="submit">Subscribe</button>
-								</form>
-							</div>
-						</div>
+                            <div class="newsletterbox" >
+                                <h5>SIGN UP FOR OUR WEEKLY NEWSLETTER !</h5>
+                                <form onsubmit="checkform()">
+                                    <input type="text" placeholder="Email" id="email1" required>
+                                    <button type="submit" value="submit"onsubmit="checkform()"><span>Subscribe</span></button>
+                                </form>
+                            </div>
+                        </div>
 						<!--// Newsletter -->
 
 						<!-- Brand Logo -->
@@ -175,3 +175,31 @@
 		</main>
 		<!--// Page Conttent -->
 </div>
+<script>
+    function checkform(){
+        var a=document.getElementById("name").value;
+        var b=document.getElementById("email").value;
+        var c=document.getElementById("message").value;
+		var d=document.getElementById("email1").value;
+        if(a == " ")
+        {
+            alert("Please enter your name!");
+        }
+        else if(b == " ")
+        {
+            alert("Please enter your email address!");
+        }
+        else if(c == " ")
+        {
+            alert("Don't forget to send your message with us!");
+        }
+		else if(d == " ")
+        {
+            alert("Don't forget to send your message with us!");
+        }
+        else
+        {
+            alert("Successfully sent!");
+        }
+    }
+</script>
