@@ -1786,5 +1786,27 @@
         "Price": 27,
         "Description": "Logo for school, university.",
         "Details":""
+    },
+    {
+        "Id": 82,
+        "Brands": [{
+            "Id":"",
+            "Name":""
+        }],
+        "Type":[{
+            "Name":"Logo",
+            "Id":"L01"        
+        }],
+        "Name":"LOGO A04",
+        "Img":"img/genres/Logo/lg4.jpg",
+        "Gender":[
+            {
+              "Name":""
+            }
+        ],
+        "Color": "Basic Blue",
+        "Price": 27,
+        "Description": "Logo for school, university.",
+        "Details":""
     }
 ]
