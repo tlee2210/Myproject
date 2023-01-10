@@ -8,8 +8,8 @@
                     <!-- Shop Breadcrumb -->
                     <div class="shop-breadcrumb">
                         <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li>Shop</li>
+                            <li><a href="#!">Home</a></li>
+                            <li></li>
                         </ul>
                     </div>
                     <!--// Shop Breadcrumb -->
@@ -38,7 +38,7 @@
                             <div class="row justify-content-center shop-page-products products-wrapper">
 
                                 <!-- Single Product -->
-                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in gender | filter:'Boy':true | paginate:currentPage:pageSize | orderBy:sortProduct"">
+                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12" ng-repeat="x in gender | filter:'Boy':true | paginate:currentPage:pageSize | orderBy:sortProduct | filter:search">
                                     <div class="product-item">
 
                                         <div class="product-item-images">
@@ -61,7 +61,7 @@
                                                     <span><i class="fa fa-star"></i></span>
                                                 </div>
                                                 <div class="price-box">
-                                                    <span class="pricebox-price">£{{x.Price}}</span>
+                                                    <span class="pricebox-price">{{x.Price | currency}}</span>
                                                 </div>
                                             </div>
                                         
