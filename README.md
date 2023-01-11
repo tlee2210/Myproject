@@ -42,7 +42,7 @@ The Website is to be created based on the following requirements:
 WAYS TO GREAT THINGS
 *************************************
 
-1) Trailer: https://www.youtube.com/watch?v=Aqx5EeGtbpI
+1) Trailer: https://www.youtube.com/watch?v=5m9kdYEOFZk
 
 2) Explore our dedicated website:  https://tlee2210.github.io/Myproject/#!/
 
