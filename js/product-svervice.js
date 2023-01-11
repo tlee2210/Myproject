@@ -22,5 +22,8 @@ angular.module("myApp.product-svervice", [])
             return $http.get("json/logo.json");
         }
         
+        productAPI.getmember = function(){
+            return $http.get("json/aboutus.json");
+        }
         return productAPI;
     }]) 
