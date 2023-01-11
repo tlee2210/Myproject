@@ -59,8 +59,12 @@ angular.module("contact", [])
     }])
 
 angular.module("aboutus", [])
-    .controller("aboutus", ["$scope", "$http", function($scope, $http){
-                
+    .controller("aboutus", ["$scope", "productAPIservice", function($scope, productAPIservice){
+        productAPIservice.getmember().then(function(reponse){
+            var data = reponse.data;
+            $scope.memberlist = data;
+            // console.log($scope.memberlist);
+        })
     }])
 
 angular.module("feedback", [])
