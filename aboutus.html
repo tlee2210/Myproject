@@ -10,15 +10,12 @@
 	<!--// Bradcrumb Area -->  
 
 
-	
-
 	<!-- Page Conttent -->
 	<main class="page-content">
 
 		<!-- About Page Area -->
 		<div class="about-area section-padding-sm">
 			<div class="container">
-
 				<div class="row justify-content-center">
 					<div class="col-lg-10">
 						<div class="section-title text-center">
@@ -27,21 +24,6 @@
 						</div>
 					</div>
 				</div>
-				><!--
-				<div class="row align-items-center">
-					<div class="col-lg-7">
-						<div class="about-image">
-							<img src="img/aboutus-img/daivi.jpg" alt="beautiful girl">
-						</div>
-					</div>
-					<div class="col-lg-5">
-						<div class="about-content">
-							<p>THE REPRESENTATIVE FACE OF OUR GROUP</p>
-							<h3>QUANG<span> DAI VI</span></h3>
-						</div>
-					</div>
-				</div>
-				-->
 			</div>
 		</div>
 		<!--// About Page Area -->
@@ -52,61 +34,19 @@
 				<div class="row justify-content-center">
 					
 					<!-- Single Team Member -->
-					<div class="col-lg-3 col-md-6 col-12">
+					<div class="col-lg-3 col-md-6 col-12" ng-repeat="x in memberlist">
 						<div class="team-member">
 							<div class="team-member-thumb">
-								<img src="img/team-member/team-member-1.jpg" alt="beautiful men">
+								<img ng-src="{{x.Img}}" alt="beautiful men">
 							</div>
 							<div class="team-member-content">
-								<h5>NGUYEN NGOC</h5>
-								<h5>THANH CHUONG</h5>
+								<h5>{{x.Name}}</h5>
 							</div>
 						</div>
 					</div>
 					<!--// Single Team Member -->
 
-					<!-- Single Team Member -->
-					<div class="col-lg-3 col-md-6 col-12">
-						<div class="team-member">
-							<div class="team-member-thumb">
-								<img src="img/team-member/team-member-2.jpg" alt="beautiful men">
-							</div>
-							<div class="team-member-content">
-								<h5>LE</h5>
-								<h5>THANH THIEN</h5>
-							</div>
-						</div>
-					</div>
-					<!--// Single Team Member -->
-
-					<!-- Single Team Member -->
-					<div class="col-lg-3 col-md-6 col-12">
-						<div class="team-member">
-							<div class="team-member-thumb">
-								<img src="img/team-member/team-member-3.jpg" alt="beautiful men">
-							</div>
-							<div class="team-member-content">
-								<h5>DINH</h5>
-								<h5>THE DAN</h5>
-							</div>
-						</div>
-					</div>
-					<!--// Single Team Member -->
-
-					<!-- Single Team Member -->
-					<div class="col-lg-3 col-md-6 col-12">
-						<div class="team-member">
-							<div class="team-member-thumb">
-								<img src="img/team-member/team-member-4.jpg" alt="beautiful men">
-							</div>
-							<div class="team-member-content">
-								<h5>QUANG</h5>
-								<h5>DAI VI</h5>
-							</div>
-						</div>
-					</div>
-					<!--// Single Team Member -->
-
+	
 				</div>
 			</div>
 		</div>
